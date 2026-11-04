@@ -1,0 +1,28 @@
+{
+  "backup": "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\output\\Music_Demos_before_headroom_20261024_123756",
+  "original_projects": {
+    "01_city_lights_full.tang.json": "4179a0130992f908e31fec2858cd4ad95c741303bc87b7e63692c268e4bec9b9",
+    "01_city_lights_short.tang.json": "ef0402db3701995217c691b3319ed71abcb2809a9a41cd1c862cc6a66e43cb05",
+    "02_rain_cafe_full.tang.json": "ea892cb29d8d842a2ac763aa75af83e615f66ddac357992a5bf4fee9db48ef36",
+    "02_rain_cafe_short.tang.json": "04baafdb9fb74c7ee3993bae37de4f09793f2e7dda31a9dd8f91a6f7058ad8fb",
+    "03_northern_letter_full.tang.json": "833a983469b5373a0ca4a2fd32381957467c036e9aa3aaff0da31d4d851f570d",
+    "03_northern_letter_short.tang.json": "a8abd1b8364cd2a2c46c422e217f751cde1df941ea8159d3044560d61a30602a",
+    "04_red_engine_full.tang.json": "059cbc3f645049a2f6b576ca07e1c1767537024e0f0791361d6ebff9b5ee0980",
+    "04_red_engine_short.tang.json": "3078098c29fbffc7989423ac0b79ecb94c6db648af39d411bf9929344f813e6e",
+    "05_stellar_voyage_full.tang.json": "d0124a13f1ff6f09552ef0067226cd8bb4e41b5cb81700d9fc7c99cb34426f96",
+    "05_stellar_voyage_short.tang.json": "d5d36636964b22a045ce28e09e8e3966e81144df0a77c0f30104be6ddcfa8a21",
+    "06_neon_runway_full.tang.json": "cfda422214075248439fa4d78164c10a81836df7374a349b29fb8a4e8a595648",
+    "06_neon_runway_short.tang.json": "90e5f663f098db5480071e67bc4b39e6a030a81e6043cc54c87c59a3312824b3",
+    "g01_iron_highway_full.tang.json": "b2566b47e008db15a1bbaedb56f32c271ef2092a6da8b137ad364758a21bb5f4",
+    "g01_iron_highway_short.tang.json": "45af45306cdc507474cea269248e808130d93b505213567eb905a022898b4b04",
+    "p01_window_letter_full.tang.json": "b7fb5333a5977451eb2d8768e70d4aabb13ff21928def8c5b4b4aa13a78fcc52",
+    "p01_window_letter_short.tang.json": "29e55a42371156a5f91dae61c7bbcf746b1852e23c9b6329cf4479a9ef0cc2f1",
+    "p02_blue_platform_full.tang.json": "41140e0e11c465b4d90d537b4f268a102a50d841b4a549a029e4efa8ac39b656",
+    "p02_blue_platform_short.tang.json": "c7eda24b97677cba7592af489861be3487e57dd94e02c7fe8be977b6e354e360",
+    "p03_after_rain_full.tang.json": "7cbbf3fe4ce2bea55da8b8a02487579f210c131d2d6b40f0f8246335730a9532",
+    "p03_after_rain_short.tang.json": "c080789880fa1a3d30dbb2181c700be734c20cca561c0548975d184b797647c5"
+  },
+  "original_builtin_model_sha256": "dfd80f2da48aa4305f45096d021d020348dd0cb492a554a14c8ae717c41b1e7d",
+  "FPGA_written": false,
+  "ESP_written": false
+}

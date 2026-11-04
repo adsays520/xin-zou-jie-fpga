@@ -1,0 +1,2175 @@
+{
+  "name": "山海 · 高音副歌与收束20秒试听",
+  "bpm": 96,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "guitar",
+      "name": "01 主旋律·吉他（按用户谱）",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "谱第52小节 · 吉他主旋律",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-51-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-51-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 390,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-51-note-2"
+            },
+            {
+              "start": 1380,
+              "duration": 60,
+              "pitch": 78,
+              "velocity": 93,
+              "id": "g03-track-0-bar-51-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-51-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-51-note-5"
+            }
+          ],
+          "id": "g03-track-0-bar-51"
+        },
+        {
+          "name": "谱第52小节 · 吉他主旋律",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 180,
+              "duration": 180,
+              "pitch": 78,
+              "velocity": 93,
+              "id": "g03-track-0-bar-52-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-52-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-52-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 390,
+              "pitch": 73,
+              "velocity": 108,
+              "id": "g03-track-0-bar-52-note-3"
+            },
+            {
+              "start": 1380,
+              "duration": 60,
+              "pitch": 73,
+              "velocity": 93,
+              "id": "g03-track-0-bar-52-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 390,
+              "pitch": 83,
+              "velocity": 108,
+              "id": "g03-track-0-bar-52-note-5"
+            },
+            {
+              "start": 1860,
+              "duration": 60,
+              "pitch": 83,
+              "velocity": 93,
+              "id": "g03-track-0-bar-52-note-6"
+            }
+          ],
+          "id": "g03-track-0-bar-52"
+        },
+        {
+          "name": "谱第54小节 · 吉他主旋律",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-53-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 390,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-53-note-1"
+            },
+            {
+              "start": 660,
+              "duration": 390,
+              "pitch": 80,
+              "velocity": 93,
+              "id": "g03-track-0-bar-53-note-2"
+            },
+            {
+              "start": 1080,
+              "duration": 360,
+              "pitch": 80,
+              "velocity": 92,
+              "id": "g03-track-0-bar-53-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-53-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-53-note-5"
+            }
+          ],
+          "id": "g03-track-0-bar-53"
+        },
+        {
+          "name": "谱第55小节 · 吉他主旋律",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 73,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 390,
+              "pitch": 83,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-3"
+            },
+            {
+              "start": 1140,
+              "duration": 60,
+              "pitch": 83,
+              "velocity": 93,
+              "id": "g03-track-0-bar-54-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-54-note-7"
+            }
+          ],
+          "id": "g03-track-0-bar-54"
+        },
+        {
+          "name": "谱第56小节 · 吉他主旋律",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-55-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 390,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-55-note-1"
+            },
+            {
+              "start": 1140,
+              "duration": 60,
+              "pitch": 78,
+              "velocity": 93,
+              "id": "g03-track-0-bar-55-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-55-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 390,
+              "pitch": 78,
+              "velocity": 108,
+              "id": "g03-track-0-bar-55-note-4"
+            },
+            {
+              "start": 1860,
+              "duration": 60,
+              "pitch": 78,
+              "velocity": 93,
+              "id": "g03-track-0-bar-55-note-5"
+            }
+          ],
+          "id": "g03-track-0-bar-55"
+        },
+        {
+          "name": "谱第57小节 · 吉他主旋律",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 120,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-56-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-56-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 390,
+              "pitch": 73,
+              "velocity": 108,
+              "id": "g03-track-0-bar-56-note-2"
+            },
+            {
+              "start": 1140,
+              "duration": 300,
+              "pitch": 73,
+              "velocity": 93,
+              "id": "g03-track-0-bar-56-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 80,
+              "velocity": 108,
+              "id": "g03-track-0-bar-56-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 73,
+              "velocity": 108,
+              "id": "g03-track-0-bar-56-note-5"
+            }
+          ],
+          "id": "g03-track-0-bar-56"
+        },
+        {
+          "name": "短版·C#m收束",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 336,
+              "pitch": 73,
+              "velocity": 101,
+              "id": "g03-track-0-bar-6-note-0"
+            },
+            {
+              "start": 420,
+              "duration": 336,
+              "pitch": 73,
+              "velocity": 94,
+              "id": "g03-track-0-bar-6-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 336,
+              "pitch": 73,
+              "velocity": 87,
+              "id": "g03-track-0-bar-6-note-2"
+            }
+          ],
+          "id": "g03-track-0-bar-6"
+        }
+      ],
+      "id": "g03-track-0"
+    },
+    {
+      "instrument": "guitar",
+      "name": "02 吉他·分解与正反扫弦",
+      "level": 74,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 230,
+              "pitch": 45,
+              "velocity": 70,
+              "id": "g03-track-1-bar-51-note-0"
+            },
+            {
+              "start": 18,
+              "duration": 230,
+              "pitch": 52,
+              "velocity": 67,
+              "id": "g03-track-1-bar-51-note-1"
+            },
+            {
+              "start": 36,
+              "duration": 230,
+              "pitch": 57,
+              "velocity": 64,
+              "id": "g03-track-1-bar-51-note-2"
+            },
+            {
+              "start": 54,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 61,
+              "id": "g03-track-1-bar-51-note-3"
+            }
+          ],
+          "id": "g03-track-1-bar-51"
+        },
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 230,
+              "pitch": 47,
+              "velocity": 70,
+              "id": "g03-track-1-bar-52-note-0"
+            },
+            {
+              "start": 18,
+              "duration": 230,
+              "pitch": 54,
+              "velocity": 67,
+              "id": "g03-track-1-bar-52-note-1"
+            },
+            {
+              "start": 36,
+              "duration": 230,
+              "pitch": 59,
+              "velocity": 64,
+              "id": "g03-track-1-bar-52-note-2"
+            },
+            {
+              "start": 54,
+              "duration": 230,
+              "pitch": 63,
+              "velocity": 61,
+              "id": "g03-track-1-bar-52-note-3"
+            }
+          ],
+          "id": "g03-track-1-bar-52"
+        },
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 60,
+              "duration": 230,
+              "pitch": 49,
+              "velocity": 79,
+              "id": "g03-track-1-bar-53-note-0"
+            },
+            {
+              "start": 78,
+              "duration": 230,
+              "pitch": 56,
+              "velocity": 76,
+              "id": "g03-track-1-bar-53-note-1"
+            },
+            {
+              "start": 96,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 73,
+              "id": "g03-track-1-bar-53-note-2"
+            },
+            {
+              "start": 114,
+              "duration": 230,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "g03-track-1-bar-53-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 230,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "g03-track-1-bar-53-note-4"
+            },
+            {
+              "start": 1218,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 67,
+              "id": "g03-track-1-bar-53-note-5"
+            },
+            {
+              "start": 1236,
+              "duration": 230,
+              "pitch": 56,
+              "velocity": 64,
+              "id": "g03-track-1-bar-53-note-6"
+            },
+            {
+              "start": 1254,
+              "duration": 230,
+              "pitch": 49,
+              "velocity": 61,
+              "id": "g03-track-1-bar-53-note-7"
+            }
+          ],
+          "id": "g03-track-1-bar-53"
+        },
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 60,
+              "duration": 230,
+              "pitch": 49,
+              "velocity": 79,
+              "id": "g03-track-1-bar-54-note-0"
+            },
+            {
+              "start": 78,
+              "duration": 230,
+              "pitch": 56,
+              "velocity": 76,
+              "id": "g03-track-1-bar-54-note-1"
+            },
+            {
+              "start": 96,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 73,
+              "id": "g03-track-1-bar-54-note-2"
+            },
+            {
+              "start": 114,
+              "duration": 230,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "g03-track-1-bar-54-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 230,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "g03-track-1-bar-54-note-4"
+            },
+            {
+              "start": 1218,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 67,
+              "id": "g03-track-1-bar-54-note-5"
+            },
+            {
+              "start": 1236,
+              "duration": 230,
+              "pitch": 56,
+              "velocity": 64,
+              "id": "g03-track-1-bar-54-note-6"
+            },
+            {
+              "start": 1254,
+              "duration": 230,
+              "pitch": 49,
+              "velocity": 61,
+              "id": "g03-track-1-bar-54-note-7"
+            }
+          ],
+          "id": "g03-track-1-bar-54"
+        },
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 60,
+              "duration": 230,
+              "pitch": 45,
+              "velocity": 79,
+              "id": "g03-track-1-bar-55-note-0"
+            },
+            {
+              "start": 78,
+              "duration": 230,
+              "pitch": 52,
+              "velocity": 76,
+              "id": "g03-track-1-bar-55-note-1"
+            },
+            {
+              "start": 96,
+              "duration": 230,
+              "pitch": 57,
+              "velocity": 73,
+              "id": "g03-track-1-bar-55-note-2"
+            },
+            {
+              "start": 114,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 70,
+              "id": "g03-track-1-bar-55-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 230,
+              "pitch": 61,
+              "velocity": 70,
+              "id": "g03-track-1-bar-55-note-4"
+            },
+            {
+              "start": 1218,
+              "duration": 230,
+              "pitch": 57,
+              "velocity": 67,
+              "id": "g03-track-1-bar-55-note-5"
+            },
+            {
+              "start": 1236,
+              "duration": 230,
+              "pitch": 52,
+              "velocity": 64,
+              "id": "g03-track-1-bar-55-note-6"
+            },
+            {
+              "start": 1254,
+              "duration": 230,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "g03-track-1-bar-55-note-7"
+            },
+            {
+              "start": 1680,
+              "duration": 134,
+              "pitch": 61,
+              "velocity": 55,
+              "id": "g03-track-1-bar-55-note-8"
+            },
+            {
+              "start": 1698,
+              "duration": 134,
+              "pitch": 57,
+              "velocity": 52,
+              "id": "g03-track-1-bar-55-note-9"
+            }
+          ],
+          "id": "g03-track-1-bar-55"
+        },
+        {
+          "name": "高音副歌 · 下扫",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 60,
+              "duration": 230,
+              "pitch": 47,
+              "velocity": 79,
+              "id": "g03-track-1-bar-56-note-0"
+            },
+            {
+              "start": 78,
+              "duration": 230,
+              "pitch": 54,
+              "velocity": 76,
+              "id": "g03-track-1-bar-56-note-1"
+            },
+            {
+              "start": 96,
+              "duration": 230,
+              "pitch": 59,
+              "velocity": 73,
+              "id": "g03-track-1-bar-56-note-2"
+            },
+            {
+              "start": 114,
+              "duration": 230,
+              "pitch": 63,
+              "velocity": 70,
+              "id": "g03-track-1-bar-56-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 230,
+              "pitch": 63,
+              "velocity": 70,
+              "id": "g03-track-1-bar-56-note-4"
+            },
+            {
+              "start": 1218,
+              "duration": 230,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "g03-track-1-bar-56-note-5"
+            },
+            {
+              "start": 1236,
+              "duration": 230,
+              "pitch": 54,
+              "velocity": 64,
+              "id": "g03-track-1-bar-56-note-6"
+            },
+            {
+              "start": 1254,
+              "duration": 230,
+              "pitch": 47,
+              "velocity": 61,
+              "id": "g03-track-1-bar-56-note-7"
+            }
+          ],
+          "id": "g03-track-1-bar-56"
+        },
+        {
+          "name": "短版·结束扫弦",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 264,
+              "pitch": 49,
+              "velocity": 74,
+              "id": "g03-track-1-bar-6-note-0"
+            },
+            {
+              "start": 18,
+              "duration": 264,
+              "pitch": 56,
+              "velocity": 71,
+              "id": "g03-track-1-bar-6-note-1"
+            },
+            {
+              "start": 36,
+              "duration": 264,
+              "pitch": 61,
+              "velocity": 68,
+              "id": "g03-track-1-bar-6-note-2"
+            },
+            {
+              "start": 54,
+              "duration": 264,
+              "pitch": 64,
+              "velocity": 65,
+              "id": "g03-track-1-bar-6-note-3"
+            }
+          ],
+          "id": "g03-track-1-bar-6"
+        }
+      ],
+      "id": "g03-track-1"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 吉他·间奏回答",
+      "level": 76,
+      "muted": false,
+      "solo": false,
+      "clips": [],
+      "id": "g03-track-2"
+    },
+    {
+      "instrument": "bass",
+      "name": "04 Bass·和声根音",
+      "level": 90,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "高音副歌",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 86,
+              "id": "g03-track-3-bar-51-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 75,
+              "id": "g03-track-3-bar-51-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 75,
+              "id": "g03-track-3-bar-51-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 40,
+              "velocity": 75,
+              "id": "g03-track-3-bar-51-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-51"
+        },
+        {
+          "name": "高音副歌",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 86,
+              "id": "g03-track-3-bar-52-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 75,
+              "id": "g03-track-3-bar-52-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 75,
+              "id": "g03-track-3-bar-52-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 42,
+              "velocity": 75,
+              "id": "g03-track-3-bar-52-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-52"
+        },
+        {
+          "name": "高音副歌",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 86,
+              "id": "g03-track-3-bar-53-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 75,
+              "id": "g03-track-3-bar-53-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 75,
+              "id": "g03-track-3-bar-53-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 44,
+              "velocity": 75,
+              "id": "g03-track-3-bar-53-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-53"
+        },
+        {
+          "name": "高音副歌",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 86,
+              "id": "g03-track-3-bar-54-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 75,
+              "id": "g03-track-3-bar-54-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 37,
+              "velocity": 75,
+              "id": "g03-track-3-bar-54-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 44,
+              "velocity": 75,
+              "id": "g03-track-3-bar-54-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-54"
+        },
+        {
+          "name": "高音副歌",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 86,
+              "id": "g03-track-3-bar-55-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 75,
+              "id": "g03-track-3-bar-55-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 33,
+              "velocity": 75,
+              "id": "g03-track-3-bar-55-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 40,
+              "velocity": 75,
+              "id": "g03-track-3-bar-55-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-55"
+        },
+        {
+          "name": "高音副歌",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 86,
+              "id": "g03-track-3-bar-56-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 75,
+              "id": "g03-track-3-bar-56-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 278,
+              "pitch": 35,
+              "velocity": 75,
+              "id": "g03-track-3-bar-56-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 42,
+              "velocity": 75,
+              "id": "g03-track-3-bar-56-note-3"
+            }
+          ],
+          "id": "g03-track-3-bar-56"
+        },
+        {
+          "name": "短版·根音收束",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 37,
+              "velocity": 83,
+              "id": "g03-track-3-bar-6-note-0"
+            }
+          ],
+          "id": "g03-track-3-bar-6"
+        }
+      ],
+      "id": "g03-track-3"
+    },
+    {
+      "instrument": "piano",
+      "name": "05 钢琴·轻和声与句间填充",
+      "level": 72,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "钢琴·轻背景",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 648,
+              "pitch": 59,
+              "velocity": 58,
+              "id": "g03-track-4-bar-52-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 648,
+              "pitch": 63,
+              "velocity": 54,
+              "id": "g03-track-4-bar-52-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 648,
+              "pitch": 66,
+              "velocity": 50,
+              "id": "g03-track-4-bar-52-note-2"
+            }
+          ],
+          "id": "g03-track-4-bar-52"
+        },
+        {
+          "name": "钢琴·轻背景",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 648,
+              "pitch": 56,
+              "velocity": 58,
+              "id": "g03-track-4-bar-54-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 648,
+              "pitch": 61,
+              "velocity": 54,
+              "id": "g03-track-4-bar-54-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 648,
+              "pitch": 64,
+              "velocity": 50,
+              "id": "g03-track-4-bar-54-note-2"
+            }
+          ],
+          "id": "g03-track-4-bar-54"
+        },
+        {
+          "name": "钢琴·轻背景",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 648,
+              "pitch": 59,
+              "velocity": 58,
+              "id": "g03-track-4-bar-56-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 648,
+              "pitch": 63,
+              "velocity": 54,
+              "id": "g03-track-4-bar-56-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 648,
+              "pitch": 66,
+              "velocity": 50,
+              "id": "g03-track-4-bar-56-note-2"
+            }
+          ],
+          "id": "g03-track-4-bar-56"
+        },
+        {
+          "name": "短版·轻和声",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 720,
+              "pitch": 56,
+              "velocity": 46,
+              "id": "g03-track-4-bar-6-note-0"
+            },
+            {
+              "start": 0,
+              "duration": 720,
+              "pitch": 61,
+              "velocity": 46,
+              "id": "g03-track-4-bar-6-note-1"
+            },
+            {
+              "start": 0,
+              "duration": 720,
+              "pitch": 64,
+              "velocity": 46,
+              "id": "g03-track-4-bar-6-note-2"
+            }
+          ],
+          "id": "g03-track-4-bar-6"
+        }
+      ],
+      "id": "g03-track-4"
+    },
+    {
+      "instrument": "violin",
+      "name": "06 小提琴·低音量背景长音",
+      "level": 68,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "小提琴·低声铺底",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 1560,
+              "pitch": 70,
+              "velocity": 48,
+              "id": "g03-track-5-bar-52-note-0"
+            }
+          ],
+          "id": "g03-track-5-bar-52"
+        },
+        {
+          "name": "小提琴·低声铺底",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 1560,
+              "pitch": 70,
+              "velocity": 48,
+              "id": "g03-track-5-bar-56-note-0"
+            }
+          ],
+          "id": "g03-track-5-bar-56"
+        }
+      ],
+      "id": "g03-track-5"
+    },
+    {
+      "instrument": "drums",
+      "name": "07 鼓·底鼓军鼓（加强）",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "高音副歌",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-51-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-51-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-51-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-51-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-51-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-51-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-51-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-51-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-51"
+        },
+        {
+          "name": "高音副歌",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-52-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-52-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-52-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-52-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-52-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-52-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-52-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-52-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-52"
+        },
+        {
+          "name": "高音副歌",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-53-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-53-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-53-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-53-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-53-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-53-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-53-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-53-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-53"
+        },
+        {
+          "name": "高音副歌",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-54-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-54-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-54-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-54-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-54-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-54-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-54-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-54-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-54"
+        },
+        {
+          "name": "高音副歌",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-55-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-55-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-55-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-55-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-55-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-55-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-55-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-55-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-55"
+        },
+        {
+          "name": "高音副歌",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-56-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-56-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-56-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-56-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 116,
+              "id": "g03-track-6-bar-56-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-56-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 118,
+              "id": "g03-track-6-bar-56-note-6"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 45,
+              "id": "g03-track-6-bar-56-note-7"
+            }
+          ],
+          "id": "g03-track-6-bar-56"
+        },
+        {
+          "name": "短版·结束底鼓",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 0,
+              "velocity": 114,
+              "id": "g03-track-6-bar-6-note-0"
+            }
+          ],
+          "id": "g03-track-6-bar-6"
+        }
+      ],
+      "id": "g03-track-6"
+    },
+    {
+      "instrument": "drums",
+      "name": "08 鼓·镲片律动",
+      "level": 92,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "高音副歌",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-51-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-51-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-51-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-51-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-51-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-51-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-51-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-51-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-51"
+        },
+        {
+          "name": "高音副歌",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-52-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-52-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-52-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-52-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-52-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-52-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-52-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-52-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-52"
+        },
+        {
+          "name": "高音副歌",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-53-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-53-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-53-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-53-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-53-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-53-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-53-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-53-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-53"
+        },
+        {
+          "name": "高音副歌",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-54-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-54-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-54-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-54-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-54-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-54-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-54-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-54-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-54"
+        },
+        {
+          "name": "高音副歌",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-55-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-55-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-55-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-55-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-55-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-55-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-55-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-55-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-55"
+        },
+        {
+          "name": "高音副歌",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-56-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-56-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-56-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-56-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-56-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "g03-track-7-bar-56-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "g03-track-7-bar-56-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 61,
+              "id": "g03-track-7-bar-56-note-7"
+            }
+          ],
+          "id": "g03-track-7-bar-56"
+        }
+      ],
+      "id": "g03-track-7"
+    },
+    {
+      "instrument": "drums",
+      "name": "09 鼓·通鼓过门",
+      "level": 96,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "高音副歌",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 5,
+              "velocity": 83,
+              "id": "g03-track-8-bar-51-note-0"
+            }
+          ],
+          "id": "g03-track-8-bar-51"
+        },
+        {
+          "name": "高音副歌",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 5,
+              "velocity": 83,
+              "id": "g03-track-8-bar-52-note-0"
+            }
+          ],
+          "id": "g03-track-8-bar-52"
+        },
+        {
+          "name": "高音副歌",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 5,
+              "velocity": 83,
+              "id": "g03-track-8-bar-56-note-0"
+            }
+          ],
+          "id": "g03-track-8-bar-56"
+        },
+        {
+          "name": "短版·结束镲",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 5,
+              "velocity": 78,
+              "id": "g03-track-8-bar-6-note-0"
+            }
+          ],
+          "id": "g03-track-8-bar-6"
+        }
+      ],
+      "id": "g03-track-8"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 50
+        },
+        {
+          "tick": 13440,
+          "value": 50
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 27
+        },
+        {
+          "tick": 13440,
+          "value": 27
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 76
+        },
+        {
+          "tick": 13440,
+          "value": 76
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 18
+        },
+        {
+          "tick": 13440,
+          "value": 18
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 12
+        },
+        {
+          "tick": 13440,
+          "value": 12
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "guitar.drive",
+      "interpolation": "step",
+      "points": [
+        {
+          "tick": 0,
+          "value": 67
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 50,
+    "bus.piano": 18,
+    "bus.drums": 76,
+    "bus.violin": 12,
+    "bus.bass": 27,
+    "space.chorus_mix": 0,
+    "space.chorus_rate": 40,
+    "space.chorus_depth": 40,
+    "space.delay_mix": 0,
+    "space.delay_time": 32,
+    "space.delay_feedback": 0,
+    "guitar.amp": 3,
+    "guitar.drive": 67,
+    "guitar.tone": 50,
+    "guitar.level": 54,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 14,
+    "guitar.cabinet": 1,
+    "guitar.gate": 1,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1",
+  "guitar_sustain": 52
+}

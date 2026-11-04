@@ -1,0 +1,2039 @@
+{
+  "name": "雨后星河 · 精华8小节",
+  "bpm": 80,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴·右手主旋律",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 81,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-24-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-24-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 89,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-24-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 88,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-24-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-24-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 86,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-25-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 89,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-25-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 93,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-25-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 89,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-25-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-25-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 84,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-26-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 88,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-26-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 91,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-26-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 88,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-26-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-26-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 88,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-27-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-27-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 84,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-27-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-27-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-27-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 82,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-28-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-28-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 91,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-28-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 89,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-28-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-28-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 540,
+              "pitch": 89,
+              "velocity": 107,
+              "id": "p03_after_rain-clip-0-29-note-0"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 88,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-29-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 97,
+              "id": "p03_after_rain-clip-0-29-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 103,
+              "id": "p03_after_rain-clip-0-29-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 77,
+              "velocity": 100,
+              "id": "p03_after_rain-clip-0-29-note-4"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-29"
+        },
+        {
+          "name": "尾声 · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1320,
+              "pitch": 74,
+              "velocity": 91,
+              "id": "p03_after_rain-clip-0-30-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-0-30"
+        }
+      ],
+      "id": "p03_after_rain-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴·中声部与和声",
+      "level": 80,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-24-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-24-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-24-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-24-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-24-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-24-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-24-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-24-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-25-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-25-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-25-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 70,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-25-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-25-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-25-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 70,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-25-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-25-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-26-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-26-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-26-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-26-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-26-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-26-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-26-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-26-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-27-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-27-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-27-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-27-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-27-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-27-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-27-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-27-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-28-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-28-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 58,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-28-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-28-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-28-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-28-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-28-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 58,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-28-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-29-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-29-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-29-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-29-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p03_after_rain-clip-1-29-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-1-29-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p03_after_rain-clip-1-29-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p03_after_rain-clip-1-29-note-7"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-29"
+        },
+        {
+          "name": "尾声 · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p03_after_rain-clip-1-30-note-0"
+            },
+            {
+              "start": 5,
+              "duration": 1200,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p03_after_rain-clip-1-30-note-1"
+            },
+            {
+              "start": 10,
+              "duration": 1200,
+              "pitch": 64,
+              "velocity": 61,
+              "id": "p03_after_rain-clip-1-30-note-2"
+            },
+            {
+              "start": 15,
+              "duration": 1200,
+              "pitch": 65,
+              "velocity": 59,
+              "id": "p03_after_rain-clip-1-30-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-1-30"
+        }
+      ],
+      "id": "p03_after_rain-track-1"
+    },
+    {
+      "instrument": "piano",
+      "name": "03 钢琴·左手低音",
+      "level": 87,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 38,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-24-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 50,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-24-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 34,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-25-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 46,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-25-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 29,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-26-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 41,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-26-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 36,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 48,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-27-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 31,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-28-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 43,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-28-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 38,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-29-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 50,
+              "velocity": 76,
+              "id": "p03_after_rain-clip-2-29-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-29"
+        },
+        {
+          "name": "尾声 · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1320,
+              "pitch": 38,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-2-30-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-2-30"
+        }
+      ],
+      "id": "p03_after_rain-track-2"
+    },
+    {
+      "instrument": "bass",
+      "name": "04 Bass·轻伴奏",
+      "level": 76,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 38,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-24-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 45,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-24-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 34,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-25-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 41,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-25-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 29,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-26-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 36,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-26-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 36,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 43,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-27-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 31,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-28-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 38,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-28-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 346,
+              "pitch": 38,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-29-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 346,
+              "pitch": 45,
+              "velocity": 74,
+              "id": "p03_after_rain-clip-3-29-note-1"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-29"
+        },
+        {
+          "name": "尾声 · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 38,
+              "velocity": 62,
+              "id": "p03_after_rain-clip-3-30-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-3-30"
+        }
+      ],
+      "id": "p03_after_rain-track-3"
+    },
+    {
+      "instrument": "drums",
+      "name": "05 鼓·轻节奏",
+      "level": 72,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-24-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-24-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-24-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-24-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-24-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-24-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-24-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-24-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-24-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-24-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-24-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-24-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-25-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-25-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-25-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-25-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-25-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-25-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-25-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-25-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-25-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-25-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-25-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-25-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-26-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-26-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-26-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-26-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-26-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-26-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-26-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-26-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-26-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-26-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-26-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-26-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-27-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-27-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-27-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-27-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-27-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-27-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-27-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-27-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-27-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-27-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-27-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-28-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-28-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-28-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-28-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-28-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-28-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-28-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-28-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-28-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-28-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-28-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-28-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-29-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 58,
+              "pitch": 0,
+              "velocity": 67,
+              "id": "p03_after_rain-clip-4-29-note-1"
+            },
+            {
+              "start": 485,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-29-note-2"
+            },
+            {
+              "start": 1445,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-4-29-note-3"
+            },
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-29-note-4"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-29-note-5"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-29-note-6"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-29-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-29-note-8"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-29-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 37,
+              "id": "p03_after_rain-clip-4-29-note-10"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 25,
+              "id": "p03_after_rain-clip-4-29-note-11"
+            }
+          ],
+          "id": "p03_after_rain-clip-4-29"
+        }
+      ],
+      "id": "p03_after_rain-track-4"
+    },
+    {
+      "instrument": "guitar",
+      "name": "06 吉他·少量背景分解",
+      "level": 57,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 50,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-24-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-24-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 65,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-24-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-24-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-24"
+        },
+        {
+          "name": "再现 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 46,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-25-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-25-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 65,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-25-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-25-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-25"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 45,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-26-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-26-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 67,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-26-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-26-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-26"
+        },
+        {
+          "name": "再现 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 48,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-27-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-27-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 64,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-27-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-27-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-27"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 43,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-28-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-28-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 62,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-28-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 57,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-28-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-28"
+        },
+        {
+          "name": "再现 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 144,
+              "pitch": 50,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-29-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-29-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 144,
+              "pitch": 65,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-29-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 144,
+              "pitch": 60,
+              "velocity": 48,
+              "id": "p03_after_rain-clip-5-29-note-3"
+            }
+          ],
+          "id": "p03_after_rain-clip-5-29"
+        }
+      ],
+      "id": "p03_after_rain-track-5"
+    },
+    {
+      "instrument": "violin",
+      "name": "07 小提琴·低音量背景长音",
+      "level": 48,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 1320,
+              "pitch": 64,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-6-24-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-6-24"
+        },
+        {
+          "name": "再现 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 1320,
+              "pitch": 64,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-6-26-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-6-26"
+        },
+        {
+          "name": "再现 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 1320,
+              "pitch": 62,
+              "velocity": 46,
+              "id": "p03_after_rain-clip-6-28-note-0"
+            }
+          ],
+          "id": "p03_after_rain-clip-6-28"
+        }
+      ],
+      "id": "p03_after_rain-track-6"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 50
+        },
+        {
+          "tick": 11520,
+          "value": 44
+        },
+        {
+          "tick": 13440,
+          "value": 44
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 15
+        },
+        {
+          "tick": 11520,
+          "value": 13
+        },
+        {
+          "tick": 13440,
+          "value": 13
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 26
+        },
+        {
+          "tick": 11520,
+          "value": 23
+        },
+        {
+          "tick": 13440,
+          "value": 23
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 18
+        },
+        {
+          "tick": 11520,
+          "value": 16
+        },
+        {
+          "tick": 13440,
+          "value": 16
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 7
+        },
+        {
+          "tick": 11520,
+          "value": 6
+        },
+        {
+          "tick": 13440,
+          "value": 6
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.delay_mix",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 6
+        },
+        {
+          "tick": 11520,
+          "value": 5
+        },
+        {
+          "tick": 13440,
+          "value": 5
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 15,
+    "bus.piano": 50,
+    "bus.drums": 18,
+    "bus.violin": 7,
+    "bus.bass": 26,
+    "space.chorus_mix": 0,
+    "space.chorus_rate": 40,
+    "space.chorus_depth": 40,
+    "space.delay_mix": 6,
+    "space.delay_time": 79,
+    "space.delay_feedback": 14,
+    "guitar.amp": 0,
+    "guitar.drive": 64,
+    "guitar.tone": 64,
+    "guitar.level": 80,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1"
+}

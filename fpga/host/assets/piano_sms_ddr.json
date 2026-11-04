@@ -1,0 +1,11 @@
+{
+  "format": "harmonic_sms_ddr_v1",
+  "bytes": 281600,
+  "chunks": 1100,
+  "chunk_bytes": 256,
+  "records": 8800,
+  "record_bytes": 32,
+  "crc32": 2644131955,
+  "sha256": "182a11c2ae84c0c23bb8dd00fb6a389cf9534d30188429aeadbb6ed8022fb972",
+  "recordings_played": false
+}

@@ -1,0 +1,126 @@
+`timescale 1ns / 1ps
+`default_nettype none
+module violin_core #(parameter ROM_ROOT="violin_r15/rom")(
+ input wire clk,input wire rst_n,input wire sample_tick,
+ input wire command_valid,output wire command_ready,
+ input wire command_on,command_legato,command_force_off,
+ input wire [6:0] command_key,command_velocity,
+ output wire active_o,output reg ready_o,output reg signed [23:0] sample_o,
+ output reg sample_valid_o,produced_o,internal_valid_o,
+ output reg signed [23:0] internal_sample_o,
+ output reg deadline_miss_o,overflow_o,invalid_event_o,
+ output reg [15:0] last_cycles_o
+);
+@PARAMETERS@
+localparam signed [31:0] CONTROL_ONE=32'sd16777216;
+@CONSTANTS@
+reg [7:0] state,return_state;
+reg [8:0] boot_index;
+reg frame_request,job_busy,substep,pending_valid;
+reg [15:0] job_clocks;
+reg signed [23:0] pending_output;
+reg [16:0] event_fifo[0:7];
+reg [2:0] fifo_read,fifo_write;
+reg [3:0] fifo_count;
+reg [16:0] event_data;
+wire fifo_push=command_valid&&command_ready;
+wire fifo_pop=ready_o&&state==S_IDLE&&!frame_request&&!sample_tick&&fifo_count!=0;
+assign command_ready=ready_o&&fifo_count<8;
+always @(posedge clk or negedge rst_n) begin
+ if(!rst_n)begin fifo_read<=0;fifo_write<=0;fifo_count<=0;end
+ else begin
+  if(fifo_push)begin event_fifo[fifo_write]<={command_force_off,command_legato,command_on,command_key,command_velocity};fifo_write<=fifo_write+1'b1;end
+  if(fifo_pop)fifo_read<=fifo_read+1'b1;
+  case({fifo_push,fifo_pop})2'b10:fifo_count<=fifo_count+1'b1;2'b01:fifo_count<=fifo_count-1'b1;default:;endcase
+ end
+end
+reg [63:0] note_rom[0:127],velocity_rom[0:127];
+reg [17:0] friction_rom[0:1023];
+reg [23:0] vibrato_rom[0:1023];
+reg signed [23:0] fir_coeff[0:47];
+(* syn_romstyle="logic" *) reg signed [23:0] body_rom0[0:5],body_rom1[0:5],body_rom2[0:5],body_rom3[0:5],body_rom4[0:5];
+reg signed [23:0] body_feed0,body_feed1,body_feed2,body_feedback1,body_feedback2;
+initial begin
+ $readmemh({ROM_ROOT,"/notes.hex"},note_rom);$readmemh({ROM_ROOT,"/velocities.hex"},velocity_rom);
+ $readmemh({ROM_ROOT,"/friction.hex"},friction_rom);$readmemh({ROM_ROOT,"/vibrato.hex"},vibrato_rom);
+ $readmemh({ROM_ROOT,"/body0.hex"},body_rom0);$readmemh({ROM_ROOT,"/body1.hex"},body_rom1);
+ $readmemh({ROM_ROOT,"/body2.hex"},body_rom2);$readmemh({ROM_ROOT,"/body3.hex"},body_rom3);
+ $readmemh({ROM_ROOT,"/body4.hex"},body_rom4);$readmemh({ROM_ROOT,"/fir.hex"},fir_coeff);
+end
+reg [63:0] note_parameters,velocity_parameters;
+reg signed [31:0] period,target_period,pressure,target_pressure,velocity,target_velocity,loudness,target_loudness;
+reg signed [31:0] loss_gain,loss_state,envelope,residue[0:4];
+reg [31:0] note_age,phase,vibrato_entry;
+reg [15:0] rebow_remaining;
+reg gate,started;reg [6:0] current_key;
+assign active_o=gate||envelope!=0;
+reg signed [31:0] mul_left,mul_right;
+reg signed [63:0] mul_add,alu_product,alu_accumulator,alu_shifted,alu_result;
+reg [5:0] mul_shift;reg alu_increment;
+reg [9:0] vibrato_address;reg [21:0] phase_fraction;
+reg [23:0] vibrato_first,vibrato_second;
+reg signed [31:0] ratio_full,ratio;
+reg [25:0] modulated_period,neck_delay,bridge_delay;
+reg signed [31:0] neck_out,bridge_out,bridge_reflection,relative_velocity,interaction,voice_output;
+reg [31:0] shaped;reg [25:0] friction_position;reg [9:0] friction_address;
+reg [16:0] friction_fraction;reg [17:0] friction_first,friction_second,reflection;
+reg signed [23:0] neck_memory[0:511],bridge_memory[0:127],history_memory[0:127];
+reg [8:0] neck_write,neck_waddr,neck_raddr,neck_older_addr;
+reg [6:0] bridge_write,bridge_waddr,bridge_raddr,bridge_older_addr;
+reg [6:0] history_write,history_waddr,history_raddr,history_other_addr;
+reg neck_we,bridge_we,history_we;
+reg signed [23:0] neck_wdata,bridge_wdata,history_wdata;
+reg signed [23:0] neck_recent,neck_older,bridge_recent,bridge_older,history_recent,history_older;
+always @(posedge clk)begin
+ if(neck_we)neck_memory[neck_waddr]<=neck_wdata;else neck_recent<=neck_memory[neck_raddr];
+ neck_older<=neck_memory[neck_older_addr];
+ if(bridge_we)bridge_memory[bridge_waddr]<=bridge_wdata;else bridge_recent<=bridge_memory[bridge_raddr];
+ bridge_older<=bridge_memory[bridge_older_addr];
+ if(history_we)history_memory[history_waddr]<=history_wdata;else history_recent<=history_memory[history_raddr];
+ history_older<=history_memory[history_other_addr];
+end
+reg signed [31:0] body_value,body_output,body_state0[0:5],body_state1[0:5];
+reg signed [63:0] body_acc;
+reg [2:0] body_section;
+reg signed [31:0] dc_previous_input,dc_previous_output,dc_residue,dc_output;
+reg signed [23:0] internal_sample;
+reg [5:0] fir_tap;
+reg signed [24:0] fir_preadd;
+reg signed [23:0] fir_coefficient;
+reg signed [48:0] fir_product;
+reg signed [55:0] fir_acc;
+integer reset_index;
+function signed [63:0] rne;
+ input signed [63:0] value;input [5:0] shift;
+ reg signed [63:0] quotient;reg [63:0] remainder,halfway;
+ begin quotient=value>>>shift;remainder=value&((64'd1<<shift)-1);halfway=64'd1<<(shift-1);
+ rne=quotient+((remainder>halfway)||((remainder==halfway)&&quotient[0]));end
+endfunction
+function signed [23:0] sat24;
+ input signed [63:0] value;
+ begin if(value>8388607)sat24=24'sh7fffff;else if(value<-8388608)sat24=24'sh800000;else sat24=value[23:0];end
+endfunction
+always @(posedge clk or negedge rst_n)begin
+ if(!rst_n)begin
+ state<=S_BOOT;
+ @RESET@
+ for(reset_index=0;reset_index<5;reset_index=reset_index+1)residue[reset_index]<=0;
+ for(reset_index=0;reset_index<6;reset_index=reset_index+1)begin body_state0[reset_index]<=0;body_state1[reset_index]<=0;end
+ end else begin
+ sample_valid_o<=0;produced_o<=0;internal_valid_o<=0;neck_we<=0;bridge_we<=0;history_we<=0;
+ if(job_busy)job_clocks<=job_clocks+1'b1;
+ if(sample_tick&&ready_o)begin
+  if(job_busy||frame_request)deadline_miss_o<=1;
+  frame_request<=1;
+  sample_valid_o<=1;
+  if(pending_valid)sample_o<=pending_output;
+  pending_valid<=0;
+ end
+ case(state)
+ @CASES@
+ default:begin state<=S_BOOT;ready_o<=0;overflow_o<=1;end
+ endcase
+ end
+end
+endmodule
+`default_nettype wire

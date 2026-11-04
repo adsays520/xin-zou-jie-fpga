@@ -1,0 +1,10 @@
+{
+  "oversampling": 2,
+  "bow_pressure": 0.70,
+  "high_register_pressure": 0.95,
+  "pressure_ramp_start_note": 81,
+  "pressure_ramp_end_note": 88,
+  "drive_velocity_min": 80.0,
+  "drive_velocity_max": 100.0,
+  "control_smoothing_seconds": 0.004
+}

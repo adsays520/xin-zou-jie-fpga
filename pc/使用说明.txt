@@ -1,0 +1,11 @@
+芯奏界完整电脑上位机 · 2026-11-04
+
+打开“打开完整上位机.cmd”或 FPGA_ESP_Control.exe。完整解压并保留_internal、drum_bass_pitch_20261013、Music_Demos、tools等目录。
+
+主控制台集成乐器演奏、效果/混音、绘制波形和包络、霍尔ADC与拨弦、验证测试、超级马里奥曲谱、编曲工作台、音游、MIDI跟灯和16首Demo曲库。编曲可导入MIDI；MIDI跟灯页面用于静音灯光练习，发声演奏请用编曲工作台。小星星及原创MIDI在Music_Demos/MIDI_*目录。
+
+“打开LED控制.cmd”进入颜色、闪烁、演示、跟手与逐颗测试工具。GPIO3是13颗链，GPIO7是14颗链。同一S3串口同时只能被一个窗口占用；使用LED窗口时先断开霍尔/MIDI页串口。
+
+FPGA演奏串口和S3霍尔串口是不同设备，按实际COM号选择。S3应为v3.4.27-BLE；握手修复和MIDI能力检测已带入。默认不会自动连接或烧录。
+
+运行launcher.py可从源码启动；requirements.txt包含依赖。使用build_pc.ps1可重新打包。整个pc目录可以单独搬到另一台Windows x64电脑。

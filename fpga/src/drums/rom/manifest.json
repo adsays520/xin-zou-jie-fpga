@@ -1,0 +1,24 @@
+{
+  "sample_rate": 48000,
+  "algorithm": "modal oscillators + filtered PRNG noise + exponential envelopes",
+  "recorded_samples": false,
+  "voices": [
+    "kick",
+    "snare",
+    "closed_hat",
+    "open_hat",
+    "clap",
+    "crash",
+    "ride",
+    "low_tom",
+    "mid_tom",
+    "high_tom",
+    "rim",
+    "cowbell"
+  ],
+  "kits": [
+    "Natural modal",
+    "Tight pop",
+    "Bright rock"
+  ]
+}

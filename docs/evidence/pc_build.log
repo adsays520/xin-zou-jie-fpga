@@ -1,0 +1,86 @@
+200 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.9
+200 INFO: Python: 3.14.2
+261 INFO: Platform: Windows-11-10.0.26200-SP0
+261 INFO: Python environment: C:\Users\Junejay_Huang\Desktop\gowin-2\tmp\led_panel_packaging_env
+263 INFO: wrote D:\XJ_1104\pc/build\FPGA_ESP_Control.spec
+271 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\Junejay_Huang\\Desktop\\gowin-2',
+ 'C:\\Users\\Junejay_Huang\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.zip',
+ 'C:\\Users\\Junejay_Huang\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs',
+ 'C:\\Users\\Junejay_Huang\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib',
+ 'C:\\Users\\Junejay_Huang\\AppData\\Local\\Python\\pythoncore-3.14-64',
+ 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env',
+ 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages',
+ 'D:\\XJ_1104\\pc']
+775 INFO: checking Analysis
+775 INFO: Building Analysis because Analysis-00.toc is non existent
+775 INFO: Looking for Python shared library...
+776 INFO: Using Python shared library: C:\Users\Junejay_Huang\AppData\Local\Python\pythoncore-3.14-64\python314.dll
+776 INFO: Running Analysis Analysis-00.toc
+776 INFO: Target bytecode optimization level: 0
+776 INFO: Initializing module dependency graph...
+777 INFO: Initializing module graph hook caches...
+836 INFO: Analyzing modules for base_library.zip ...
+2289 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+4285 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+7044 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+7073 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+7287 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+10934 INFO: Caching module dependency graph...
+10976 INFO: Analyzing D:\XJ_1104\pc\launcher.py
+11021 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+11911 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11918 INFO: SetuptoolsInfo: initializing cached setuptools info...
+13901 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+13983 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+14000 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+14939 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+17403 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+17660 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+21361 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+21395 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+22311 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+22531 INFO: Analyzing hidden import 'uuid'
+22577 INFO: Analyzing hidden import 'wave'
+22612 INFO: Processing module hooks (post-graph stage)...
+22751 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks'
+22766 INFO: Performing binary vs. data reclassification (929 entries)
+23358 INFO: Looking for ctypes DLLs
+23412 WARNING: Ignoring /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation imported from C:\Users\Junejay_Huang\Desktop\gowin-2\tmp\led_panel_packaging_env\Lib\site-packages\serial\tools\list_ports_osx.py - only basenames are supported with ctypes imports!
+23412 WARNING: Ignoring /System/Library/Frameworks/IOKit.framework/IOKit imported from C:\Users\Junejay_Huang\Desktop\gowin-2\tmp\led_panel_packaging_env\Lib\site-packages\serial\tools\list_ports_osx.py - only basenames are supported with ctypes imports!
+23441 INFO: Analyzing run-time hooks ...
+23444 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23455 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23460 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23469 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23515 INFO: Creating base_library.zip...
+23544 INFO: Looking for dynamic libraries
+24712 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\tmp\\led_panel_packaging_env\\Lib\\site-packages\\numpy.libs']
+24712 INFO: Extra DLL search directories (PATH): []
+25930 INFO: Warnings written to D:\XJ_1104\pc\build\FPGA_ESP_Control\warn-FPGA_ESP_Control.txt
+25984 INFO: Graph cross-reference written to D:\XJ_1104\pc\build\FPGA_ESP_Control\xref-FPGA_ESP_Control.html
+26073 INFO: checking PYZ
+26073 INFO: Building PYZ because PYZ-00.toc is non existent
+26073 INFO: Building PYZ (ZlibArchive) D:\XJ_1104\pc\build\FPGA_ESP_Control\PYZ-00.pyz
+26511 INFO: Building PYZ (ZlibArchive) D:\XJ_1104\pc\build\FPGA_ESP_Control\PYZ-00.pyz completed successfully.
+26546 INFO: checking PKG
+26546 INFO: Building PKG because PKG-00.toc is non existent
+26546 INFO: Building PKG (CArchive) FPGA_ESP_Control.pkg
+26594 INFO: Building PKG (CArchive) FPGA_ESP_Control.pkg completed successfully.
+26596 INFO: Bootloader C:\Users\Junejay_Huang\Desktop\gowin-2\tmp\led_panel_packaging_env\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+26596 INFO: checking EXE
+26597 INFO: Building EXE because EXE-00.toc is non existent
+26597 INFO: Building EXE from EXE-00.toc
+26597 INFO: Copying bootloader EXE to D:\XJ_1104\pc\build\FPGA_ESP_Control\FPGA_ESP_Control.exe
+26996 INFO: Copying icon to EXE
+27184 INFO: Copying 0 resources to EXE
+27185 INFO: Embedding manifest in EXE
+27371 INFO: Appending PKG archive to EXE
+27378 INFO: Fixing EXE headers
+27496 INFO: Building EXE from EXE-00.toc completed successfully.
+27508 INFO: checking COLLECT
+27508 INFO: Building COLLECT because COLLECT-00.toc is non existent
+27509 INFO: Building COLLECT COLLECT-00.toc
+29864 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+29878 INFO: Build complete! The results are available in: D:\XJ_1104\pc\dist
+Copy EXE and _internal from dist/FPGA_ESP_Control beside launcher.py, keeping application source and resources.

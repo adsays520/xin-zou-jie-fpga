@@ -1,0 +1,2167 @@
+{
+  "name": "雨夜咖啡 · 精华8小节",
+  "bpm": 78,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴·和声",
+      "level": 90,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-16-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 60,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-16-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-16-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-16-note-3"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-16-note-4"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-16-note-5"
+            },
+            {
+              "start": 1256,
+              "duration": 408,
+              "pitch": 65,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-0-16-note-6"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-17-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 65,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-17-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 69,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-17-note-2"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-17-note-3"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 69,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-17-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 56,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-18-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-18-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-18-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-18-note-3"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 59,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-18-note-4"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 62,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-18-note-5"
+            },
+            {
+              "start": 1256,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-0-18-note-6"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-19-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 60,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-19-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-19-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-19-note-3"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-19-note-4"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-19-note-5"
+            },
+            {
+              "start": 1256,
+              "duration": 408,
+              "pitch": 67,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-0-19-note-6"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-20-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-20-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-20-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-20-note-3"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 59,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-20-note-4"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 60,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-20-note-5"
+            },
+            {
+              "start": 1256,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-0-20-note-6"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-21-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-21-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 65,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-0-21-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 69,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-21-note-3"
+            },
+            {
+              "start": 1248,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-0-21-note-4"
+            },
+            {
+              "start": 1252,
+              "duration": 408,
+              "pitch": 65,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-0-21-note-5"
+            },
+            {
+              "start": 1256,
+              "duration": 408,
+              "pitch": 69,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-0-21-note-6"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-21"
+        },
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 45,
+              "velocity": 80,
+              "id": "02_rain_cafe-clip-0-22-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 1200,
+              "pitch": 55,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-0-22-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 1200,
+              "pitch": 59,
+              "velocity": 76,
+              "id": "02_rain_cafe-clip-0-22-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 1200,
+              "pitch": 60,
+              "velocity": 74,
+              "id": "02_rain_cafe-clip-0-22-note-3"
+            },
+            {
+              "start": 16,
+              "duration": 1200,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-0-22-note-4"
+            },
+            {
+              "start": 20,
+              "duration": 1200,
+              "pitch": 69,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-0-22-note-5"
+            }
+          ],
+          "id": "02_rain_cafe-clip-0-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴·回答/固定音型",
+      "level": 77,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1200,
+              "duration": 168,
+              "pitch": 76,
+              "velocity": 64,
+              "id": "02_rain_cafe-clip-1-19-note-0"
+            },
+            {
+              "start": 1440,
+              "duration": 168,
+              "pitch": 84,
+              "velocity": 68,
+              "id": "02_rain_cafe-clip-1-19-note-1"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 83,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-1-19-note-2"
+            }
+          ],
+          "id": "02_rain_cafe-clip-1-19"
+        }
+      ],
+      "id": "02_rain_cafe-track-1"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 吉他·分解/Riff",
+      "level": 89,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 41,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-16-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-16-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-16-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-16-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 57,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-17-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-17-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-17-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 53,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-17-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 40,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-18-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 56,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-18-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-18-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-18-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 55,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-19-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-19-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-19-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 52,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-19-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 45,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-20-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-20-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-20-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-20-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 60,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-2-21-note-0"
+            },
+            {
+              "start": 528,
+              "duration": 182,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-21-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-21-note-2"
+            },
+            {
+              "start": 1488,
+              "duration": 182,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-2-21-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-2-21"
+        }
+      ],
+      "id": "02_rain_cafe-track-2"
+    },
+    {
+      "instrument": "guitar",
+      "name": "04 吉他·切分和弦",
+      "level": 80,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1080,
+              "pitch": 45,
+              "velocity": 78,
+              "id": "02_rain_cafe-clip-3-22-note-0"
+            },
+            {
+              "start": 9,
+              "duration": 1080,
+              "pitch": 52,
+              "velocity": 76,
+              "id": "02_rain_cafe-clip-3-22-note-1"
+            },
+            {
+              "start": 18,
+              "duration": 1080,
+              "pitch": 55,
+              "velocity": 74,
+              "id": "02_rain_cafe-clip-3-22-note-2"
+            },
+            {
+              "start": 27,
+              "duration": 1080,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "02_rain_cafe-clip-3-22-note-3"
+            },
+            {
+              "start": 36,
+              "duration": 1080,
+              "pitch": 60,
+              "velocity": 70,
+              "id": "02_rain_cafe-clip-3-22-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-3-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-3"
+    },
+    {
+      "instrument": "bass",
+      "name": "05 Bass·节奏低音",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 29,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-16-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 36,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-16-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 41,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-16-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 38,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-16-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 35,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-17-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 42,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-17-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 47,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-17-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 44,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-17-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 28,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-18-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 35,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-18-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-18-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 37,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-18-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 33,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-19-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-19-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-19-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 42,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-19-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 33,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-20-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-20-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-20-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 42,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-20-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 312,
+              "pitch": 38,
+              "velocity": 94,
+              "id": "02_rain_cafe-clip-4-21-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 312,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-21-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 312,
+              "pitch": 50,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-21-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 312,
+              "pitch": 47,
+              "velocity": 84,
+              "id": "02_rain_cafe-clip-4-21-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-21"
+        },
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1080,
+              "pitch": 33,
+              "velocity": 88,
+              "id": "02_rain_cafe-clip-4-22-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-4-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-4"
+    },
+    {
+      "instrument": "violin",
+      "name": "06 小提琴·主旋律",
+      "level": 94,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 69,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-16-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-16-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-16-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-16-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-17-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-17-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-17-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 71,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-17-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 68,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-18-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 71,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-18-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-18-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-18-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 72,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-19-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 71,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-19-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-19-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-19-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 72,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-20-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-20-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 71,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-20-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-20-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 98,
+              "id": "02_rain_cafe-clip-5-21-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 93,
+              "id": "02_rain_cafe-clip-5-21-note-1"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "02_rain_cafe-clip-5-21-note-2"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 91,
+              "id": "02_rain_cafe-clip-5-21-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-21"
+        },
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 69,
+              "velocity": 89,
+              "id": "02_rain_cafe-clip-5-22-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-5-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-5"
+    },
+    {
+      "instrument": "drums",
+      "name": "07 鼓·底鼓军鼓",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-16-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-16-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-16-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-16-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-16-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-17-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-17-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-17-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-17-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-17-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-18-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-18-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-18-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-18-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-18-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-19-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-19-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-19-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-19-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-19-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-20-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-20-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-20-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-20-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-20-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-21-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "02_rain_cafe-clip-6-21-note-1"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-21-note-2"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 10,
+              "velocity": 57,
+              "id": "02_rain_cafe-clip-6-21-note-3"
+            },
+            {
+              "start": 1327,
+              "duration": 48,
+              "pitch": 1,
+              "velocity": 34,
+              "id": "02_rain_cafe-clip-6-21-note-4"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-21"
+        },
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 90,
+              "id": "02_rain_cafe-clip-6-22-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-6-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-6"
+    },
+    {
+      "instrument": "drums",
+      "name": "08 鼓·镲片",
+      "level": 91,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-7-16-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 46,
+              "id": "02_rain_cafe-clip-7-16-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-7-16-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 46,
+              "id": "02_rain_cafe-clip-7-16-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-7-16-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 46,
+              "id": "02_rain_cafe-clip-7-16-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 62,
+              "id": "02_rain_cafe-clip-7-16-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 46,
+              "id": "02_rain_cafe-clip-7-16-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-16"
+        },
+        {
+          "name": "主题B · Bm7b5",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 63,
+              "id": "02_rain_cafe-clip-7-17-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 47,
+              "id": "02_rain_cafe-clip-7-17-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 63,
+              "id": "02_rain_cafe-clip-7-17-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 47,
+              "id": "02_rain_cafe-clip-7-17-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 63,
+              "id": "02_rain_cafe-clip-7-17-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 47,
+              "id": "02_rain_cafe-clip-7-17-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 63,
+              "id": "02_rain_cafe-clip-7-17-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 47,
+              "id": "02_rain_cafe-clip-7-17-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-17"
+        },
+        {
+          "name": "主题B · E7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-18-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-18-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-18-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-18-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-18-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-18-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-18-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-18-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-18"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-19-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-19-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-19-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-19-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-19-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-19-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-19-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-19-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-20-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-20-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-20-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-20-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-20-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-20-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 58,
+              "id": "02_rain_cafe-clip-7-20-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 42,
+              "id": "02_rain_cafe-clip-7-20-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-20"
+        },
+        {
+          "name": "回归 · Dm9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-21-note-0"
+            },
+            {
+              "start": 288,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-21-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-21-note-2"
+            },
+            {
+              "start": 768,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-21-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-21-note-4"
+            },
+            {
+              "start": 1248,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-21-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 59,
+              "id": "02_rain_cafe-clip-7-21-note-6"
+            },
+            {
+              "start": 1728,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 43,
+              "id": "02_rain_cafe-clip-7-21-note-7"
+            }
+          ],
+          "id": "02_rain_cafe-clip-7-21"
+        }
+      ],
+      "id": "02_rain_cafe-track-7"
+    },
+    {
+      "instrument": "drums",
+      "name": "09 鼓·过门",
+      "level": 94,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "主题B · Fmaj7",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 73,
+              "id": "02_rain_cafe-clip-8-16-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-8-16"
+        },
+        {
+          "name": "主题B · Am9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1440,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 48,
+              "id": "02_rain_cafe-clip-8-19-note-0"
+            },
+            {
+              "start": 1560,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 54,
+              "id": "02_rain_cafe-clip-8-19-note-1"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 60,
+              "id": "02_rain_cafe-clip-8-19-note-2"
+            },
+            {
+              "start": 1800,
+              "duration": 60,
+              "pitch": 7,
+              "velocity": 66,
+              "id": "02_rain_cafe-clip-8-19-note-3"
+            }
+          ],
+          "id": "02_rain_cafe-clip-8-19"
+        },
+        {
+          "name": "回归 · Am9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 73,
+              "id": "02_rain_cafe-clip-8-20-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-8-20"
+        },
+        {
+          "name": "收束 · Am9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 63,
+              "id": "02_rain_cafe-clip-8-22-note-0"
+            }
+          ],
+          "id": "02_rain_cafe-clip-8-22"
+        }
+      ],
+      "id": "02_rain_cafe-track-8"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 39
+        },
+        {
+          "tick": 7680,
+          "value": 39
+        },
+        {
+          "tick": 11520,
+          "value": 33
+        },
+        {
+          "tick": 13440,
+          "value": 33
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 36
+        },
+        {
+          "tick": 7680,
+          "value": 36
+        },
+        {
+          "tick": 11520,
+          "value": 31
+        },
+        {
+          "tick": 13440,
+          "value": 31
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 35
+        },
+        {
+          "tick": 7680,
+          "value": 35
+        },
+        {
+          "tick": 11520,
+          "value": 30
+        },
+        {
+          "tick": 13440,
+          "value": 30
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 42
+        },
+        {
+          "tick": 7680,
+          "value": 42
+        },
+        {
+          "tick": 11520,
+          "value": 36
+        },
+        {
+          "tick": 13440,
+          "value": 36
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 45
+        },
+        {
+          "tick": 7680,
+          "value": 45
+        },
+        {
+          "tick": 11520,
+          "value": 38
+        },
+        {
+          "tick": 13440,
+          "value": 38
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.delay_mix",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 14
+        },
+        {
+          "tick": 7680,
+          "value": 14
+        },
+        {
+          "tick": 11520,
+          "value": 10
+        },
+        {
+          "tick": 13440,
+          "value": 10
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.chorus_mix",
+      "interpolation": "step",
+      "points": [
+        {
+          "tick": 0,
+          "value": 9
+        },
+        {
+          "tick": 7680,
+          "value": 9
+        },
+        {
+          "tick": 11520,
+          "value": 6
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 39,
+    "bus.piano": 36,
+    "bus.drums": 35,
+    "bus.violin": 45,
+    "bus.bass": 42,
+    "space.chorus_mix": 9,
+    "space.chorus_rate": 24,
+    "space.chorus_depth": 24,
+    "space.delay_mix": 14,
+    "space.delay_time": 72,
+    "space.delay_feedback": 23,
+    "guitar.amp": 0,
+    "guitar.drive": 28,
+    "guitar.tone": 53,
+    "guitar.level": 77,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1"
+}

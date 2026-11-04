@@ -1,0 +1,26 @@
+menu "Guitar Hall pick inputs"
+config HALL_ADC_ENABLE
+    bool "Enable analog Hall input samples"
+    default y
+    help
+        Confirm every connected output is ADC-safe and has a common ground.
+        Never connect a 5V output directly. H1/H2 use GPIO1/2; H3..H7 use GPIO14..18.
+        H1 strums strings 6..1 using one touch snapshot, spaced by at least 8ms.
+        H2..H7 individually trigger strings 6..1.
+        Sampling starts disarmed; HALL,ARM,ON recalibrates before triggering.
+config HALL_ACTIVE_MASK
+    hex "Connected Hall channels (bit 0=H1, bit 6=H7)"
+    range 0x00 0x7f
+    default 0x3f
+config HALL_REVERSE_ORDER
+    bool "Reverse H2..H7 to strings 1..6 (H1 always strums 6..1)"
+    default n
+config HALL_TRIGGER_RAW
+    int "Minimum displacement to trigger (12-bit ADC raw counts)"
+    range 8 1000
+    default 32
+config HALL_FULL_SCALE_RAW
+    int "Displacement corresponding to maximum velocity"
+    range 64 3000
+    default 700
+endmenu

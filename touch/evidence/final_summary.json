@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "chips": [
+    {
+      "chip": 0,
+      "address": "0x37",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        120
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 1,
+      "address": "0x38",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        140
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 2,
+      "address": "0x39",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        192
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 3,
+      "address": "0x3a",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        120
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 4,
+      "address": "0x3b",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        120
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 5,
+      "address": "0x3c",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        120
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 6,
+      "address": "0x3d",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        120
+      ],
+      "automatic_finger_threshold": false
+    },
+    {
+      "chip": 7,
+      "address": "0x3e",
+      "hys_register": "0x84",
+      "manual_hysteresis_counts": 4,
+      "stored_finger_thresholds": [
+        154
+      ],
+      "automatic_finger_threshold": true
+    }
+  ],
+  "S3_restored_exactly": true,
+  "all_eight_online_reported": true,
+  "physical_release_acceptance": false
+}

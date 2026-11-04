@@ -1,0 +1,108 @@
+[
+  {
+    "file": "01_First_Lights.mid",
+    "title": "灯轨初航",
+    "bpm": 80,
+    "bars": 16,
+    "seconds": 48.0,
+    "tracks": [
+      "Guide - First lights"
+    ],
+    "guide_track": "Guide - First lights",
+    "notes": 112,
+    "peak_simultaneous_notes": 1,
+    "compiled_hardware_events": 229,
+    "description": "单旋律入门，前半低音区，后半高音区，适合检查跟灯映射。",
+    "sha256": "f07373eb01c813de1fa6673277c9b089fa158399a2e9a4564c2117d97edce5d2"
+  },
+  {
+    "file": "02_Echo_Retrigger.mid",
+    "title": "回声连击",
+    "bpm": 96,
+    "bars": 8,
+    "seconds": 20.0,
+    "tracks": [
+      "Guide - Repeated touches"
+    ],
+    "guide_track": "Guide - Repeated touches",
+    "notes": 62,
+    "peak_simultaneous_notes": 1,
+    "compiled_hardware_events": 129,
+    "description": "针对1号板的键22/17/29/24，连击逐级加速，每小节留出恢复空隙；可调到50%练习。",
+    "sha256": "d2b170b38021af02dceffe83702f6d61670837e5e599874e984b0bbf4e7adb6c"
+  },
+  {
+    "file": "03_Dusk_Strumming.mid",
+    "title": "暮色扫弦",
+    "bpm": 88,
+    "bars": 16,
+    "seconds": 43.64,
+    "tracks": [
+      "Guide - Acoustic strums"
+    ],
+    "guide_track": "Guide - Acoustic strums",
+    "notes": 192,
+    "peak_simultaneous_notes": 4,
+    "compiled_hardware_events": 389,
+    "description": "木吉他分解与上下扫弦交替，适合同时亮起多个品位和弦灯。",
+    "sha256": "2ca7b2615973ca8da841b837483ad72b171bf2b9ed043a076a27f2727b176df0"
+  },
+  {
+    "file": "04_Star_Harbor.mid",
+    "title": "星港合奏",
+    "bpm": 104,
+    "bars": 32,
+    "seconds": 73.85,
+    "tracks": [
+      "Guide - Harbor lead guitar",
+      "Piano - Moving harmony",
+      "Bass - Anchor",
+      "Violin - Answering phrases",
+      "Drums - Harbor groove"
+    ],
+    "guide_track": "Guide - Harbor lead guitar",
+    "notes": 1000,
+    "peak_simultaneous_notes": 7,
+    "compiled_hardware_events": 2005,
+    "description": "主吉他、流动钢琴和声、轻提琴答句，Bass与鼓共同推进；用于展示多乐器同时发声。",
+    "sha256": "c94657d9df00fe196377b5ba226251a732f379d591d2d1e5455969ee22dc598f"
+  },
+  {
+    "file": "05_Neon_Engine.mid",
+    "title": "霓虹引擎",
+    "bpm": 118,
+    "bars": 32,
+    "seconds": 65.08,
+    "tracks": [
+      "Guide - Neon distorted lead",
+      "Guitar - Power rhythm",
+      "Bass - Engine",
+      "Drums - Rock backbeat"
+    ],
+    "guide_track": "Guide - Neon distorted lead",
+    "notes": 1204,
+    "peak_simultaneous_notes": 7,
+    "compiled_hardware_events": 2413,
+    "description": "失真主奏叠加强力和弦、紧凑低音和突出鼓点；原生工程吉他延音46。",
+    "sha256": "a81fdcf6c9806995a46aac64b617b1d9f1f139f6a33029cfa94476647777c4d0"
+  },
+  {
+    "file": "06_Window_Tides.mid",
+    "title": "窗边潮汐",
+    "bpm": 72,
+    "bars": 24,
+    "seconds": 80.0,
+    "tracks": [
+      "Guide - Window piano melody",
+      "Piano - Left hand",
+      "Guitar - Clear acoustic reply",
+      "Violin - Soft counterline"
+    ],
+    "guide_track": "Guide - Window piano melody",
+    "notes": 420,
+    "peak_simultaneous_notes": 4,
+    "compiled_hardware_events": 845,
+    "description": "缓慢钢琴主旋律、清音木吉他回应、轻提琴对位；可切换吉他轨练习。",
+    "sha256": "c5e89b3d6812b45174783550b847d1c10414dddcd6a12fbef9694bd16a9cfcb2"
+  }
+]

@@ -1,0 +1,201 @@
+{
+  "method": "SMS parameter synthesis; no recorded waveforms",
+  "source_url": "https://theremin.music.uiowa.edu/MISviolin2012.html",
+  "credit": "Lawrence Fritts, University of Iowa Electronic Music Studios",
+  "knots_s": [
+    0.0,
+    0.025,
+    0.075,
+    0.16,
+    0.35,
+    0.65,
+    1.3,
+    2.3
+  ],
+  "sources": [
+    {
+      "midi": 55,
+      "source": "Violin.arco.mf.sulG.G3B3.mono.aif"
+    },
+    {
+      "midi": 56,
+      "source": "Violin.arco.mf.sulG.G3B3.mono.aif"
+    },
+    {
+      "midi": 57,
+      "source": "Violin.arco.mf.sulG.G3B3.mono.aif"
+    },
+    {
+      "midi": 58,
+      "source": "parameter interpolation 57..59"
+    },
+    {
+      "midi": 59,
+      "source": "Violin.arco.mf.sulG.G3B3.mono.aif"
+    },
+    {
+      "midi": 60,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 61,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 62,
+      "source": "Violin.arco.mf.sulD.D4B4.mono.aif"
+    },
+    {
+      "midi": 63,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 64,
+      "source": "Violin.arco.mf.sulD.D4B4.mono.aif"
+    },
+    {
+      "midi": 65,
+      "source": "Violin.arco.mf.sulD.D4B4.mono.aif"
+    },
+    {
+      "midi": 66,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 67,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 68,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 69,
+      "source": "Violin.arco.mf.sulA.A4B4.mono.aif"
+    },
+    {
+      "midi": 70,
+      "source": "Violin.arco.mf.sulD.D4B4.mono.aif"
+    },
+    {
+      "midi": 71,
+      "source": "Violin.arco.mf.sulG.C4B5.mono.aif"
+    },
+    {
+      "midi": 72,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 73,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 74,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 75,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 76,
+      "source": "Violin.arco.mf.sulE.E5B5.mono.aif"
+    },
+    {
+      "midi": 77,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 78,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 79,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 80,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 81,
+      "source": "Violin.arco.mf.sulE.E5B5.mono.aif"
+    },
+    {
+      "midi": 82,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 83,
+      "source": "Violin.arco.mf.sulA.C5B5.mono.aif"
+    },
+    {
+      "midi": 84,
+      "source": "parameter interpolation 83..96"
+    },
+    {
+      "midi": 85,
+      "source": "parameter interpolation 84..96"
+    },
+    {
+      "midi": 86,
+      "source": "parameter interpolation 85..96"
+    },
+    {
+      "midi": 87,
+      "source": "parameter interpolation 86..96"
+    },
+    {
+      "midi": 88,
+      "source": "parameter interpolation 87..96"
+    },
+    {
+      "midi": 89,
+      "source": "parameter interpolation 88..96"
+    },
+    {
+      "midi": 90,
+      "source": "parameter interpolation 89..96"
+    },
+    {
+      "midi": 91,
+      "source": "parameter interpolation 90..96"
+    },
+    {
+      "midi": 92,
+      "source": "parameter interpolation 91..96"
+    },
+    {
+      "midi": 93,
+      "source": "parameter interpolation 92..96"
+    },
+    {
+      "midi": 94,
+      "source": "parameter interpolation 93..96"
+    },
+    {
+      "midi": 95,
+      "source": "parameter interpolation 94..96"
+    },
+    {
+      "midi": 96,
+      "source": "Violin.arco.mf.sulE.C7E7.mono.aif"
+    },
+    {
+      "midi": 97,
+      "source": "Violin.arco.mf.sulE.C7E7.mono.aif"
+    },
+    {
+      "midi": 98,
+      "source": "Violin.arco.mf.sulE.C7E7.mono.aif"
+    },
+    {
+      "midi": 99,
+      "source": "Violin.arco.mf.sulE.C7E7.mono.aif"
+    },
+    {
+      "midi": 100,
+      "source": "Violin.arco.mf.sulE.C7E7.mono.aif"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+PASS: native resource allowlist; unknown keys rejected; missing browser reported
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.694s
+
+OK

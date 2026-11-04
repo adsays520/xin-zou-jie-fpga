@@ -1,0 +1,22 @@
+-series GW5AST
+-device GW5AST-138
+-device_version B
+-package FCPBGA676A
+-part_number GW5AST-LV138FPG676AES
+
+
+-mod_name Gowin_SDP36KE
+-file_name gowin_sdp36ke
+-path C:/Users/Junejay_Huang/Desktop/gowin-2/guitar_host/guitar_audio_fm_demo/src/gowin_sdp36ke/
+-type RAM_SDPE
+-file_type vlg
+-bram_b true
+-ip_version 1.0
+-depth_0 600
+-depth_1 600
+-width_0 24
+-width_1 24
+-read_mode bypass
+-ecc_write_en 1
+-ecc_read_en 1
+-reset_mode sync

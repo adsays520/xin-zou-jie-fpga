@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-10-27T14:35:17.325259+08:00",
+  "projects": {
+    "p06_fuji_pad_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 94.0,
+      "tracks": 4,
+      "notes": 728,
+      "scheduled_events": 1530,
+      "automation_lanes": 5,
+      "simultaneous_instrument_types": 2,
+      "gated_peak_voices": {
+        "piano": 4,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 114,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 0
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 0
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 517,
+        "violin": 211
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "8d5d2ddf84a7eb217a6ff56f85a11c4ee7ac22b9c0a329beb80cb3c3ee91473b"
+    },
+    "p06_fuji_pad_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 16.0,
+      "tracks": 4,
+      "notes": 107,
+      "scheduled_events": 278,
+      "automation_lanes": 5,
+      "simultaneous_instrument_types": 2,
+      "gated_peak_voices": {
+        "piano": 5,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 132,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 0
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 0
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 77,
+        "violin": 30
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "3f022eda4a8d52b3e2bdd23d6903446a39daf936737234785a299a9e0c48c4b7"
+    }
+  },
+  "previous_projects": {
+    "01_city_lights_full.tang.json": "776bff39656801ea09fcc980e189ed8425f191e4bf993d093873e97d7f1b4534",
+    "01_city_lights_short.tang.json": "c20264faa7e7044aba9b6887f5d23308eefeeb624bc9ebfd8e6cc1ed73eaee86",
+    "02_rain_cafe_full.tang.json": "3b0d05896585e91413248bb4023296c43f652ee18a5dd5bbfceae5b00371ed1f",
+    "02_rain_cafe_short.tang.json": "b96742a0ec40b1eff304c46f6e014b21b6d8a1b0b350f9fa9d24352cf3cf8afb",
+    "03_northern_letter_full.tang.json": "54868daeb15fac84f0e456f9b7b4d3dd23e7567f33a36a20fac7481e5d43e271",
+    "03_northern_letter_short.tang.json": "ed879934b39a13f54abee7af15f51e9f847135eb0ba174fa37c7327fbe7a5c03",
+    "04_red_engine_full.tang.json": "3381a062215f782a1a430d3db2816bee4be768c193903ae0468f0c0ab9ebe473",
+    "04_red_engine_short.tang.json": "2aa8390c17407ee52d59607b6c7e2fe3c03539e1ec361c5c8d0de56df345f337",
+    "05_stellar_voyage_full.tang.json": "81531a4a510c6eab9e37f3c2341324164bf43b7d57df100b52cb130044a24346",
+    "05_stellar_voyage_short.tang.json": "9f7705f2ca07964a8b352c3c51d4b01afd7c1389b96091ab8677c4f9a3eafb0f",
+    "06_neon_runway_full.tang.json": "b52c2da57db406b77c9fd43919ec4ecfd56176219f717718df403048a49489f2",
+    "06_neon_runway_short.tang.json": "542f6c5a24ab06ee20ff1bda91fb2869728bf9a39b7fb9ecbeb247e8ec8e5c7f",
+    "g01_iron_highway_full.tang.json": "2899177d2b1290752746f14b4c5d14c0506849a7ce95277dc6d113766396883d",
+    "g01_iron_highway_short.tang.json": "6df566f942ba3d37325f8aace594101896fe9d4f53496798130c108263000efc",
+    "g02_spark_switch_full.tang.json": "e1594d2cd2b2720e8b381b0caa7d154f474ba6654f197e0e47105101abef965c",
+    "g02_spark_switch_short.tang.json": "eb453848577cebfa034bf81693629d971724f35652e8ee2d0ba1cb48458ebf7a",
+    "g03_shanhai_full.tang.json": "efcf48f12befd6d3bc946283d203a22102c7bc1c3fb12c1867128ee9097a95ec",
+    "g03_shanhai_short.tang.json": "38953546e66b661256cf24d9da49fb63f1ec836547a2c32f821ec7408dc5a765",
+    "p01_window_letter_full.tang.json": "63876e31210a83e739cbf7324726134302b788333b8ba3b3cb3a418d6350e15b",
+    "p01_window_letter_short.tang.json": "25dc9557f39e6c307277f5cf54979909cee4ed1897e2e6af679183894e9fbe0f",
+    "p02_blue_platform_full.tang.json": "a80c3160d83321a81b272f6d25b95a305b7665c350cb06ff62b49e06620a6c23",
+    "p02_blue_platform_short.tang.json": "c3415075c05590d406ba94b427f967924a69a2dae61716c11be72dcf93869a78",
+    "p03_after_rain_full.tang.json": "b5d256fad9d3569836f6b12ac31d52c8b6ca0b011a176b2d4810cd47a0a17266",
+    "p03_after_rain_short.tang.json": "41927624ce62083245382bb2374deed88f6fbd6abdc9dc5c3cf5f38a6096bf16",
+    "p04_fuji_full.tang.json": "82184efa16e89b8d130c75a0e3427aabb0adb4ef459aebc1db215cbab2da920c",
+    "p04_fuji_short.tang.json": "5c70bee53fdc0613937ec7ac1d8537b36ccb78c07dac2d6fa466bae62558c50c",
+    "p05_fuji_violin_full.tang.json": "4a1c9d64bdaf6f857e09a7f10c964637a76ffa83216107228bff2f5506ca27a5",
+    "p05_fuji_violin_short.tang.json": "1185dab34775323155eb853a7538b16d66ccd6f639d11da413108ab93c688490"
+  },
+  "previous_project_files_unchanged": true,
+  "source_sha256": {
+    "fuji_violin_pad.py": "5bf75825c44fb684393bff926fbaff73c494c0a1edc505b1bab84acca174c3c4",
+    "fuji_violin_score.py": "54f86e41e196edd96d195455c2548402d3133e9de72dc4014e7219fd147e2b65",
+    "build_fuji_pad.py": "acc7f00de7091c4478cdf51c174fada9069ada28f83b6b3fbd9009bb8034c206",
+    "fuji_score.py": "f838d13b1c16cb2dbcf979c81756a2d0fcb9c1f0bed351e4c8fdd4769e361f86",
+    "fuji_arrangement.py": "88fbd58ba47d0902f0cd84f14640ae82195e6b6022f0c6bcc059ac83a8a49245"
+  },
+  "violin_score_windows": [
+    [
+      9,
+      13,
+      6,
+      80,
+      10,
+      3.5
+    ],
+    [
+      16,
+      16,
+      0,
+      16,
+      17,
+      2
+    ],
+    [
+      20,
+      20,
+      0,
+      8,
+      21,
+      2
+    ],
+    [
+      24,
+      24,
+      0,
+      16,
+      25,
+      2
+    ],
+    [
+      30,
+      30,
+      0,
+      16,
+      31,
+      2
+    ],
+    [
+      31,
+      31,
+      0,
+      8,
+      32,
+      2
+    ],
+    [
+      34,
+      34,
+      0,
+      16,
+      35,
+      2
+    ],
+    [
+      35,
+      35,
+      10,
+      16,
+      37,
+      0.5
+    ],
+    [
+      57,
+      57,
+      0,
+      8,
+      38,
+      2
+    ],
+    [
+      38,
+      38,
+      0,
+      8,
+      39,
+      2
+    ],
+    [
+      41,
+      41,
+      8,
+      16,
+      43,
+      0
+    ],
+    [
+      62,
+      63,
+      0,
+      32,
+      43,
+      2
+    ]
+  ],
+  "piano_both_hands_preserved": true,
+  "violin_legato": true,
+  "real_serial_connected": false,
+  "board_listening_validated": false
+}

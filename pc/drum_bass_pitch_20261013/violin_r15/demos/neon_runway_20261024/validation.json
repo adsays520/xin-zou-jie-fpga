@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-10-24T02:47:23.114309+08:00",
+  "passed": true,
+  "files": {
+    "Neon_Runway_32bars.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 80.0,
+      "tracks": 9,
+      "notes": 1465,
+      "scheduled_events": 3280,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "drums": 4,
+        "bass": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 15
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 222,
+        "guitar": 451,
+        "drums": 593,
+        "bass": 104,
+        "violin": 95
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "cfda422214075248439fa4d78164c10a81836df7374a349b29fb8a4e8a595648"
+    },
+    "Neon_Runway_8bars.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 20.0,
+      "tracks": 9,
+      "notes": 389,
+      "scheduled_events": 862,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "bass": 1,
+        "violin": 1,
+        "drums": 4
+      },
+      "maximum_bytes_per_100ms": 198,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 15
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 51,
+        "guitar": 119,
+        "bass": 26,
+        "violin": 25,
+        "drums": 168
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "90e5f663f098db5480071e67bc4b39e6a030a81e6043cc54c87c59a3312824b3"
+    }
+  },
+  "sources": {
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\violin_r15\\demos\\neon_runway_20261024\\build_demo.py": "00eb1148c7b2a5d5e6a5d794ff9a9de02ef4f7af3edc520ad5c46ec4e5753351",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\violin_r15\\arrangement_model.py": "dfd80f2da48aa4305f45096d021d020348dd0cb492a554a14c8ae717c41b1e7d",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\violin_r15\\arrangement_playback.py": "4edfcf6c436a97ea69f8bc00897574057c2956946adbfc12f3dde8e4022c99bc",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\violin_r15\\ensemble_protocol.py": "6df3e85c71bd28b242d1945eb4a810e7f4ac003842630c7b30f236542183f941",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\violin_r15\\melody_player.py": "aff9e5db6b9635339ea36e0891b453416be91f6af599e6bc00a5bbf7c9e51dfa",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\host\\drum_patterns.py": "4059ebab368f3eb4d667543923ea2a1c78ee488619d373c547816baf074b159a",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\host\\guitar_effects.py": "56f905d2c3415142ffb2f643c32f5f40d446f09acb28baf3739934d22e3fbd8b",
+    "C:\\Users\\Junejay_Huang\\Desktop\\gowin-2\\drum_bass_pitch_20261013\\host\\master_space_effects.py": "ba9041b4c21eadb215b77b3a8d62f640a68d7acb9a67d8535a29a9071fdbc6e6"
+  }
+}

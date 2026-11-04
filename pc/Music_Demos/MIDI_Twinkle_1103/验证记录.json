@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "tracks": [
+    {
+      "file": "Twinkle_Star.mid",
+      "title": "小星星·慢速单旋律",
+      "bpm": 80,
+      "bars": 12,
+      "seconds": 36.0,
+      "tracks": [
+        "Guide - Twinkle melody"
+      ],
+      "guide_track": "Guide - Twinkle melody",
+      "notes": 42,
+      "peak_simultaneous_notes": 1,
+      "compiled_hardware_events": 89,
+      "description": "C大调、4/4、完整六句；推荐用作MIDI跟灯练习。",
+      "sha256": "d665d8d5ded091625058bf1f3333a68c18dea40ecc3053826c99074c2fec8803"
+    },
+    {
+      "file": "Twinkle_Ensemble.mid",
+      "title": "小星星·钢琴木吉他",
+      "bpm": 80,
+      "bars": 12,
+      "seconds": 36.0,
+      "tracks": [
+        "Guide - Twinkle melody",
+        "Piano - Gentle bass",
+        "Guitar - Clean acoustic arpeggio"
+      ],
+      "guide_track": "Guide - Twinkle melody",
+      "notes": 186,
+      "peak_simultaneous_notes": 4,
+      "compiled_hardware_events": 377,
+      "description": "钢琴主旋律与轻左手，清音木吉他分解伴奏；无鼓、无失真。",
+      "sha256": "eb9ca83ced28399642fed818f892c256db1c43510f9f95e638bd492deba7800e"
+    }
+  ],
+  "melody_notes_checked": 42,
+  "physical_listening": false
+}

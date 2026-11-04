@@ -1,0 +1,28 @@
+test_full_score_is_not_limited_to_256_notes (test_midi_guide.MidiTests.test_full_score_is_not_limited_to_256_notes) ... ok
+test_overlap_pairs_fifo_and_drum_channel_retained_for_filter (test_midi_guide.MidiTests.test_overlap_pairs_fifo_and_drum_channel_retained_for_filter) ... ok
+test_physical_mapping_hold_release_polyphony_and_range (test_midi_guide.MidiTests.test_physical_mapping_hold_release_polyphony_and_range) ... ok
+test_tempo_track_running_status_velocity_zero_and_sustain (test_midi_guide.MidiTests.test_tempo_track_running_status_velocity_zero_and_sustain) ... ok
+test_truncated_unsupported_and_bad_running_status_rejected (test_midi_guide.MidiTests.test_truncated_unsupported_and_bad_running_status_rejected) ... ok
+test_automation_point_and_default_edits (test_arrangement_ui.ArrangementInterfaceTests.test_automation_point_and_default_edits) ... ok
+test_busy_guard_refuses_upload_riff_and_song (test_arrangement_ui.ArrangementInterfaceTests.test_busy_guard_refuses_upload_riff_and_song) ... ok
+test_hardware_play_is_explicit_and_disconnect_stops (test_arrangement_ui.ArrangementInterfaceTests.test_hardware_play_is_explicit_and_disconnect_stops) ... ok
+test_invalid_edit_rolls_back_without_changing_uart (test_arrangement_ui.ArrangementInterfaceTests.test_invalid_edit_rolls_back_without_changing_uart) ... ok
+test_mouse_clip_move_and_resize (test_arrangement_ui.ArrangementInterfaceTests.test_mouse_clip_move_and_resize) ... ok
+test_mouse_note_move_and_resize (test_arrangement_ui.ArrangementInterfaceTests.test_mouse_note_move_and_resize) ... ok
+test_mute_solo_are_undoable (test_arrangement_ui.ArrangementInterfaceTests.test_mute_solo_are_undoable) ... ok
+test_page_is_integrated_and_opening_does_not_send (test_arrangement_ui.ArrangementInterfaceTests.test_page_is_integrated_and_opening_does_not_send) ... ok
+test_partial_serial_write_stops_future_events (test_arrangement_ui.ArrangementInterfaceTests.test_partial_serial_write_stops_future_events) ... ok
+test_preview_and_leaving_page_are_safe (test_arrangement_ui.ArrangementInterfaceTests.test_preview_and_leaving_page_are_safe) ... ok
+test_rejects_hardware_conflicts_before_any_write (test_arrangement_ui.ArrangementInterfaceTests.test_rejects_hardware_conflicts_before_any_write) ... ok
+test_save_open_and_export_no_hardware_writes (test_arrangement_ui.ArrangementInterfaceTests.test_save_open_and_export_no_hardware_writes) ... ok
+test_tracks_clips_notes_and_undo_redo (test_arrangement_ui.ArrangementInterfaceTests.test_tracks_clips_notes_and_undo_redo) ... ok
+test_unsaved_discard_can_cancel (test_arrangement_ui.ArrangementInterfaceTests.test_unsaved_discard_can_cancel) ... ok
+test_capability_pause_and_clear (test_midi_guide_ui.MidiGuideInterfaceTests.test_capability_pause_and_clear) ... ok
+test_invalid_and_unknown_firmware (test_midi_guide_ui.MidiGuideInterfaceTests.test_invalid_and_unknown_firmware) ... ok
+test_seek_hide_reconnect (test_midi_guide_ui.MidiGuideInterfaceTests.test_seek_hide_reconnect) ... ok
+test_speed_resume_completion (test_midi_guide_ui.MidiGuideInterfaceTests.test_speed_resume_completion) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 36.707s
+
+OK

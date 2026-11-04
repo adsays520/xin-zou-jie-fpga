@@ -1,0 +1,21 @@
+# Local build products and signing secrets
+**/__pycache__/
+*.pyc
+*.pyo
+**/build/
+**/build_ble/
+**/build_config/
+**/dist/
+**/.gradle/
+**/.cache/
+**/local.properties
+*.keystore
+*.jks
+*.pem
+*.key
+.env
+.env.*
+pc/_internal/
+pc/*.exe
+pc/startup_error.log
+pc/rhythm_data/

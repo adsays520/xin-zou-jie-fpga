@@ -1,0 +1,79 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5AST-138B" pn="GW5AST-LV138FPG676AES">gw5ast138b-002</Device>
+    <FileList>
+        <File path="src/s3_bulk_buffer.v" type="file.verilog" enable="1"/>
+        <File path="src/panel_inputs.v" type="file.verilog" enable="1"/>
+        <File path="src/panel_controller.v" type="file.verilog" enable="1"/>
+        <File path="src/panel_pitch.v" type="file.verilog" enable="1"/>
+        <File path="src/panel_raster.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/drawn_table_ram_pages.v" type="file.verilog" enable="1"/>
+        <File path="src/ensemble_mixer.v" type="file.verilog" enable="1"/>
+        <File path="src/ensemble_capabilities.v" type="file.verilog" enable="1"/>
+        <File path="src/drums/kick_modal.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_pitch_control.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_pitch_shift.v" type="file.verilog" enable="1"/>
+        <File path="src/bass/bass_poly8.v" type="file.verilog" enable="1"/>
+        <File path="src/audio_driver.v" type="file.verilog" enable="1"/>
+        <File path="src/audio_q23_to_s16.v" type="file.verilog" enable="1"/>
+        <File path="src/button_debounce.v" type="file.verilog" enable="1"/>
+        <File path="src/guitar_audio_top.v" type="file.verilog" enable="1"/>
+        <File path="src/performance_mixer.v" type="file.verilog" enable="1"/>
+        <File path="src/st7735_status.v" type="file.verilog" enable="1"/>
+        <File path="src/verification/verification_control.v" type="file.verilog" enable="1"/>
+        <File path="src/verification/verification_dds.v" type="file.verilog" enable="1"/>
+        <File path="src/verification/verification_telemetry.v" type="file.verilog" enable="1"/>
+        <File path="src/verification/verification_visuals.v" type="file.verilog" enable="1"/>
+        <File path="src/verification/verification_fast_key.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_fx_control.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_fx.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_fx_biquad.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_fx_oversample.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/guitar_fx_modulation.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/master_space_fx_control.v" type="file.verilog" enable="1"/>
+        <File path="src/effects/master_space_fx.v" type="file.verilog" enable="1"/>
+        <File path="src/guitar_body_filter.v" type="file.verilog" enable="1"/>
+        <File path="src/guitar_output_conditioner.v" type="file.verilog" enable="1"/>
+        <File path="src/guitar_note_params.v" type="file.verilog" enable="1"/>
+        <File path="src/guitar_uart_trigger.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_adsr/gowin_adsr.v" type="file.verilog" enable="1"/>
+        <File path="constraints/audio.cst" type="file.cst" enable="1"/>
+        <File path="constraints/audio.sdc" type="file.sdc" enable="1"/>
+        <File path="src/poly32/guitar_voice_tdm_core.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/poly32_road_bank.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/poly32_scratch_bank.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/poly32_context_ram.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/poly32_tail_cleaner.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/poly32_bus_manager.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32/guitar_poly32_tdm.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/drawn_synth_control.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/drawn_synth16.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/piano_wavetable16_tdm.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/piano_soundboard.v" type="file.verilog" enable="1"/>
+        <File path="src/drums/drum_synth.v" type="file.verilog" enable="1"/>
+        <File path="src/drums/drum_machine.v" type="file.verilog" enable="1"/>
+            <File path="src/guitar_audio_ddr_top.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/piano_ddr_bank.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/piano_ddr_transport.v" type="file.verilog" enable="1"/>
+        <File path="src/excitation_ddr/async_fifo64.v" type="file.verilog" enable="1"/>
+        <File path="ip/gowin_pll/gowin_pll.v" type="file.verilog" enable="1"/>
+        <File path="ip/ddr3_memory_interface/ddr3_memory_interface.v" type="file.verilog" enable="1"/>
+            <File path="src/piano/piano_bank_status_tx.v" type="file.verilog" enable="1"/>
+            <File path="src/effects/stereo_ddr_delay.v" type="file.verilog" enable="1"/>
+        <File path="src/piano/piano_audio_ddr_arbiter.v" type="file.verilog" enable="1"/>
+        <File path="src/s3_spi_link.v" type="file.verilog" enable="1"/>
+        <File path="src/s3_control_ingress.v" type="file.verilog" enable="1"/>
+        <File path="src/touch_to_command.v" type="file.verilog" enable="1"/>
+        <File path="src/touch_legacy.v" type="file.verilog" enable="1"/>
+        <File path="src/pluck_event_queue.v" type="file.verilog" enable="1"/>
+        <File path="violin_r15/violin_core.v" type="file.verilog" enable="1"/>
+        <File path="violin_r15/violin_channel.v" type="file.verilog" enable="1"/>
+        <File path="violin_r15/violin_touch_control.v" type="file.verilog" enable="1"/>
+        <File path="src/storage/sd_spi_byte.v" type="file.verilog" enable="1"/>
+        <File path="src/storage/sd_spi_card.v" type="file.verilog" enable="1"/>
+        <File path="src/storage/piano_sd_boot.v" type="file.verilog" enable="1"/>
+    </FileList>
+</Project>

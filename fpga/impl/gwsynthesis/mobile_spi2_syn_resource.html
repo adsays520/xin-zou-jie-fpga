@@ -1,0 +1,886 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Hierarchy Module Resource</title>
+<style type="text/css">
+body { font-family: Verdana, Arial, sans-serif; font-size: 14px; }
+div#main_wrapper{ width: 100%; }
+h1 {text-align: center; }
+h1 {margin-top: 36px; }
+table, th, td { border: 1px solid #aaa; }
+table { border-collapse:collapse; margin-top: 10px; margin-bottom: 20px; width: 100%; }
+th, td { align = "center"; padding: 5px 2px 5px 5px; }
+th { color: #fff; font-weight: bold; background-color: #0084ff; }
+table td.label { width: 20%; white-space: nowrap; min-width: 20px; background-color: #dee8f4; }
+</style>
+</head>
+<body>
+<div id="main_wrapper">
+<div id="content">
+<h1>Hierarchy Module Resource</h1>
+<table>
+<tr>
+<th class="label">MODULE NAME</th>
+<th class="label">REG NUMBER</th>
+<th class="label">ALU NUMBER</th>
+<th class="label">LUT NUMBER</th>
+<th class="label">DSP NUMBER</th>
+<th class="label">BSRAM NUMBER</th>
+<th class="label">SSRAM NUMBER</th>
+<th class="label">ROM16 NUMBER</th>
+</tr>
+<tr>
+<td class="label">guitar_audio_ddr_top (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">43</td>
+<td align = "center">26</td>
+<td align = "center">34</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_ddr_pll
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_ddr3
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">5815</td>
+<td align = "center">189</td>
+<td align = "center">3387</td>
+<td align = "center">-</td>
+<td align = "center">24</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_arbiter
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">5</td>
+<td align = "center">-</td>
+<td align = "center">269</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_memory
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">568</td>
+<td align = "center">-</td>
+<td align = "center">528</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_requests
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/piano_ddr_transport.v)</td>
+<td align = "center">97</td>
+<td align = "center">4</td>
+<td align = "center">31</td>
+<td align = "center">-</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_responses
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/piano_ddr_transport.v)</td>
+<td align = "center">97</td>
+<td align = "center">4</td>
+<td align = "center">25</td>
+<td align = "center">-</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_audio
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_ddr_top.v)</td>
+<td align = "center">653</td>
+<td align = "center">7</td>
+<td align = "center">606</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_performance_mixer
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">414</td>
+<td align = "center">171</td>
+<td align = "center">486</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_peak
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/ensemble_mixer.v)</td>
+<td align = "center">448</td>
+<td align = "center">355</td>
+<td align = "center">476</td>
+<td align = "center">2</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_panel_inputs
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--e1
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">12</td>
+<td align = "center">-</td>
+<td align = "center">20</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--e2
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">12</td>
+<td align = "center">-</td>
+<td align = "center">20</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">22</td>
+<td align = "center">-</td>
+<td align = "center">38</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--r
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">47</td>
+<td align = "center">-</td>
+<td align = "center">88</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--d
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">22</td>
+<td align = "center">-</td>
+<td align = "center">38</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--l
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/panel_inputs.v)</td>
+<td align = "center">47</td>
+<td align = "center">-</td>
+<td align = "center">88</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_panel_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">225</td>
+<td align = "center">11</td>
+<td align = "center">556</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_panel_pitch
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">134</td>
+<td align = "center">54</td>
+<td align = "center">186</td>
+<td align = "center">6</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_status_screen
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">298</td>
+<td align = "center">-</td>
+<td align = "center">247</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--panel_view
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/st7735_status.v)</td>
+<td align = "center">190</td>
+<td align = "center">26</td>
+<td align = "center">1066</td>
+<td align = "center">2</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_verification_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">241</td>
+<td align = "center">8</td>
+<td align = "center">135</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_verification_dds
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">369</td>
+<td align = "center">126</td>
+<td align = "center">376</td>
+<td align = "center">16</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_verification_telemetry
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">142</td>
+<td align = "center">21</td>
+<td align = "center">218</td>
+<td align = "center">-</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_tx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/verification/verification_telemetry.v)</td>
+<td align = "center">24</td>
+<td align = "center">-</td>
+<td align = "center">44</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_bank_status_tx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">54</td>
+<td align = "center">-</td>
+<td align = "center">28</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_tx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/piano_bank_status_tx.v)</td>
+<td align = "center">24</td>
+<td align = "center">-</td>
+<td align = "center">79</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_ensemble_capabilities
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">26</td>
+<td align = "center">-</td>
+<td align = "center">20</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_tx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/ensemble_capabilities.v)</td>
+<td align = "center">24</td>
+<td align = "center">-</td>
+<td align = "center">64</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_verification_visuals
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">1672</td>
+<td align = "center">175</td>
+<td align = "center">1463</td>
+<td align = "center">3</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_output_quantizer_l
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">71</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_output_quantizer_r
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">71</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_next_button
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">22</td>
+<td align = "center">-</td>
+<td align = "center">42</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_pluck_button
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">22</td>
+<td align = "center">-</td>
+<td align = "center">42</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_fast_pluck_button
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">22</td>
+<td align = "center">-</td>
+<td align = "center">45</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_s3_bulk
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">543</td>
+<td align = "center">33</td>
+<td align = "center">740</td>
+<td align = "center">-</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_s3_link
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">2799</td>
+<td align = "center">134</td>
+<td align = "center">2360</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_touch_commands
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_legacy
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/touch_to_command.v)</td>
+<td align = "center">657</td>
+<td align = "center">142</td>
+<td align = "center">1360</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_violin
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/touch_to_command.v)</td>
+<td align = "center">276</td>
+<td align = "center">21</td>
+<td align = "center">471</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_control_ingress
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">113</td>
+<td align = "center">-</td>
+<td align = "center">527</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_rx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/s3_control_ingress.v)</td>
+<td align = "center">38</td>
+<td align = "center">-</td>
+<td align = "center">60</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_uart_trigger
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">2704</td>
+<td align = "center">36</td>
+<td align = "center">984</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_drawn_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">463</td>
+<td align = "center">38</td>
+<td align = "center">435</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_drums
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">198</td>
+<td align = "center">80</td>
+<td align = "center">341</td>
+<td align = "center">1</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_synth
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/drums/drum_machine.v)</td>
+<td align = "center">3479</td>
+<td align = "center">553</td>
+<td align = "center">3897</td>
+<td align = "center">5</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_kick
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/drums/drum_synth.v)</td>
+<td align = "center">1063</td>
+<td align = "center">126</td>
+<td align = "center">916</td>
+<td align = "center">3</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_parameters
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/drums/drum_synth.v)</td>
+<td align = "center">162</td>
+<td align = "center">11</td>
+<td align = "center">382</td>
+<td align = "center">-</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_peak
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/drums/drum_synth.v)</td>
+<td align = "center">448</td>
+<td align = "center">355</td>
+<td align = "center">476</td>
+<td align = "center">2</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_pitch_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">96</td>
+<td align = "center">8</td>
+<td align = "center">112</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_pitch_shift
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">24</td>
+<td align = "center">48</td>
+<td align = "center">10</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_fx_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">194</td>
+<td align = "center">8</td>
+<td align = "center">143</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_fx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">999</td>
+<td align = "center">188</td>
+<td align = "center">2534</td>
+<td align = "center">8</td>
+<td align = "center">3</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_eq
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/effects/guitar_fx.v)</td>
+<td align = "center">1459</td>
+<td align = "center">273</td>
+<td align = "center">1054</td>
+<td align = "center">5</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_os
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/effects/guitar_fx.v)</td>
+<td align = "center">345</td>
+<td align = "center">339</td>
+<td align = "center">3270</td>
+<td align = "center">3</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_mod
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/effects/guitar_fx.v)</td>
+<td align = "center">413</td>
+<td align = "center">212</td>
+<td align = "center">761</td>
+<td align = "center">5</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_peak
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/effects/guitar_fx.v)</td>
+<td align = "center">303</td>
+<td align = "center">275</td>
+<td align = "center">364</td>
+<td align = "center">1</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_space_control
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">158</td>
+<td align = "center">8</td>
+<td align = "center">123</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_space_fx
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">416</td>
+<td align = "center">234</td>
+<td align = "center">366</td>
+<td align = "center">14</td>
+<td align = "center">9</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_delay_memory
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/effects/master_space_fx.v)</td>
+<td align = "center">857</td>
+<td align = "center">48</td>
+<td align = "center">982</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_note_params
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">1626</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_pluck_event_queue
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">254</td>
+<td align = "center">12</td>
+<td align = "center">446</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_audio_drive
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">59</td>
+<td align = "center">35</td>
+<td align = "center">61</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_poly32
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">3073</td>
+<td align = "center">230</td>
+<td align = "center">2273</td>
+<td align = "center">5</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_custom_envelope_ram
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_poly32_tdm.v)</td>
+<td align = "center">52</td>
+<td align = "center">-</td>
+<td align = "center">112</td>
+<td align = "center">-</td>
+<td align = "center">8</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_core
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_poly32_tdm.v)</td>
+<td align = "center">1078</td>
+<td align = "center">610</td>
+<td align = "center">2910</td>
+<td align = "center">14</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_context_ram
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_voice_tdm_core.v)</td>
+<td align = "center">2041</td>
+<td align = "center">5</td>
+<td align = "center">775</td>
+<td align = "center">-</td>
+<td align = "center">4</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_string_delay_ram
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_voice_tdm_core.v)</td>
+<td align = "center">1541</td>
+<td align = "center">26</td>
+<td align = "center">1909</td>
+<td align = "center">3</td>
+<td align = "center">28</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_excitation_scratch_ram
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_voice_tdm_core.v)</td>
+<td align = "center">788</td>
+<td align = "center">28</td>
+<td align = "center">1128</td>
+<td align = "center">1</td>
+<td align = "center">19</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_bus_manager
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/poly32/guitar_poly32_tdm.v)</td>
+<td align = "center">166</td>
+<td align = "center">72</td>
+<td align = "center">276</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_violin_channel
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">33</td>
+<td align = "center">7</td>
+<td align = "center">97</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_core
+ (E:/FPGA_Android_20261101/fpga_spi_work/violin_r15/violin_channel.v)</td>
+<td align = "center">3440</td>
+<td align = "center">779</td>
+<td align = "center">2595</td>
+<td align = "center">11</td>
+<td align = "center">68</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_bass
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">1795</td>
+<td align = "center">346</td>
+<td align = "center">2276</td>
+<td align = "center">5</td>
+<td align = "center">5</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_bass_bus
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/bass/bass_poly8.v)</td>
+<td align = "center">142</td>
+<td align = "center">72</td>
+<td align = "center">276</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_sd_card
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">255</td>
+<td align = "center">59</td>
+<td align = "center">580</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_byte
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/storage/sd_spi_card.v)</td>
+<td align = "center">40</td>
+<td align = "center">-</td>
+<td align = "center">44</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_sd_boot
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">896</td>
+<td align = "center">326</td>
+<td align = "center">1859</td>
+<td align = "center">-</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_piano_wavetable
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">5063</td>
+<td align = "center">1542</td>
+<td align = "center">7285</td>
+<td align = "center">32</td>
+<td align = "center">15</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_parameters
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/piano_wavetable16_tdm.v)</td>
+<td align = "center">2552</td>
+<td align = "center">25</td>
+<td align = "center">3127</td>
+<td align = "center">1</td>
+<td align = "center">11</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_drawn_synth
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">2653</td>
+<td align = "center">251</td>
+<td align = "center">2730</td>
+<td align = "center">7</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_table
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/drawn_synth16.v)</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">38</td>
+<td align = "center">-</td>
+<td align = "center">12</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_mix
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/piano/drawn_synth16.v)</td>
+<td align = "center">134</td>
+<td align = "center">72</td>
+<td align = "center">247</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--u_piano_soundboard
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">25</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--g_body_filter.u_body_filter
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">420</td>
+<td align = "center">152</td>
+<td align = "center">336</td>
+<td align = "center">5</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--g_output_conditioner.u_output_conditioner
+ (E:/FPGA_Android_20261101/fpga_spi_work/src/guitar_audio_top.v)</td>
+<td align = "center">25</td>
+<td align = "center">49</td>
+<td align = "center">70</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+</table>
+</div><!-- content -->
+</div><!-- main_wrapper -->
+</body>
+</html>

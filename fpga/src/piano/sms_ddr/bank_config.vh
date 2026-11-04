@@ -1,0 +1,4 @@
+`ifndef PIANO_BANK_CONFIG_VH
+`define PIANO_BANK_CONFIG_VH
+`define PIANO_BANK_CRC32 32'h9d9a4073
+`endif

@@ -1,0 +1,22 @@
+-series GW5AST
+-device GW5AST-138
+-device_version B
+-package FCPBGA676A
+-part_number GW5AST-LV138FPG676AES
+
+
+-mod_name Gowin_ADSR
+-file_name gowin_adsr
+-path E:/918guitar_audio_fm_demo_no_usb_full_fret/src/gowin_adsr/
+-type RAM_SDPE
+-file_type vlg
+-bram_b true
+-ip_version 1.0
+-depth_0 4096
+-depth_1 4096
+-width_0 16
+-width_1 16
+-read_mode bypass
+-ecc_write_en 1
+-ecc_read_en 1
+-reset_mode sync

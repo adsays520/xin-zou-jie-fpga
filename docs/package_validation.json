@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "snapshot": "2026-11-04",
+  "desktop": {
+    "passed": true,
+    "pages_checked": [
+      "guitar",
+      "piano",
+      "drums",
+      "pitch",
+      "effects",
+      "mix",
+      "verify",
+      "violin",
+      "hall",
+      "song",
+      "arrangement",
+      "rhythm",
+      "midi_guide",
+      "demos"
+    ],
+    "catalog_songs": 16,
+    "projects_loaded_and_compiled": 32,
+    "midi_files_loaded": 8,
+    "midi_notes": 3218,
+    "frozen": true,
+    "resource_root": "D:\\XJ_1104\\pc",
+    "module_paths": {
+      "host_controller": "D:\\XJ_1104\\pc\\drum_bass_pitch_20261013\\violin_r15\\host_controller.py",
+      "guitar_controller": "D:\\XJ_1104\\pc\\drum_bass_pitch_20261013\\host\\guitar_controller.py",
+      "rhythm_panel": "D:\\XJ_1104\\pc\\drum_bass_pitch_20261013\\violin_r15\\rhythm_panel.py",
+      "demo_library": "D:\\XJ_1104\\pc\\Music_Demos\\demo_library.py",
+      "midi_guide": "D:\\XJ_1104\\pc\\drum_bass_pitch_20261013\\violin_r15\\midi_guide.py"
+    },
+    "hardware_connected": false,
+    "firmware_written": false
+  },
+  "led": {
+    "passed": true,
+    "frozen": true,
+    "mode": "led",
+    "hardware_connected": false,
+    "firmware_written": false,
+    "resource_root": "D:\\XJ_1104\\pc"
+  },
+  "apk_assets_identical": 48,
+  "s3_version": "3.4.27-midi-guide",
+  "android_version": "0.5-midi-import",
+  "fpga_inputs_unchanged": 201,
+  "sd_assets_crc_verified": true,
+  "android_midi_parser": true,
+  "android_mock_ui": true,
+  "java_ack": true,
+  "desktop_midi_tests": true,
+  "pc_android_event_consistency": true,
+  "hardware_connected": false,
+  "firmware_written": false,
+  "real_phone_acceptance": false,
+  "touch_release_acceptance": "pending",
+  "latency_jitter_under_5ms": "not established",
+  "screen_white_issue": "deferred by user; existing FPGA unchanged"
+}

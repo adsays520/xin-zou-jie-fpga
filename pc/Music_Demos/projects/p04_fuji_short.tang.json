@@ -1,0 +1,911 @@
+{
+  "name": "富士山下 · 钢琴三重奏16秒试听",
+  "bpm": 120,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴右手·主旋律与装饰",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "短版·谱第28–33小节",
+          "start": 0,
+          "length": 11520,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-7"
+            },
+            {
+              "start": 2160,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-0"
+            },
+            {
+              "start": 2400,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-1"
+            },
+            {
+              "start": 2640,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-2"
+            },
+            {
+              "start": 2880,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-3"
+            },
+            {
+              "start": 3240,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-4"
+            },
+            {
+              "start": 3600,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-5"
+            },
+            {
+              "start": 3840,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-0"
+            },
+            {
+              "start": 4200,
+              "duration": 360,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-1"
+            },
+            {
+              "start": 4560,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-2"
+            },
+            {
+              "start": 4800,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-3"
+            },
+            {
+              "start": 5040,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-4"
+            },
+            {
+              "start": 5520,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-5"
+            },
+            {
+              "start": 6000,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-0"
+            },
+            {
+              "start": 6240,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-1"
+            },
+            {
+              "start": 6480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-2"
+            },
+            {
+              "start": 6720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-3"
+            },
+            {
+              "start": 6960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-4"
+            },
+            {
+              "start": 7200,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-5"
+            },
+            {
+              "start": 7440,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-6"
+            },
+            {
+              "start": 7920,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-0"
+            },
+            {
+              "start": 8160,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-1"
+            },
+            {
+              "start": 8400,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-2"
+            },
+            {
+              "start": 8640,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-3"
+            },
+            {
+              "start": 8880,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-4"
+            },
+            {
+              "start": 9120,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-5"
+            },
+            {
+              "start": 9360,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-6"
+            },
+            {
+              "start": 9840,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-0"
+            },
+            {
+              "start": 10080,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-1"
+            },
+            {
+              "start": 10320,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-2"
+            },
+            {
+              "start": 10560,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-3"
+            },
+            {
+              "start": 10920,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-4"
+            },
+            {
+              "start": 11280,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-5"
+            }
+          ],
+          "id": "p04-track-0-excerpt"
+        },
+        {
+          "name": "短版·F大调收束",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 65,
+              "velocity": 77,
+              "id": "p04-0-bar-6-note-0"
+            },
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 69,
+              "velocity": 77,
+              "id": "p04-0-bar-6-note-1"
+            },
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 72,
+              "velocity": 77,
+              "id": "p04-0-bar-6-note-2"
+            }
+          ],
+          "id": "p04-0-bar-6"
+        }
+      ],
+      "id": "p04-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴左手·按谱分解",
+      "level": 84,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "短版·谱第28–33小节",
+          "start": 0,
+          "length": 11520,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-4"
+            },
+            {
+              "start": 1920,
+              "duration": 960,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-0"
+            },
+            {
+              "start": 2880,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-1"
+            },
+            {
+              "start": 3120,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-2"
+            },
+            {
+              "start": 3360,
+              "duration": 480,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-3"
+            },
+            {
+              "start": 3840,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-0"
+            },
+            {
+              "start": 4080,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-1"
+            },
+            {
+              "start": 4320,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-2"
+            },
+            {
+              "start": 4800,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-3"
+            },
+            {
+              "start": 5040,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-4"
+            },
+            {
+              "start": 5280,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-5"
+            },
+            {
+              "start": 5520,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-6"
+            },
+            {
+              "start": 5760,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-0"
+            },
+            {
+              "start": 6000,
+              "duration": 720,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-1"
+            },
+            {
+              "start": 6720,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-2"
+            },
+            {
+              "start": 6960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-3"
+            },
+            {
+              "start": 7200,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-4"
+            },
+            {
+              "start": 7440,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-5"
+            },
+            {
+              "start": 7680,
+              "duration": 960,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-0"
+            },
+            {
+              "start": 8640,
+              "duration": 240,
+              "pitch": 43,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-1"
+            },
+            {
+              "start": 8880,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-2"
+            },
+            {
+              "start": 9120,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-3"
+            },
+            {
+              "start": 9360,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-4"
+            },
+            {
+              "start": 9600,
+              "duration": 960,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-0"
+            },
+            {
+              "start": 10560,
+              "duration": 240,
+              "pitch": 47,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-1"
+            },
+            {
+              "start": 10800,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-2"
+            },
+            {
+              "start": 11040,
+              "duration": 240,
+              "pitch": 59,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-3"
+            },
+            {
+              "start": 11280,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-4"
+            }
+          ],
+          "id": "p04-track-1-excerpt"
+        },
+        {
+          "name": "短版·左手根音",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 41,
+              "velocity": 58,
+              "id": "p04-1-bar-6-note-0"
+            },
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 53,
+              "velocity": 58,
+              "id": "p04-1-bar-6-note-1"
+            }
+          ],
+          "id": "p04-1-bar-6"
+        }
+      ],
+      "id": "p04-track-1"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 干净吉他·轻分解与扫弦",
+      "level": 73,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "短版·谱第28–33小节",
+          "start": 0,
+          "length": 11520,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-27-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "p04-2-bar-27-note-1"
+            },
+            {
+              "start": 2040,
+              "duration": 278,
+              "pitch": 64,
+              "velocity": 65,
+              "id": "p04-2-bar-28-note-0"
+            },
+            {
+              "start": 3000,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-28-note-1"
+            },
+            {
+              "start": 3960,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 65,
+              "id": "p04-2-bar-29-note-0"
+            },
+            {
+              "start": 4920,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-29-note-1"
+            },
+            {
+              "start": 5880,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-30-note-0"
+            },
+            {
+              "start": 6840,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-30-note-1"
+            },
+            {
+              "start": 7200,
+              "duration": 250,
+              "pitch": 45,
+              "velocity": 59,
+              "id": "p04-2-bar-30-note-2"
+            },
+            {
+              "start": 7219,
+              "duration": 250,
+              "pitch": 50,
+              "velocity": 56,
+              "id": "p04-2-bar-30-note-3"
+            },
+            {
+              "start": 7238,
+              "duration": 250,
+              "pitch": 52,
+              "velocity": 53,
+              "id": "p04-2-bar-30-note-4"
+            },
+            {
+              "start": 7800,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 65,
+              "id": "p04-2-bar-31-note-0"
+            },
+            {
+              "start": 8760,
+              "duration": 278,
+              "pitch": 55,
+              "velocity": 61,
+              "id": "p04-2-bar-31-note-1"
+            },
+            {
+              "start": 9720,
+              "duration": 278,
+              "pitch": 58,
+              "velocity": 65,
+              "id": "p04-2-bar-32-note-0"
+            },
+            {
+              "start": 10680,
+              "duration": 278,
+              "pitch": 47,
+              "velocity": 61,
+              "id": "p04-2-bar-32-note-1"
+            }
+          ],
+          "id": "p04-track-2-excerpt"
+        },
+        {
+          "name": "短版·吉他落地",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 264,
+              "pitch": 53,
+              "velocity": 53,
+              "id": "p04-2-bar-6-note-0"
+            },
+            {
+              "start": 19,
+              "duration": 264,
+              "pitch": 57,
+              "velocity": 50,
+              "id": "p04-2-bar-6-note-1"
+            },
+            {
+              "start": 38,
+              "duration": 264,
+              "pitch": 60,
+              "velocity": 47,
+              "id": "p04-2-bar-6-note-2"
+            }
+          ],
+          "id": "p04-2-bar-6"
+        }
+      ],
+      "id": "p04-track-2"
+    },
+    {
+      "instrument": "violin",
+      "name": "04 小提琴·句间回答",
+      "level": 66,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "短版·谱第28–33小节",
+          "start": 0,
+          "length": 11520,
+          "notes": [
+            {
+              "start": 4680,
+              "duration": 792,
+              "pitch": 67,
+              "velocity": 52,
+              "id": "p04-3-bar-29-note-0"
+            }
+          ],
+          "id": "p04-track-3-excerpt"
+        },
+        {
+          "name": "短版·小提琴轻收束",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 864,
+              "pitch": 69,
+              "velocity": 40,
+              "id": "p04-3-bar-6-note-0"
+            }
+          ],
+          "id": "p04-3-bar-6"
+        }
+      ],
+      "id": "p04-track-3"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 54
+        },
+        {
+          "tick": 13440,
+          "value": 54
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 23
+        },
+        {
+          "tick": 13440,
+          "value": 23
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 15
+        },
+        {
+          "tick": 13440,
+          "value": 15
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 23,
+    "bus.piano": 54,
+    "bus.drums": 0,
+    "bus.violin": 15,
+    "bus.bass": 0,
+    "space.chorus_mix": 0,
+    "space.chorus_rate": 40,
+    "space.chorus_depth": 40,
+    "space.delay_mix": 0,
+    "space.delay_time": 40,
+    "space.delay_feedback": 0,
+    "guitar.amp": 0,
+    "guitar.drive": 0,
+    "guitar.tone": 56,
+    "guitar.level": 64,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1",
+  "guitar_sustain": 48
+}

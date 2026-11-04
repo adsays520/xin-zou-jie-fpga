@@ -1,0 +1,3436 @@
+{
+  "name": "霓虹航线 · 20秒高潮与收束试听",
+  "bpm": 96,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 Piano / 和声铺底",
+      "level": 93,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 57,
+              "velocity": 74,
+              "id": "note-00-24-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 60,
+              "velocity": 76,
+              "id": "note-00-24-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 64,
+              "velocity": 78,
+              "id": "note-00-24-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 65,
+              "velocity": 80,
+              "id": "note-00-24-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "note-00-24-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "note-00-24-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-00-24-006"
+            }
+          ],
+          "id": "clip-00-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 62,
+              "velocity": 74,
+              "id": "note-00-25-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 65,
+              "velocity": 76,
+              "id": "note-00-25-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 70,
+              "velocity": 78,
+              "id": "note-00-25-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 69,
+              "velocity": 80,
+              "id": "note-00-25-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 65,
+              "velocity": 68,
+              "id": "note-00-25-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 70,
+              "velocity": 70,
+              "id": "note-00-25-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 69,
+              "velocity": 72,
+              "id": "note-00-25-006"
+            }
+          ],
+          "id": "clip-00-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 57,
+              "velocity": 74,
+              "id": "note-00-26-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 60,
+              "velocity": 76,
+              "id": "note-00-26-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 64,
+              "velocity": 78,
+              "id": "note-00-26-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 67,
+              "velocity": 80,
+              "id": "note-00-26-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "note-00-26-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "note-00-26-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 67,
+              "velocity": 72,
+              "id": "note-00-26-006"
+            }
+          ],
+          "id": "clip-00-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 60,
+              "velocity": 74,
+              "id": "note-00-27-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 62,
+              "velocity": 76,
+              "id": "note-00-27-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 64,
+              "velocity": 78,
+              "id": "note-00-27-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 67,
+              "velocity": 80,
+              "id": "note-00-27-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "note-00-27-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "note-00-27-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 67,
+              "velocity": 72,
+              "id": "note-00-27-006"
+            }
+          ],
+          "id": "clip-00-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 57,
+              "velocity": 74,
+              "id": "note-00-28-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 58,
+              "velocity": 76,
+              "id": "note-00-28-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 62,
+              "velocity": 78,
+              "id": "note-00-28-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 65,
+              "velocity": 80,
+              "id": "note-00-28-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 58,
+              "velocity": 68,
+              "id": "note-00-28-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 62,
+              "velocity": 70,
+              "id": "note-00-28-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-00-28-006"
+            }
+          ],
+          "id": "clip-00-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 600,
+              "pitch": 61,
+              "velocity": 74,
+              "id": "note-00-29-000"
+            },
+            {
+              "start": 4,
+              "duration": 600,
+              "pitch": 64,
+              "velocity": 76,
+              "id": "note-00-29-001"
+            },
+            {
+              "start": 8,
+              "duration": 600,
+              "pitch": 69,
+              "velocity": 78,
+              "id": "note-00-29-002"
+            },
+            {
+              "start": 12,
+              "duration": 600,
+              "pitch": 67,
+              "velocity": 80,
+              "id": "note-00-29-003"
+            },
+            {
+              "start": 1200,
+              "duration": 432,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "note-00-29-004"
+            },
+            {
+              "start": 1204,
+              "duration": 432,
+              "pitch": 69,
+              "velocity": 70,
+              "id": "note-00-29-005"
+            },
+            {
+              "start": 1208,
+              "duration": 432,
+              "pitch": 67,
+              "velocity": 72,
+              "id": "note-00-29-006"
+            }
+          ],
+          "id": "clip-00-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 50,
+              "velocity": 78,
+              "id": "note-00-30-000"
+            },
+            {
+              "start": 4,
+              "duration": 1200,
+              "pitch": 57,
+              "velocity": 80,
+              "id": "note-00-30-001"
+            },
+            {
+              "start": 8,
+              "duration": 1200,
+              "pitch": 60,
+              "velocity": 82,
+              "id": "note-00-30-002"
+            },
+            {
+              "start": 12,
+              "duration": 1200,
+              "pitch": 64,
+              "velocity": 84,
+              "id": "note-00-30-003"
+            },
+            {
+              "start": 16,
+              "duration": 1200,
+              "pitch": 65,
+              "velocity": 86,
+              "id": "note-00-30-004"
+            },
+            {
+              "start": 20,
+              "duration": 1200,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "note-00-30-005"
+            }
+          ],
+          "id": "clip-00-30"
+        }
+      ],
+      "id": "track-00"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 Piano / 高音回答",
+      "level": 82,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1200,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 72,
+              "id": "note-01-27-000"
+            },
+            {
+              "start": 1440,
+              "duration": 180,
+              "pitch": 74,
+              "velocity": 75,
+              "id": "note-01-27-001"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 84,
+              "velocity": 78,
+              "id": "note-01-27-002"
+            }
+          ],
+          "id": "clip-01-27"
+        }
+      ],
+      "id": "track-01"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 Guitar / 指弹流动",
+      "level": 87,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 50,
+              "velocity": 78,
+              "id": "note-02-24-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "note-02-24-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "note-02-24-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-02-24-003"
+            }
+          ],
+          "id": "clip-02-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 78,
+              "id": "note-02-25-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-02-25-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-02-25-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 53,
+              "velocity": 72,
+              "id": "note-02-25-003"
+            }
+          ],
+          "id": "clip-02-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 45,
+              "velocity": 78,
+              "id": "note-02-26-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-02-26-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "note-02-26-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 67,
+              "velocity": 72,
+              "id": "note-02-26-003"
+            }
+          ],
+          "id": "clip-02-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 78,
+              "id": "note-02-27-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "note-02-27-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "note-02-27-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "note-02-27-003"
+            }
+          ],
+          "id": "clip-02-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 43,
+              "velocity": 78,
+              "id": "note-02-28-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-02-28-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 58,
+              "velocity": 72,
+              "id": "note-02-28-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "note-02-28-003"
+            }
+          ],
+          "id": "clip-02-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 61,
+              "velocity": 78,
+              "id": "note-02-29-000"
+            },
+            {
+              "start": 488,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "note-02-29-001"
+            },
+            {
+              "start": 960,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "note-02-29-002"
+            },
+            {
+              "start": 1448,
+              "duration": 180,
+              "pitch": 52,
+              "velocity": 72,
+              "id": "note-02-29-003"
+            }
+          ],
+          "id": "clip-02-29"
+        }
+      ],
+      "id": "track-02"
+    },
+    {
+      "instrument": "guitar",
+      "name": "04 Guitar / 扫弦切分",
+      "level": 82,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 50,
+              "velocity": 84,
+              "id": "note-03-24-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 81,
+              "id": "note-03-24-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 78,
+              "id": "note-03-24-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 75,
+              "id": "note-03-24-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-03-24-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "note-03-24-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 64,
+              "id": "note-03-24-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 61,
+              "id": "note-03-24-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 75,
+              "id": "note-03-24-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "note-03-24-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 69,
+              "id": "note-03-24-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "note-03-24-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 62,
+              "id": "note-03-24-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 59,
+              "id": "note-03-24-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 56,
+              "id": "note-03-24-014"
+            }
+          ],
+          "id": "clip-03-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 46,
+              "velocity": 84,
+              "id": "note-03-25-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 53,
+              "velocity": 81,
+              "id": "note-03-25-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 78,
+              "id": "note-03-25-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 75,
+              "id": "note-03-25-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 72,
+              "id": "note-03-25-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 67,
+              "id": "note-03-25-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 64,
+              "id": "note-03-25-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 61,
+              "id": "note-03-25-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 53,
+              "velocity": 75,
+              "id": "note-03-25-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-03-25-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 69,
+              "id": "note-03-25-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "note-03-25-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 65,
+              "velocity": 62,
+              "id": "note-03-25-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 59,
+              "id": "note-03-25-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 56,
+              "id": "note-03-25-014"
+            }
+          ],
+          "id": "clip-03-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "note-03-26-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 53,
+              "velocity": 81,
+              "id": "note-03-26-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 78,
+              "id": "note-03-26-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 75,
+              "id": "note-03-26-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 67,
+              "velocity": 72,
+              "id": "note-03-26-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 67,
+              "id": "note-03-26-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 64,
+              "id": "note-03-26-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 67,
+              "velocity": 61,
+              "id": "note-03-26-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 53,
+              "velocity": 75,
+              "id": "note-03-26-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-03-26-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 69,
+              "id": "note-03-26-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "note-03-26-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 67,
+              "velocity": 62,
+              "id": "note-03-26-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 59,
+              "id": "note-03-26-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 56,
+              "id": "note-03-26-014"
+            }
+          ],
+          "id": "clip-03-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 48,
+              "velocity": 84,
+              "id": "note-03-27-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 81,
+              "id": "note-03-27-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 78,
+              "id": "note-03-27-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 75,
+              "id": "note-03-27-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "note-03-27-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "note-03-27-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 64,
+              "id": "note-03-27-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 61,
+              "id": "note-03-27-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 75,
+              "id": "note-03-27-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "note-03-27-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 69,
+              "id": "note-03-27-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "note-03-27-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 62,
+              "id": "note-03-27-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 59,
+              "id": "note-03-27-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 60,
+              "velocity": 56,
+              "id": "note-03-27-014"
+            }
+          ],
+          "id": "clip-03-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 43,
+              "velocity": 84,
+              "id": "note-03-28-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 50,
+              "velocity": 81,
+              "id": "note-03-28-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 78,
+              "id": "note-03-28-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 58,
+              "velocity": 75,
+              "id": "note-03-28-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "note-03-28-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 67,
+              "id": "note-03-28-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 58,
+              "velocity": 64,
+              "id": "note-03-28-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 61,
+              "id": "note-03-28-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 50,
+              "velocity": 75,
+              "id": "note-03-28-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 72,
+              "id": "note-03-28-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 58,
+              "velocity": 69,
+              "id": "note-03-28-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "note-03-28-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 62,
+              "velocity": 62,
+              "id": "note-03-28-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 58,
+              "velocity": 59,
+              "id": "note-03-28-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 57,
+              "velocity": 56,
+              "id": "note-03-28-014"
+            }
+          ],
+          "id": "clip-03-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "note-03-29-000"
+            },
+            {
+              "start": 9,
+              "duration": 180,
+              "pitch": 52,
+              "velocity": 81,
+              "id": "note-03-29-001"
+            },
+            {
+              "start": 18,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 78,
+              "id": "note-03-29-002"
+            },
+            {
+              "start": 27,
+              "duration": 180,
+              "pitch": 61,
+              "velocity": 75,
+              "id": "note-03-29-003"
+            },
+            {
+              "start": 36,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 72,
+              "id": "note-03-29-004"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 67,
+              "id": "note-03-29-005"
+            },
+            {
+              "start": 729,
+              "duration": 180,
+              "pitch": 61,
+              "velocity": 64,
+              "id": "note-03-29-006"
+            },
+            {
+              "start": 738,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 61,
+              "id": "note-03-29-007"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 52,
+              "velocity": 75,
+              "id": "note-03-29-008"
+            },
+            {
+              "start": 1329,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "note-03-29-009"
+            },
+            {
+              "start": 1338,
+              "duration": 180,
+              "pitch": 61,
+              "velocity": 69,
+              "id": "note-03-29-010"
+            },
+            {
+              "start": 1347,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "note-03-29-011"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 64,
+              "velocity": 62,
+              "id": "note-03-29-012"
+            },
+            {
+              "start": 1689,
+              "duration": 180,
+              "pitch": 61,
+              "velocity": 59,
+              "id": "note-03-29-013"
+            },
+            {
+              "start": 1698,
+              "duration": 180,
+              "pitch": 55,
+              "velocity": 56,
+              "id": "note-03-29-014"
+            }
+          ],
+          "id": "clip-03-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1080,
+              "pitch": 50,
+              "velocity": 85,
+              "id": "note-03-30-000"
+            },
+            {
+              "start": 10,
+              "duration": 1080,
+              "pitch": 57,
+              "velocity": 82,
+              "id": "note-03-30-001"
+            },
+            {
+              "start": 20,
+              "duration": 1080,
+              "pitch": 60,
+              "velocity": 79,
+              "id": "note-03-30-002"
+            },
+            {
+              "start": 30,
+              "duration": 1080,
+              "pitch": 64,
+              "velocity": 76,
+              "id": "note-03-30-003"
+            },
+            {
+              "start": 40,
+              "duration": 1080,
+              "pitch": 65,
+              "velocity": 73,
+              "id": "note-03-30-004"
+            }
+          ],
+          "id": "clip-03-30"
+        }
+      ],
+      "id": "track-03"
+    },
+    {
+      "instrument": "bass",
+      "name": "05 Bass / 根音与经过音",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 38,
+              "velocity": 97,
+              "id": "note-04-24-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 45,
+              "velocity": 76,
+              "id": "note-04-24-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 50,
+              "velocity": 86,
+              "id": "note-04-24-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 38,
+              "velocity": 82,
+              "id": "note-04-24-003"
+            }
+          ],
+          "id": "clip-04-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 34,
+              "velocity": 97,
+              "id": "note-04-25-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 41,
+              "velocity": 76,
+              "id": "note-04-25-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 46,
+              "velocity": 86,
+              "id": "note-04-25-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 34,
+              "velocity": 82,
+              "id": "note-04-25-003"
+            }
+          ],
+          "id": "clip-04-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 29,
+              "velocity": 97,
+              "id": "note-04-26-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 36,
+              "velocity": 76,
+              "id": "note-04-26-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 41,
+              "velocity": 86,
+              "id": "note-04-26-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 29,
+              "velocity": 82,
+              "id": "note-04-26-003"
+            }
+          ],
+          "id": "clip-04-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 36,
+              "velocity": 97,
+              "id": "note-04-27-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 43,
+              "velocity": 76,
+              "id": "note-04-27-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 48,
+              "velocity": 86,
+              "id": "note-04-27-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 36,
+              "velocity": 82,
+              "id": "note-04-27-003"
+            },
+            {
+              "start": 1860,
+              "duration": 48,
+              "pitch": 32,
+              "velocity": 67,
+              "id": "note-04-27-004"
+            }
+          ],
+          "id": "clip-04-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 31,
+              "velocity": 97,
+              "id": "note-04-28-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 38,
+              "velocity": 76,
+              "id": "note-04-28-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 43,
+              "velocity": 86,
+              "id": "note-04-28-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 31,
+              "velocity": 82,
+              "id": "note-04-28-003"
+            }
+          ],
+          "id": "clip-04-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 33,
+              "velocity": 97,
+              "id": "note-04-29-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 40,
+              "velocity": 76,
+              "id": "note-04-29-001"
+            },
+            {
+              "start": 1080,
+              "duration": 300,
+              "pitch": 45,
+              "velocity": 86,
+              "id": "note-04-29-002"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 33,
+              "velocity": 82,
+              "id": "note-04-29-003"
+            }
+          ],
+          "id": "clip-04-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 38,
+              "velocity": 89,
+              "id": "note-04-30-000"
+            }
+          ],
+          "id": "clip-04-30"
+        }
+      ],
+      "id": "track-04"
+    },
+    {
+      "instrument": "violin",
+      "name": "06 Violin / 主旋律",
+      "level": 96,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 660,
+              "pitch": 81,
+              "velocity": 101,
+              "id": "note-05-24-000"
+            },
+            {
+              "start": 720,
+              "duration": 180,
+              "pitch": 77,
+              "velocity": 95,
+              "id": "note-05-24-001"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 94,
+              "id": "note-05-24-002"
+            },
+            {
+              "start": 1320,
+              "duration": 180,
+              "pitch": 77,
+              "velocity": 93,
+              "id": "note-05-24-003"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "note-05-24-004"
+            }
+          ],
+          "id": "clip-05-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 300,
+              "pitch": 82,
+              "velocity": 101,
+              "id": "note-05-25-000"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 81,
+              "velocity": 95,
+              "id": "note-05-25-001"
+            },
+            {
+              "start": 840,
+              "duration": 840,
+              "pitch": 77,
+              "velocity": 94,
+              "id": "note-05-25-002"
+            }
+          ],
+          "id": "clip-05-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 81,
+              "velocity": 101,
+              "id": "note-05-26-000"
+            },
+            {
+              "start": 480,
+              "duration": 360,
+              "pitch": 84,
+              "velocity": 95,
+              "id": "note-05-26-001"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 94,
+              "id": "note-05-26-002"
+            },
+            {
+              "start": 1320,
+              "duration": 480,
+              "pitch": 77,
+              "velocity": 93,
+              "id": "note-05-26-003"
+            }
+          ],
+          "id": "clip-05-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 720,
+              "pitch": 79,
+              "velocity": 101,
+              "id": "note-05-27-000"
+            },
+            {
+              "start": 840,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 95,
+              "id": "note-05-27-001"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 94,
+              "id": "note-05-27-002"
+            },
+            {
+              "start": 1560,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 93,
+              "id": "note-05-27-003"
+            }
+          ],
+          "id": "clip-05-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 79,
+              "velocity": 101,
+              "id": "note-05-28-000"
+            },
+            {
+              "start": 480,
+              "duration": 360,
+              "pitch": 82,
+              "velocity": 95,
+              "id": "note-05-28-001"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 94,
+              "id": "note-05-28-002"
+            },
+            {
+              "start": 1320,
+              "duration": 420,
+              "pitch": 77,
+              "velocity": 93,
+              "id": "note-05-28-003"
+            }
+          ],
+          "id": "clip-05-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 101,
+              "id": "note-05-29-000"
+            },
+            {
+              "start": 360,
+              "duration": 240,
+              "pitch": 73,
+              "velocity": 95,
+              "id": "note-05-29-001"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 94,
+              "id": "note-05-29-002"
+            },
+            {
+              "start": 1080,
+              "duration": 600,
+              "pitch": 81,
+              "velocity": 93,
+              "id": "note-05-29-003"
+            }
+          ],
+          "id": "clip-05-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1320,
+              "pitch": 74,
+              "velocity": 90,
+              "id": "note-05-30-000"
+            }
+          ],
+          "id": "clip-05-30"
+        }
+      ],
+      "id": "track-05"
+    },
+    {
+      "instrument": "drums",
+      "name": "07 Drums / 底鼓军鼓",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-24-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-24-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-24-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-24-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-24-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-24-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-24-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-24-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 39,
+              "id": "note-06-24-008"
+            }
+          ],
+          "id": "clip-06-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-25-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-25-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-25-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-25-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-25-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-25-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-25-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-25-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 40,
+              "id": "note-06-25-008"
+            }
+          ],
+          "id": "clip-06-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-26-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-26-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-26-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-26-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-26-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-26-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-26-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-26-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 41,
+              "id": "note-06-26-008"
+            }
+          ],
+          "id": "clip-06-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-27-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-27-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-27-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-27-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-27-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-27-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-27-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-27-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 42,
+              "id": "note-06-27-008"
+            }
+          ],
+          "id": "clip-06-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-28-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-28-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-28-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-28-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-28-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-28-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-28-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-28-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 36,
+              "id": "note-06-28-008"
+            }
+          ],
+          "id": "clip-06-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-29-000"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-29-001"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-29-002"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 108,
+              "id": "note-06-29-003"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-29-004"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 94,
+              "id": "note-06-29-005"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-29-006"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 106,
+              "id": "note-06-29-007"
+            },
+            {
+              "start": 1330,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 37,
+              "id": "note-06-29-008"
+            }
+          ],
+          "id": "clip-06-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 96,
+              "id": "note-06-30-000"
+            }
+          ],
+          "id": "clip-06-30"
+        }
+      ],
+      "id": "track-06"
+    },
+    {
+      "instrument": "drums",
+      "name": "08 Drums / 镲片律动",
+      "level": 94,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 74,
+              "id": "note-07-24-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-24-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-24-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-24-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 71,
+              "id": "note-07-24-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-24-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-24-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-24-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 75,
+              "id": "note-07-24-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-24-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-24-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-24-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 72,
+              "id": "note-07-24-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-24-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 50,
+              "id": "note-07-24-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-24-015"
+            }
+          ],
+          "id": "clip-07-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 75,
+              "id": "note-07-25-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-25-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-25-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-25-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 72,
+              "id": "note-07-25-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-25-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-25-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-25-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 76,
+              "id": "note-07-25-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-25-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-25-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-25-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "note-07-25-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-25-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 51,
+              "id": "note-07-25-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-25-015"
+            }
+          ],
+          "id": "clip-07-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 76,
+              "id": "note-07-26-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-26-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-26-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-26-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 73,
+              "id": "note-07-26-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-26-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-26-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-26-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 77,
+              "id": "note-07-26-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-26-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-26-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-26-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 6,
+              "velocity": 74,
+              "id": "note-07-26-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-26-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 52,
+              "id": "note-07-26-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-26-015"
+            }
+          ],
+          "id": "clip-07-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 77,
+              "id": "note-07-27-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-27-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-27-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-27-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 74,
+              "id": "note-07-27-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-27-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-27-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-27-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 71,
+              "id": "note-07-27-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-27-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-27-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-27-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 75,
+              "id": "note-07-27-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-27-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 53,
+              "id": "note-07-27-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-27-015"
+            }
+          ],
+          "id": "clip-07-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 71,
+              "id": "note-07-28-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-28-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-28-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-28-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 75,
+              "id": "note-07-28-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-28-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-28-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-28-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 72,
+              "id": "note-07-28-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-28-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-28-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-28-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 76,
+              "id": "note-07-28-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-28-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 47,
+              "id": "note-07-28-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-28-015"
+            }
+          ],
+          "id": "clip-07-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 72,
+              "id": "note-07-29-000"
+            },
+            {
+              "start": 132,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-29-001"
+            },
+            {
+              "start": 240,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-29-002"
+            },
+            {
+              "start": 372,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-29-003"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 76,
+              "id": "note-07-29-004"
+            },
+            {
+              "start": 612,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 53,
+              "id": "note-07-29-005"
+            },
+            {
+              "start": 720,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-29-006"
+            },
+            {
+              "start": 852,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 48,
+              "id": "note-07-29-007"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 73,
+              "id": "note-07-29-008"
+            },
+            {
+              "start": 1092,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 50,
+              "id": "note-07-29-009"
+            },
+            {
+              "start": 1200,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 51,
+              "id": "note-07-29-010"
+            },
+            {
+              "start": 1332,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 52,
+              "id": "note-07-29-011"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 77,
+              "id": "note-07-29-012"
+            },
+            {
+              "start": 1572,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "note-07-29-013"
+            },
+            {
+              "start": 1680,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 48,
+              "id": "note-07-29-014"
+            },
+            {
+              "start": 1812,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 49,
+              "id": "note-07-29-015"
+            }
+          ],
+          "id": "clip-07-29"
+        }
+      ],
+      "id": "track-07"
+    },
+    {
+      "instrument": "drums",
+      "name": "09 Drums / 加花与转场",
+      "level": 95,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "B2 · Dm9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 5,
+              "velocity": 82,
+              "id": "note-08-24-000"
+            },
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-24-001"
+            }
+          ],
+          "id": "clip-08-24"
+        },
+        {
+          "name": "B2 · Bbmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-25-000"
+            }
+          ],
+          "id": "clip-08-25"
+        },
+        {
+          "name": "B2 · Fmaj9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-26-000"
+            }
+          ],
+          "id": "clip-08-26"
+        },
+        {
+          "name": "B2 · Cadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-27-000"
+            },
+            {
+              "start": 1440,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 66,
+              "id": "note-08-27-001"
+            },
+            {
+              "start": 1560,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 75,
+              "id": "note-08-27-002"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 84,
+              "id": "note-08-27-003"
+            },
+            {
+              "start": 1800,
+              "duration": 60,
+              "pitch": 7,
+              "velocity": 93,
+              "id": "note-08-27-004"
+            }
+          ],
+          "id": "clip-08-27"
+        },
+        {
+          "name": "B2 · Gm9",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 5,
+              "velocity": 82,
+              "id": "note-08-28-000"
+            },
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-28-001"
+            }
+          ],
+          "id": "clip-08-28"
+        },
+        {
+          "name": "B2 · A7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1452,
+              "duration": 60,
+              "pitch": 4,
+              "velocity": 61,
+              "id": "note-08-29-000"
+            },
+            {
+              "start": 1440,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 66,
+              "id": "note-08-29-001"
+            },
+            {
+              "start": 1560,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 75,
+              "id": "note-08-29-002"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 84,
+              "id": "note-08-29-003"
+            },
+            {
+              "start": 1800,
+              "duration": 60,
+              "pitch": 7,
+              "velocity": 93,
+              "id": "note-08-29-004"
+            }
+          ],
+          "id": "clip-08-29"
+        },
+        {
+          "name": "Coda · Dm9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 5,
+              "velocity": 68,
+              "id": "note-08-30-000"
+            }
+          ],
+          "id": "clip-08-30"
+        }
+      ],
+      "id": "track-08"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 87
+        },
+        {
+          "tick": 11520,
+          "value": 80
+        },
+        {
+          "tick": 13440,
+          "value": 80
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 80
+        },
+        {
+          "tick": 11520,
+          "value": 75
+        },
+        {
+          "tick": 13440,
+          "value": 75
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 88
+        },
+        {
+          "tick": 11520,
+          "value": 81
+        },
+        {
+          "tick": 13440,
+          "value": 81
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 98
+        },
+        {
+          "tick": 11520,
+          "value": 88
+        },
+        {
+          "tick": 13440,
+          "value": 88
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 86
+        },
+        {
+          "tick": 11520,
+          "value": 72
+        },
+        {
+          "tick": 13440,
+          "value": 72
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.delay_mix",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 16
+        },
+        {
+          "tick": 11520,
+          "value": 21
+        },
+        {
+          "tick": 13440,
+          "value": 21
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.chorus_mix",
+      "interpolation": "step",
+      "points": [
+        {
+          "tick": 0,
+          "value": 12
+        },
+        {
+          "tick": 13440,
+          "value": 6
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 87,
+    "bus.piano": 80,
+    "bus.drums": 86,
+    "bus.violin": 98,
+    "bus.bass": 88,
+    "space.chorus_mix": 12,
+    "space.chorus_rate": 26,
+    "space.chorus_depth": 27,
+    "space.delay_mix": 16,
+    "space.delay_time": 90,
+    "space.delay_feedback": 24,
+    "guitar.amp": 0,
+    "guitar.drive": 25,
+    "guitar.tone": 58,
+    "guitar.level": 82,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1"
+}

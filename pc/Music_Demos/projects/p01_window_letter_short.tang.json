@@ -1,0 +1,1039 @@
+{
+  "name": "窗边慢信 · 精华8小节",
+  "bpm": 88,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴·右手主旋律",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Cmaj9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 79,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-24-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-24-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 88,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-24-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 86,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-24-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-24-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-24"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 88,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-25-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-25-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-25-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 81,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-25-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-25-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-25"
+        },
+        {
+          "name": "再现 · Fmaj7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 84,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-26-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 88,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-26-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 89,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-26-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 88,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-26-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-26-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-26"
+        },
+        {
+          "name": "再现 · G13",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 86,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-27-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-27-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 83,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-27-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 81,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-27-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-27-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-27"
+        },
+        {
+          "name": "再现 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 83,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-28-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-28-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 91,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-28-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 89,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-28-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 86,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-28-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-28"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 420,
+              "pitch": 88,
+              "velocity": 107,
+              "id": "p01_window_letter-clip-0-29-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 300,
+              "pitch": 84,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-29-note-1"
+            },
+            {
+              "start": 840,
+              "duration": 300,
+              "pitch": 81,
+              "velocity": 97,
+              "id": "p01_window_letter-clip-0-29-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 103,
+              "id": "p01_window_letter-clip-0-29-note-3"
+            },
+            {
+              "start": 1560,
+              "duration": 300,
+              "pitch": 76,
+              "velocity": 100,
+              "id": "p01_window_letter-clip-0-29-note-4"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-29"
+        },
+        {
+          "name": "尾声 · Cmaj9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1320,
+              "pitch": 72,
+              "velocity": 91,
+              "id": "p01_window_letter-clip-0-30-note-0"
+            }
+          ],
+          "id": "p01_window_letter-clip-0-30"
+        }
+      ],
+      "id": "p01_window_letter-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴·中声部与和声",
+      "level": 80,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Cmaj9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-24-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-24-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-24-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-24-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-24-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-24-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-24-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 59,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-24-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-24"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-25-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-25-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-25-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-25-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-25-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-25-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-25-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 59,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-25-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-25"
+        },
+        {
+          "name": "再现 · Fmaj7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-26-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-26-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-26-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-26-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-26-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-26-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-26-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-26-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-26"
+        },
+        {
+          "name": "再现 · G13",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 53,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-27-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-27-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 57,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-27-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-27-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 53,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-27-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-27-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-27-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 57,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-27-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-27"
+        },
+        {
+          "name": "再现 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-28-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-28-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-28-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-28-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-28-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 62,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-28-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-28-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 59,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-28-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-28"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-29-note-0"
+            },
+            {
+              "start": 247,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-29-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 298,
+              "pitch": 59,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-29-note-2"
+            },
+            {
+              "start": 727,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-29-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 298,
+              "pitch": 55,
+              "velocity": 71,
+              "id": "p01_window_letter-clip-1-29-note-4"
+            },
+            {
+              "start": 1207,
+              "duration": 298,
+              "pitch": 60,
+              "velocity": 67,
+              "id": "p01_window_letter-clip-1-29-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 298,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p01_window_letter-clip-1-29-note-6"
+            },
+            {
+              "start": 1687,
+              "duration": 233,
+              "pitch": 59,
+              "velocity": 68,
+              "id": "p01_window_letter-clip-1-29-note-7"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-29"
+        },
+        {
+          "name": "尾声 · Cmaj9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 55,
+              "velocity": 65,
+              "id": "p01_window_letter-clip-1-30-note-0"
+            },
+            {
+              "start": 5,
+              "duration": 1200,
+              "pitch": 59,
+              "velocity": 63,
+              "id": "p01_window_letter-clip-1-30-note-1"
+            },
+            {
+              "start": 10,
+              "duration": 1200,
+              "pitch": 62,
+              "velocity": 61,
+              "id": "p01_window_letter-clip-1-30-note-2"
+            },
+            {
+              "start": 15,
+              "duration": 1200,
+              "pitch": 64,
+              "velocity": 59,
+              "id": "p01_window_letter-clip-1-30-note-3"
+            }
+          ],
+          "id": "p01_window_letter-clip-1-30"
+        }
+      ],
+      "id": "p01_window_letter-track-1"
+    },
+    {
+      "instrument": "piano",
+      "name": "03 钢琴·左手低音",
+      "level": 87,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "再现 · Cmaj9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 36,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-24-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 48,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-24-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-24"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 33,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-25-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 45,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-25-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-25"
+        },
+        {
+          "name": "再现 · Fmaj7",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 29,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-26-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 41,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-26-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-26"
+        },
+        {
+          "name": "再现 · G13",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 31,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 43,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-27-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-27"
+        },
+        {
+          "name": "再现 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 28,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-28-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 40,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-28-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-28"
+        },
+        {
+          "name": "再现 · Am9",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 792,
+              "pitch": 33,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-29-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 792,
+              "pitch": 45,
+              "velocity": 76,
+              "id": "p01_window_letter-clip-2-29-note-1"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-29"
+        },
+        {
+          "name": "尾声 · Cmaj9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1320,
+              "pitch": 36,
+              "velocity": 74,
+              "id": "p01_window_letter-clip-2-30-note-0"
+            }
+          ],
+          "id": "p01_window_letter-clip-2-30"
+        }
+      ],
+      "id": "p01_window_letter-track-2"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 50
+        },
+        {
+          "tick": 11520,
+          "value": 44
+        },
+        {
+          "tick": 13440,
+          "value": 44
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 11520,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 11520,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 11520,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 11520,
+          "value": 0
+        },
+        {
+          "tick": 13440,
+          "value": 0
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.delay_mix",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 6
+        },
+        {
+          "tick": 11520,
+          "value": 5
+        },
+        {
+          "tick": 13440,
+          "value": 5
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 0,
+    "bus.piano": 50,
+    "bus.drums": 0,
+    "bus.violin": 0,
+    "bus.bass": 0,
+    "space.chorus_mix": 0,
+    "space.chorus_rate": 40,
+    "space.chorus_depth": 40,
+    "space.delay_mix": 6,
+    "space.delay_time": 68,
+    "space.delay_feedback": 14,
+    "guitar.amp": 0,
+    "guitar.drive": 64,
+    "guitar.tone": 64,
+    "guitar.level": 80,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1"
+}

@@ -1,0 +1,5660 @@
+{
+  "name": "富士山下 · 钢琴吉他小提琴",
+  "bpm": 120,
+  "bars": 47,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴右手·主旋律与装饰",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "谱第1小节 · 钢琴right",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-0-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 960,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-0-note-1"
+            }
+          ],
+          "id": "p04-0-bar-0"
+        },
+        {
+          "name": "谱第2小节 · 钢琴right",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-1-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-1-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-1-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-1-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-1-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-1-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-1-note-6"
+            }
+          ],
+          "id": "p04-0-bar-1"
+        },
+        {
+          "name": "谱第3小节 · 钢琴right",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-2-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-2-note-7"
+            }
+          ],
+          "id": "p04-0-bar-2"
+        },
+        {
+          "name": "谱第4小节 · 钢琴right",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 480,
+              "pitch": 74,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-3-note-6"
+            }
+          ],
+          "id": "p04-0-bar-3"
+        },
+        {
+          "name": "谱第5小节 · 钢琴right",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-4-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-4-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-4-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 960,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-4-note-3"
+            }
+          ],
+          "id": "p04-0-bar-4"
+        },
+        {
+          "name": "谱第6小节 · 钢琴right",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-2"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-3"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-4"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-5"
+            },
+            {
+              "start": 960,
+              "duration": 120,
+              "pitch": 93,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-6"
+            },
+            {
+              "start": 1080,
+              "duration": 120,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-7"
+            },
+            {
+              "start": 1200,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-8"
+            },
+            {
+              "start": 1320,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-9"
+            },
+            {
+              "start": 1440,
+              "duration": 120,
+              "pitch": 93,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-10"
+            },
+            {
+              "start": 1560,
+              "duration": 120,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-11"
+            },
+            {
+              "start": 1680,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-5-note-12"
+            },
+            {
+              "start": 1800,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-5-note-13"
+            }
+          ],
+          "id": "p04-0-bar-5"
+        },
+        {
+          "name": "谱第7小节 · 钢琴right",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 93,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-0"
+            },
+            {
+              "start": 120,
+              "duration": 120,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-1"
+            },
+            {
+              "start": 240,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-2"
+            },
+            {
+              "start": 360,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-3"
+            },
+            {
+              "start": 480,
+              "duration": 120,
+              "pitch": 93,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-4"
+            },
+            {
+              "start": 600,
+              "duration": 120,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-5"
+            },
+            {
+              "start": 720,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-6"
+            },
+            {
+              "start": 840,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 120,
+              "pitch": 91,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-8"
+            },
+            {
+              "start": 1080,
+              "duration": 120,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-9"
+            },
+            {
+              "start": 1200,
+              "duration": 120,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-10"
+            },
+            {
+              "start": 1320,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-11"
+            },
+            {
+              "start": 1440,
+              "duration": 120,
+              "pitch": 91,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-12"
+            },
+            {
+              "start": 1560,
+              "duration": 120,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-6-note-13"
+            },
+            {
+              "start": 1680,
+              "duration": 120,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-14"
+            },
+            {
+              "start": 1800,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-6-note-15"
+            }
+          ],
+          "id": "p04-0-bar-6"
+        },
+        {
+          "name": "谱第8小节 · 钢琴right",
+          "start": 13440,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 91,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-0"
+            },
+            {
+              "start": 120,
+              "duration": 120,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-1"
+            },
+            {
+              "start": 240,
+              "duration": 120,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-2"
+            },
+            {
+              "start": 360,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-3"
+            },
+            {
+              "start": 480,
+              "duration": 120,
+              "pitch": 91,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-4"
+            },
+            {
+              "start": 600,
+              "duration": 120,
+              "pitch": 88,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-5"
+            },
+            {
+              "start": 720,
+              "duration": 120,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-6"
+            },
+            {
+              "start": 840,
+              "duration": 120,
+              "pitch": 81,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-7"
+            },
+            {
+              "start": 960,
+              "duration": 120,
+              "pitch": 89,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-8"
+            },
+            {
+              "start": 1080,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-9"
+            },
+            {
+              "start": 1200,
+              "duration": 120,
+              "pitch": 82,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-10"
+            },
+            {
+              "start": 1320,
+              "duration": 120,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-11"
+            },
+            {
+              "start": 1440,
+              "duration": 120,
+              "pitch": 86,
+              "velocity": 76,
+              "id": "p04-0-bar-7-note-12"
+            },
+            {
+              "start": 1560,
+              "duration": 120,
+              "pitch": 82,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-13"
+            },
+            {
+              "start": 1680,
+              "duration": 120,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-14"
+            },
+            {
+              "start": 1800,
+              "duration": 120,
+              "pitch": 74,
+              "velocity": 83,
+              "id": "p04-0-bar-7-note-15"
+            }
+          ],
+          "id": "p04-0-bar-7"
+        },
+        {
+          "name": "谱第9小节 · 钢琴right",
+          "start": 15360,
+          "length": 2880,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 120,
+              "pitch": 84,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-0"
+            },
+            {
+              "start": 120,
+              "duration": 120,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-1"
+            },
+            {
+              "start": 240,
+              "duration": 120,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-2"
+            },
+            {
+              "start": 360,
+              "duration": 120,
+              "pitch": 72,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-3"
+            },
+            {
+              "start": 480,
+              "duration": 120,
+              "pitch": 79,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-4"
+            },
+            {
+              "start": 600,
+              "duration": 120,
+              "pitch": 76,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-5"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-6"
+            },
+            {
+              "start": 960,
+              "duration": 1920,
+              "pitch": 77,
+              "velocity": 83,
+              "id": "p04-0-bar-8-note-7"
+            }
+          ],
+          "id": "p04-0-bar-8"
+        },
+        {
+          "name": "谱第10小节 · 钢琴right",
+          "start": 17280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 88,
+              "id": "p04-0-bar-9-note-0"
+            }
+          ],
+          "id": "p04-0-bar-9"
+        },
+        {
+          "name": "谱第11小节 · 钢琴right",
+          "start": 19200,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-10-note-6"
+            }
+          ],
+          "id": "p04-0-bar-10"
+        },
+        {
+          "name": "谱第12小节 · 钢琴right",
+          "start": 21120,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-11-note-5"
+            }
+          ],
+          "id": "p04-0-bar-11"
+        },
+        {
+          "name": "谱第13小节 · 钢琴right",
+          "start": 23040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-12-note-5"
+            }
+          ],
+          "id": "p04-0-bar-12"
+        },
+        {
+          "name": "谱第14小节 · 钢琴right",
+          "start": 24960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-13-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-13-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-13-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 720,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-13-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 88,
+              "id": "p04-0-bar-13-note-4"
+            }
+          ],
+          "id": "p04-0-bar-13"
+        },
+        {
+          "name": "谱第15小节 · 钢琴right",
+          "start": 26880,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-14-note-6"
+            }
+          ],
+          "id": "p04-0-bar-14"
+        },
+        {
+          "name": "谱第16小节 · 钢琴right",
+          "start": 28800,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-15-note-5"
+            }
+          ],
+          "id": "p04-0-bar-15"
+        },
+        {
+          "name": "谱第17小节 · 钢琴right",
+          "start": 30720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-16-note-5"
+            }
+          ],
+          "id": "p04-0-bar-16"
+        },
+        {
+          "name": "谱第18小节 · 钢琴right",
+          "start": 32640,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-17-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-17-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-17-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 480,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-17-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 480,
+              "pitch": 60,
+              "velocity": 88,
+              "id": "p04-0-bar-17-note-4"
+            }
+          ],
+          "id": "p04-0-bar-17"
+        },
+        {
+          "name": "谱第19小节 · 钢琴right",
+          "start": 34560,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-18-note-6"
+            }
+          ],
+          "id": "p04-0-bar-18"
+        },
+        {
+          "name": "谱第20小节 · 钢琴right",
+          "start": 36480,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-19-note-5"
+            }
+          ],
+          "id": "p04-0-bar-19"
+        },
+        {
+          "name": "谱第21小节 · 钢琴right",
+          "start": 38400,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-20-note-5"
+            }
+          ],
+          "id": "p04-0-bar-20"
+        },
+        {
+          "name": "谱第22小节 · 钢琴right",
+          "start": 40320,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-21-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-21-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-21-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 720,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-21-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 88,
+              "id": "p04-0-bar-21-note-4"
+            }
+          ],
+          "id": "p04-0-bar-21"
+        },
+        {
+          "name": "谱第23小节 · 钢琴right",
+          "start": 42240,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-22-note-6"
+            }
+          ],
+          "id": "p04-0-bar-22"
+        },
+        {
+          "name": "谱第24小节 · 钢琴right",
+          "start": 44160,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-23-note-5"
+            }
+          ],
+          "id": "p04-0-bar-23"
+        },
+        {
+          "name": "谱第25小节 · 钢琴right",
+          "start": 46080,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-24-note-5"
+            }
+          ],
+          "id": "p04-0-bar-24"
+        },
+        {
+          "name": "谱第26小节 · 钢琴right",
+          "start": 48000,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-25-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-25-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-25-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 720,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-25-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-25-note-4"
+            }
+          ],
+          "id": "p04-0-bar-25"
+        },
+        {
+          "name": "谱第27小节 · 钢琴right",
+          "start": 49920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-26-note-6"
+            }
+          ],
+          "id": "p04-0-bar-26"
+        },
+        {
+          "name": "谱第28小节 · 钢琴right",
+          "start": 51840,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-27-note-7"
+            }
+          ],
+          "id": "p04-0-bar-27"
+        },
+        {
+          "name": "谱第29小节 · 钢琴right",
+          "start": 53760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-28-note-5"
+            }
+          ],
+          "id": "p04-0-bar-28"
+        },
+        {
+          "name": "谱第30小节 · 钢琴right",
+          "start": 55680,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-29-note-5"
+            }
+          ],
+          "id": "p04-0-bar-29"
+        },
+        {
+          "name": "谱第31小节 · 钢琴right",
+          "start": 57600,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-30-note-6"
+            }
+          ],
+          "id": "p04-0-bar-30"
+        },
+        {
+          "name": "谱第32小节 · 钢琴right",
+          "start": 59520,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-31-note-6"
+            }
+          ],
+          "id": "p04-0-bar-31"
+        },
+        {
+          "name": "谱第33小节 · 钢琴right",
+          "start": 61440,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-32-note-5"
+            }
+          ],
+          "id": "p04-0-bar-32"
+        },
+        {
+          "name": "谱第34小节 · 钢琴right",
+          "start": 63360,
+          "length": 2400,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-33-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-33-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-33-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 720,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-33-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 720,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-33-note-4"
+            }
+          ],
+          "id": "p04-0-bar-33"
+        },
+        {
+          "name": "谱第35小节 · 钢琴right",
+          "start": 65280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-34-note-5"
+            }
+          ],
+          "id": "p04-0-bar-34"
+        },
+        {
+          "name": "谱第36小节 · 钢琴right",
+          "start": 67200,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-35-note-7"
+            }
+          ],
+          "id": "p04-0-bar-35"
+        },
+        {
+          "name": "谱第37小节 · 钢琴right",
+          "start": 69120,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-36-note-5"
+            }
+          ],
+          "id": "p04-0-bar-36"
+        },
+        {
+          "name": "谱第38小节 · 钢琴right",
+          "start": 71040,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-37-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-37-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-37-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-37-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 960,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-37-note-4"
+            }
+          ],
+          "id": "p04-0-bar-37"
+        },
+        {
+          "name": "谱第39小节 · 钢琴right",
+          "start": 72960,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 480,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-38-note-6"
+            }
+          ],
+          "id": "p04-0-bar-38"
+        },
+        {
+          "name": "谱第40小节 · 钢琴right",
+          "start": 74880,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 92,
+              "id": "p04-0-bar-39-note-6"
+            }
+          ],
+          "id": "p04-0-bar-39"
+        },
+        {
+          "name": "谱第41小节 · 钢琴right",
+          "start": 76800,
+          "length": 2160,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 2160,
+              "pitch": 77,
+              "velocity": 92,
+              "id": "p04-0-bar-40-note-0"
+            }
+          ],
+          "id": "p04-0-bar-40"
+        },
+        {
+          "name": "谱第42小节 · 钢琴right",
+          "start": 78720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 77,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-41-note-5"
+            }
+          ],
+          "id": "p04-0-bar-41"
+        },
+        {
+          "name": "谱第43小节 · 钢琴right",
+          "start": 80640,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 480,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-42-note-6"
+            }
+          ],
+          "id": "p04-0-bar-42"
+        },
+        {
+          "name": "谱第44小节 · 钢琴right",
+          "start": 82560,
+          "length": 2880,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 62,
+              "velocity": 88,
+              "id": "p04-0-bar-43-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-43-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 88,
+              "id": "p04-0-bar-43-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 1920,
+              "pitch": 65,
+              "velocity": 88,
+              "id": "p04-0-bar-43-note-3"
+            }
+          ],
+          "id": "p04-0-bar-43"
+        }
+      ],
+      "id": "p04-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴左手·按谱分解",
+      "level": 84,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "谱第2小节 · 钢琴left",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 66,
+              "id": "p04-1-bar-1-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-1-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-1-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-1-note-3"
+            }
+          ],
+          "id": "p04-1-bar-1"
+        },
+        {
+          "name": "谱第3小节 · 钢琴left",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-2-note-7"
+            }
+          ],
+          "id": "p04-1-bar-2"
+        },
+        {
+          "name": "谱第4小节 · 钢琴left",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 480,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-3-note-6"
+            }
+          ],
+          "id": "p04-1-bar-3"
+        },
+        {
+          "name": "谱第5小节 · 钢琴left",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p04-1-bar-4-note-6"
+            }
+          ],
+          "id": "p04-1-bar-4"
+        },
+        {
+          "name": "谱第6小节 · 钢琴left",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 69,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-5-note-5"
+            }
+          ],
+          "id": "p04-1-bar-5"
+        },
+        {
+          "name": "谱第7小节 · 钢琴left",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-6-note-7"
+            }
+          ],
+          "id": "p04-1-bar-6"
+        },
+        {
+          "name": "谱第8小节 · 钢琴left",
+          "start": 13440,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-2"
+            },
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-4"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-6"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-7-note-7"
+            }
+          ],
+          "id": "p04-1-bar-7"
+        },
+        {
+          "name": "谱第9小节 · 钢琴left",
+          "start": 15360,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 65,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "p04-1-bar-8-note-6"
+            }
+          ],
+          "id": "p04-1-bar-8"
+        },
+        {
+          "name": "谱第10小节 · 钢琴left",
+          "start": 17280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 69,
+              "velocity": 63,
+              "id": "p04-1-bar-9-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-9-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-9-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-9-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-9-note-4"
+            }
+          ],
+          "id": "p04-1-bar-9"
+        },
+        {
+          "name": "谱第11小节 · 钢琴left",
+          "start": 19200,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-10-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-10-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-10-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-10-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-10-note-4"
+            }
+          ],
+          "id": "p04-1-bar-10"
+        },
+        {
+          "name": "谱第12小节 · 钢琴left",
+          "start": 21120,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-11-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 40,
+              "velocity": 63,
+              "id": "p04-1-bar-11-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-11-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-11-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-11-note-4"
+            }
+          ],
+          "id": "p04-1-bar-11"
+        },
+        {
+          "name": "谱第13小节 · 钢琴left",
+          "start": 23040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-12-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-12-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-12-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-12-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-12-note-4"
+            }
+          ],
+          "id": "p04-1-bar-12"
+        },
+        {
+          "name": "谱第14小节 · 钢琴left",
+          "start": 24960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-13-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 36,
+              "velocity": 63,
+              "id": "p04-1-bar-13-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-13-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-13-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-13-note-4"
+            }
+          ],
+          "id": "p04-1-bar-13"
+        },
+        {
+          "name": "谱第15小节 · 钢琴left",
+          "start": 26880,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-14-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-14-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-14-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-14-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-14-note-4"
+            }
+          ],
+          "id": "p04-1-bar-14"
+        },
+        {
+          "name": "谱第16小节 · 钢琴left",
+          "start": 28800,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-15-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-15-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-15-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-15-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-15-note-4"
+            }
+          ],
+          "id": "p04-1-bar-15"
+        },
+        {
+          "name": "谱第17小节 · 钢琴left",
+          "start": 30720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 719,
+              "pitch": 65,
+              "velocity": 63,
+              "id": "p04-1-bar-16-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 360,
+              "pitch": 43,
+              "velocity": 63,
+              "id": "p04-1-bar-16-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 360,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-16-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-16-note-3"
+            }
+          ],
+          "id": "p04-1-bar-16"
+        },
+        {
+          "name": "谱第18小节 · 钢琴left",
+          "start": 32640,
+          "length": 2640,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 360,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 360,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 960,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-17-note-5"
+            }
+          ],
+          "id": "p04-1-bar-17"
+        },
+        {
+          "name": "谱第19小节 · 钢琴left",
+          "start": 34560,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-18-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-18-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-18-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-18-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-18-note-4"
+            }
+          ],
+          "id": "p04-1-bar-18"
+        },
+        {
+          "name": "谱第20小节 · 钢琴left",
+          "start": 36480,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-19-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 40,
+              "velocity": 63,
+              "id": "p04-1-bar-19-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-19-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-19-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-19-note-4"
+            }
+          ],
+          "id": "p04-1-bar-19"
+        },
+        {
+          "name": "谱第21小节 · 钢琴left",
+          "start": 38400,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-20-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-20-note-1"
+            }
+          ],
+          "id": "p04-1-bar-20"
+        },
+        {
+          "name": "谱第22小节 · 钢琴left",
+          "start": 40320,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 36,
+              "velocity": 63,
+              "id": "p04-1-bar-21-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-21-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-21-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-21-note-3"
+            }
+          ],
+          "id": "p04-1-bar-21"
+        },
+        {
+          "name": "谱第23小节 · 钢琴left",
+          "start": 42240,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-22-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-22-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-22-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-22-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-22-note-4"
+            }
+          ],
+          "id": "p04-1-bar-22"
+        },
+        {
+          "name": "谱第24小节 · 钢琴left",
+          "start": 44160,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-23-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-23-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-23-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-23-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-23-note-4"
+            }
+          ],
+          "id": "p04-1-bar-23"
+        },
+        {
+          "name": "谱第25小节 · 钢琴left",
+          "start": 46080,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 719,
+              "pitch": 65,
+              "velocity": 63,
+              "id": "p04-1-bar-24-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 43,
+              "velocity": 63,
+              "id": "p04-1-bar-24-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-24-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 480,
+              "pitch": 59,
+              "velocity": 63,
+              "id": "p04-1-bar-24-note-3"
+            }
+          ],
+          "id": "p04-1-bar-24"
+        },
+        {
+          "name": "谱第26小节 · 钢琴left",
+          "start": 48000,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-25-note-6"
+            }
+          ],
+          "id": "p04-1-bar-25"
+        },
+        {
+          "name": "谱第27小节 · 钢琴left",
+          "start": 49920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-26-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-26-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-26-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-26-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-26-note-4"
+            }
+          ],
+          "id": "p04-1-bar-26"
+        },
+        {
+          "name": "谱第28小节 · 钢琴left",
+          "start": 51840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-27-note-4"
+            }
+          ],
+          "id": "p04-1-bar-27"
+        },
+        {
+          "name": "谱第29小节 · 钢琴left",
+          "start": 53760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 480,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-28-note-3"
+            }
+          ],
+          "id": "p04-1-bar-28"
+        },
+        {
+          "name": "谱第30小节 · 钢琴left",
+          "start": 55680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-29-note-6"
+            }
+          ],
+          "id": "p04-1-bar-29"
+        },
+        {
+          "name": "谱第31小节 · 钢琴left",
+          "start": 57600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 720,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-30-note-5"
+            }
+          ],
+          "id": "p04-1-bar-30"
+        },
+        {
+          "name": "谱第32小节 · 钢琴left",
+          "start": 59520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 43,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-31-note-4"
+            }
+          ],
+          "id": "p04-1-bar-31"
+        },
+        {
+          "name": "谱第33小节 · 钢琴left",
+          "start": 61440,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 47,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 59,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-32-note-4"
+            }
+          ],
+          "id": "p04-1-bar-32"
+        },
+        {
+          "name": "谱第34小节 · 钢琴left",
+          "start": 63360,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 65,
+              "velocity": 63,
+              "id": "p04-1-bar-33-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-33-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-33-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-33-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-33-note-4"
+            }
+          ],
+          "id": "p04-1-bar-33"
+        },
+        {
+          "name": "谱第35小节 · 钢琴left",
+          "start": 65280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 720,
+              "pitch": 65,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-34-note-5"
+            }
+          ],
+          "id": "p04-1-bar-34"
+        },
+        {
+          "name": "谱第36小节 · 钢琴left",
+          "start": 67200,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-35-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-35-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-35-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-35-note-3"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-35-note-4"
+            }
+          ],
+          "id": "p04-1-bar-35"
+        },
+        {
+          "name": "谱第37小节 · 钢琴left",
+          "start": 69120,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 960,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-36-note-0"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-36-note-1"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-36-note-2"
+            },
+            {
+              "start": 1440,
+              "duration": 480,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-36-note-3"
+            }
+          ],
+          "id": "p04-1-bar-36"
+        },
+        {
+          "name": "谱第38小节 · 钢琴left",
+          "start": 71040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 64,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-4"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-5"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-37-note-6"
+            }
+          ],
+          "id": "p04-1-bar-37"
+        },
+        {
+          "name": "谱第39小节 · 钢琴left",
+          "start": 72960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 45,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 52,
+              "velocity": 63,
+              "id": "p04-1-bar-38-note-5"
+            }
+          ],
+          "id": "p04-1-bar-38"
+        },
+        {
+          "name": "谱第40小节 · 钢琴left",
+          "start": 74880,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 43,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 50,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-3"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-39-note-5"
+            }
+          ],
+          "id": "p04-1-bar-39"
+        },
+        {
+          "name": "谱第41小节 · 钢琴left",
+          "start": 76800,
+          "length": 2880,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 2880,
+              "pitch": 47,
+              "velocity": 63,
+              "id": "p04-1-bar-40-note-0"
+            }
+          ],
+          "id": "p04-1-bar-40"
+        },
+        {
+          "name": "谱第42小节 · 钢琴left",
+          "start": 78720,
+          "length": 2880,
+          "notes": [
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 46,
+              "velocity": 63,
+              "id": "p04-1-bar-41-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-41-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-41-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 1200,
+              "pitch": 62,
+              "velocity": 63,
+              "id": "p04-1-bar-41-note-3"
+            }
+          ],
+          "id": "p04-1-bar-41"
+        },
+        {
+          "name": "谱第43小节 · 钢琴left",
+          "start": 80640,
+          "length": 2880,
+          "notes": [
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-42-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-42-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 1440,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-42-note-2"
+            }
+          ],
+          "id": "p04-1-bar-42"
+        },
+        {
+          "name": "谱第44小节 · 钢琴left",
+          "start": 82560,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 41,
+              "velocity": 63,
+              "id": "p04-1-bar-43-note-0"
+            },
+            {
+              "start": 1200,
+              "duration": 240,
+              "pitch": 48,
+              "velocity": 63,
+              "id": "p04-1-bar-43-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 240,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-43-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 58,
+              "velocity": 63,
+              "id": "p04-1-bar-43-note-3"
+            }
+          ],
+          "id": "p04-1-bar-43"
+        },
+        {
+          "name": "谱第45小节 · 钢琴left",
+          "start": 84480,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 480,
+              "pitch": 60,
+              "velocity": 63,
+              "id": "p04-1-bar-44-note-0"
+            },
+            {
+              "start": 480,
+              "duration": 480,
+              "pitch": 55,
+              "velocity": 63,
+              "id": "p04-1-bar-44-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 960,
+              "pitch": 53,
+              "velocity": 63,
+              "id": "p04-1-bar-44-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 960,
+              "pitch": 57,
+              "velocity": 63,
+              "id": "p04-1-bar-44-note-3"
+            }
+          ],
+          "id": "p04-1-bar-44"
+        }
+      ],
+      "id": "p04-track-1"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 干净吉他·轻分解与扫弦",
+      "level": 73,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 17280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 69,
+              "velocity": 65,
+              "id": "p04-2-bar-9-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-9-note-1"
+            }
+          ],
+          "id": "p04-2-bar-9"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 19200,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-10-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-10-note-1"
+            }
+          ],
+          "id": "p04-2-bar-10"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 21120,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-11-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 52,
+              "velocity": 61,
+              "id": "p04-2-bar-11-note-1"
+            }
+          ],
+          "id": "p04-2-bar-11"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 23040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 60,
+              "velocity": 65,
+              "id": "p04-2-bar-12-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-12-note-1"
+            }
+          ],
+          "id": "p04-2-bar-12"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 24960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 65,
+              "id": "p04-2-bar-13-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 61,
+              "id": "p04-2-bar-13-note-1"
+            }
+          ],
+          "id": "p04-2-bar-13"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 26880,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-14-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-14-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 46,
+              "velocity": 59,
+              "id": "p04-2-bar-14-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 53,
+              "velocity": 56,
+              "id": "p04-2-bar-14-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 58,
+              "velocity": 53,
+              "id": "p04-2-bar-14-note-4"
+            }
+          ],
+          "id": "p04-2-bar-14"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 28800,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 62,
+              "velocity": 65,
+              "id": "p04-2-bar-15-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "p04-2-bar-15-note-1"
+            }
+          ],
+          "id": "p04-2-bar-15"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 30720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 65,
+              "velocity": 65,
+              "id": "p04-2-bar-16-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 55,
+              "velocity": 61,
+              "id": "p04-2-bar-16-note-1"
+            }
+          ],
+          "id": "p04-2-bar-16"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 32640,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 65,
+              "id": "p04-2-bar-17-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 61,
+              "id": "p04-2-bar-17-note-1"
+            }
+          ],
+          "id": "p04-2-bar-17"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 34560,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 58,
+              "velocity": 65,
+              "id": "p04-2-bar-18-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-18-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 48,
+              "velocity": 59,
+              "id": "p04-2-bar-18-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 53,
+              "velocity": 56,
+              "id": "p04-2-bar-18-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 55,
+              "velocity": 53,
+              "id": "p04-2-bar-18-note-4"
+            }
+          ],
+          "id": "p04-2-bar-18"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 36480,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-19-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 52,
+              "velocity": 61,
+              "id": "p04-2-bar-19-note-1"
+            }
+          ],
+          "id": "p04-2-bar-19"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 38400,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 60,
+              "velocity": 65,
+              "id": "p04-2-bar-20-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-20-note-1"
+            }
+          ],
+          "id": "p04-2-bar-20"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 40320,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 65,
+              "id": "p04-2-bar-21-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 61,
+              "id": "p04-2-bar-21-note-1"
+            }
+          ],
+          "id": "p04-2-bar-21"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 42240,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-22-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-22-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 46,
+              "velocity": 59,
+              "id": "p04-2-bar-22-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 53,
+              "velocity": 56,
+              "id": "p04-2-bar-22-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 58,
+              "velocity": 53,
+              "id": "p04-2-bar-22-note-4"
+            }
+          ],
+          "id": "p04-2-bar-22"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 44160,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 62,
+              "velocity": 65,
+              "id": "p04-2-bar-23-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "p04-2-bar-23-note-1"
+            }
+          ],
+          "id": "p04-2-bar-23"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 46080,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 65,
+              "velocity": 65,
+              "id": "p04-2-bar-24-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 55,
+              "velocity": 61,
+              "id": "p04-2-bar-24-note-1"
+            }
+          ],
+          "id": "p04-2-bar-24"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 48000,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 65,
+              "id": "p04-2-bar-25-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-25-note-1"
+            }
+          ],
+          "id": "p04-2-bar-25"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 49920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-26-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-26-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 45,
+              "velocity": 59,
+              "id": "p04-2-bar-26-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 50,
+              "velocity": 56,
+              "id": "p04-2-bar-26-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 53,
+              "velocity": 53,
+              "id": "p04-2-bar-26-note-4"
+            }
+          ],
+          "id": "p04-2-bar-26"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 51840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-27-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "p04-2-bar-27-note-1"
+            }
+          ],
+          "id": "p04-2-bar-27"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 53760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 64,
+              "velocity": 65,
+              "id": "p04-2-bar-28-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-28-note-1"
+            }
+          ],
+          "id": "p04-2-bar-28"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 55680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 65,
+              "id": "p04-2-bar-29-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-29-note-1"
+            }
+          ],
+          "id": "p04-2-bar-29"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 57600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-30-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-30-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 45,
+              "velocity": 59,
+              "id": "p04-2-bar-30-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 50,
+              "velocity": 56,
+              "id": "p04-2-bar-30-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 52,
+              "velocity": 53,
+              "id": "p04-2-bar-30-note-4"
+            }
+          ],
+          "id": "p04-2-bar-30"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 59520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 65,
+              "id": "p04-2-bar-31-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 55,
+              "velocity": 61,
+              "id": "p04-2-bar-31-note-1"
+            }
+          ],
+          "id": "p04-2-bar-31"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 61440,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 58,
+              "velocity": 65,
+              "id": "p04-2-bar-32-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 47,
+              "velocity": 61,
+              "id": "p04-2-bar-32-note-1"
+            }
+          ],
+          "id": "p04-2-bar-32"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 63360,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 65,
+              "velocity": 65,
+              "id": "p04-2-bar-33-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 61,
+              "id": "p04-2-bar-33-note-1"
+            }
+          ],
+          "id": "p04-2-bar-33"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 65280,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 64,
+              "velocity": 65,
+              "id": "p04-2-bar-34-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-34-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 45,
+              "velocity": 59,
+              "id": "p04-2-bar-34-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 50,
+              "velocity": 56,
+              "id": "p04-2-bar-34-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 53,
+              "velocity": 53,
+              "id": "p04-2-bar-34-note-4"
+            }
+          ],
+          "id": "p04-2-bar-34"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 67200,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 57,
+              "velocity": 65,
+              "id": "p04-2-bar-35-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 45,
+              "velocity": 61,
+              "id": "p04-2-bar-35-note-1"
+            }
+          ],
+          "id": "p04-2-bar-35"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 69120,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 64,
+              "velocity": 65,
+              "id": "p04-2-bar-36-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-36-note-1"
+            }
+          ],
+          "id": "p04-2-bar-36"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 71040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 65,
+              "id": "p04-2-bar-37-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-37-note-1"
+            }
+          ],
+          "id": "p04-2-bar-37"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 72960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 60,
+              "velocity": 65,
+              "id": "p04-2-bar-38-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 50,
+              "velocity": 61,
+              "id": "p04-2-bar-38-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 45,
+              "velocity": 59,
+              "id": "p04-2-bar-38-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 50,
+              "velocity": 56,
+              "id": "p04-2-bar-38-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 52,
+              "velocity": 53,
+              "id": "p04-2-bar-38-note-4"
+            }
+          ],
+          "id": "p04-2-bar-38"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 74880,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 65,
+              "id": "p04-2-bar-39-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 55,
+              "velocity": 61,
+              "id": "p04-2-bar-39-note-1"
+            }
+          ],
+          "id": "p04-2-bar-39"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 76800,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 47,
+              "velocity": 65,
+              "id": "p04-2-bar-40-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 47,
+              "velocity": 61,
+              "id": "p04-2-bar-40-note-1"
+            }
+          ],
+          "id": "p04-2-bar-40"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 78720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 47,
+              "velocity": 65,
+              "id": "p04-2-bar-41-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 46,
+              "velocity": 61,
+              "id": "p04-2-bar-41-note-1"
+            }
+          ],
+          "id": "p04-2-bar-41"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 80640,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 62,
+              "velocity": 65,
+              "id": "p04-2-bar-42-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 48,
+              "velocity": 61,
+              "id": "p04-2-bar-42-note-1"
+            },
+            {
+              "start": 1440,
+              "duration": 250,
+              "pitch": 48,
+              "velocity": 59,
+              "id": "p04-2-bar-42-note-2"
+            },
+            {
+              "start": 1459,
+              "duration": 250,
+              "pitch": 55,
+              "velocity": 56,
+              "id": "p04-2-bar-42-note-3"
+            },
+            {
+              "start": 1478,
+              "duration": 250,
+              "pitch": 58,
+              "velocity": 53,
+              "id": "p04-2-bar-42-note-4"
+            }
+          ],
+          "id": "p04-2-bar-42"
+        },
+        {
+          "name": "吉他·按钢琴和声轻分解",
+          "start": 82560,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 120,
+              "duration": 278,
+              "pitch": 58,
+              "velocity": 65,
+              "id": "p04-2-bar-43-note-0"
+            },
+            {
+              "start": 1080,
+              "duration": 278,
+              "pitch": 53,
+              "velocity": 61,
+              "id": "p04-2-bar-43-note-1"
+            }
+          ],
+          "id": "p04-2-bar-43"
+        }
+      ],
+      "id": "p04-track-2"
+    },
+    {
+      "instrument": "violin",
+      "name": "04 小提琴·句间回答",
+      "level": 66,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "小提琴·轻声回答",
+          "start": 24960,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 76,
+              "velocity": 47,
+              "id": "p04-3-bar-13-note-0"
+            }
+          ],
+          "id": "p04-3-bar-13"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 32640,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 70,
+              "velocity": 47,
+              "id": "p04-3-bar-17-note-0"
+            }
+          ],
+          "id": "p04-3-bar-17"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 40320,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 76,
+              "velocity": 47,
+              "id": "p04-3-bar-21-note-0"
+            }
+          ],
+          "id": "p04-3-bar-21"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 48000,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 67,
+              "velocity": 47,
+              "id": "p04-3-bar-25-note-0"
+            }
+          ],
+          "id": "p04-3-bar-25"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 55680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 67,
+              "velocity": 52,
+              "id": "p04-3-bar-29-note-0"
+            }
+          ],
+          "id": "p04-3-bar-29"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 63360,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 74,
+              "velocity": 52,
+              "id": "p04-3-bar-33-note-0"
+            }
+          ],
+          "id": "p04-3-bar-33"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 71040,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 69,
+              "velocity": 52,
+              "id": "p04-3-bar-37-note-0"
+            }
+          ],
+          "id": "p04-3-bar-37"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 78720,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 74,
+              "velocity": 52,
+              "id": "p04-3-bar-41-note-0"
+            }
+          ],
+          "id": "p04-3-bar-41"
+        },
+        {
+          "name": "小提琴·轻声回答",
+          "start": 82560,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 840,
+              "duration": 792,
+              "pitch": 70,
+              "velocity": 52,
+              "id": "p04-3-bar-43-note-0"
+            }
+          ],
+          "id": "p04-3-bar-43"
+        }
+      ],
+      "id": "p04-track-3"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 50
+        },
+        {
+          "tick": 17220,
+          "value": 50
+        },
+        {
+          "tick": 17280,
+          "value": 52
+        },
+        {
+          "tick": 49860,
+          "value": 52
+        },
+        {
+          "tick": 49920,
+          "value": 54
+        },
+        {
+          "tick": 78660,
+          "value": 54
+        },
+        {
+          "tick": 78720,
+          "value": 51
+        },
+        {
+          "tick": 84420,
+          "value": 51
+        },
+        {
+          "tick": 84480,
+          "value": 48
+        },
+        {
+          "tick": 88320,
+          "value": 48
+        },
+        {
+          "tick": 90000,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 17220,
+          "value": 0
+        },
+        {
+          "tick": 17280,
+          "value": 18
+        },
+        {
+          "tick": 49860,
+          "value": 18
+        },
+        {
+          "tick": 49920,
+          "value": 23
+        },
+        {
+          "tick": 78660,
+          "value": 23
+        },
+        {
+          "tick": 78720,
+          "value": 18
+        },
+        {
+          "tick": 84420,
+          "value": 18
+        },
+        {
+          "tick": 84480,
+          "value": 0
+        },
+        {
+          "tick": 88320,
+          "value": 0
+        },
+        {
+          "tick": 90000,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 24900,
+          "value": 0
+        },
+        {
+          "tick": 24960,
+          "value": 11
+        },
+        {
+          "tick": 49860,
+          "value": 11
+        },
+        {
+          "tick": 49920,
+          "value": 15
+        },
+        {
+          "tick": 78660,
+          "value": 15
+        },
+        {
+          "tick": 78720,
+          "value": 12
+        },
+        {
+          "tick": 84420,
+          "value": 12
+        },
+        {
+          "tick": 84480,
+          "value": 0
+        },
+        {
+          "tick": 88320,
+          "value": 0
+        },
+        {
+          "tick": 90000,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 88320,
+          "value": 0
+        },
+        {
+          "tick": 90000,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 0
+        },
+        {
+          "tick": 88320,
+          "value": 0
+        },
+        {
+          "tick": 90000,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 18,
+    "bus.piano": 52,
+    "bus.drums": 0,
+    "bus.violin": 0,
+    "bus.bass": 0,
+    "space.chorus_mix": 0,
+    "space.chorus_rate": 40,
+    "space.chorus_depth": 40,
+    "space.delay_mix": 0,
+    "space.delay_time": 40,
+    "space.delay_feedback": 0,
+    "guitar.amp": 0,
+    "guitar.drive": 0,
+    "guitar.tone": 56,
+    "guitar.level": 64,
+    "guitar.mix": 127,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 0,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 90240,
+  "format": "tang-arrangement-v1",
+  "guitar_sustain": 48
+}

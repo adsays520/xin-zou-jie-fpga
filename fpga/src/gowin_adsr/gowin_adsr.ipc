@@ -1,0 +1,17 @@
+[General]
+ipc_version=4
+file=gowin_adsr
+module=Gowin_ADSR
+target_device=gw5ast138b-002
+type=sdp36ke
+version=1.0
+
+[Config]
+DEPTH_A=4096
+ECC_MODE=2
+ERROR_INJECTION=0
+ERROR_INJECTION_CHECK=false
+LANG=0
+READ=0
+RESET_MODE=true
+WIDTH_A=16

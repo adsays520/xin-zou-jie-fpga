@@ -1,0 +1,12 @@
+{
+  "snapshot": "2026-11-04",
+  "architecture": "Windows x64",
+  "python": "3.14.2",
+  "entry": "FPGA_ESP_Control.exe",
+  "standalone": true,
+  "pages": 14,
+  "led_companion": true,
+  "midi_guide_direct_entry": true,
+  "desktop_version": "complete-1104",
+  "exe_sha256": "d4523a448dc0f16a4e3d126af752e64c8cd421b58f2a9a2020c4227d0864dd2e"
+}

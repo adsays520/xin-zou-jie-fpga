@@ -1,0 +1,345 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\s3_bulk_buffer.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_inputs.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v'
+Analyzing included file 'src\panel_menu.vh'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":10)
+Back to file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":10)
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_pitch.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v'
+Analyzing included file 'src\panel_menu.vh'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":8)
+Back to file 'E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":8)
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_table_ram_pages.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\ensemble_mixer.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\ensemble_capabilities.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\drums\kick_modal.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_pitch_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_pitch_shift.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\audio_driver.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\audio_q23_to_s16.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\button_debounce.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\st7735_status.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_dds.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_telemetry.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_visuals.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_fast_key.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_biquad.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_body_filter.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_output_conditioner.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_note_params.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\gowin_adsr\gowin_adsr.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_voice_tdm_core.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_scratch_bank.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_context_ram.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_tail_cleaner.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_bus_manager.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_poly32_tdm.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_soundboard.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v'
+Analyzing included file 'src\drums\drum_parameter_bank.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":4)
+Analyzing included file 'src\drums\rom\drum_bank_config.vh'("src\drums\drum_parameter_bank.v":3)
+Back to file 'src\drums\drum_parameter_bank.v'("src\drums\drum_parameter_bank.v":3)
+Back to file 'E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":4)
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_machine.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_ddr_top.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v'
+Analyzing included file 'src\piano\sms_ddr\bank_config.vh'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":3)
+Back to file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":3)
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_transport.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\excitation_ddr\async_fifo64.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\ip\gowin_pll\gowin_pll.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\ip\ddr3_memory_interface\ddr3_memory_interface.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_bank_status_tx.v'
+Analyzing included file 'src\piano\sms_ddr\bank_config.vh'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_bank_status_tx.v":1)
+Back to file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_bank_status_tx.v'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_bank_status_tx.v":1)
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\effects\stereo_ddr_delay.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_audio_ddr_arbiter.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\s3_spi_link.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\s3_control_ingress.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\touch_to_command.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\pluck_event_queue.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_channel.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_touch_control.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\storage\sd_spi_byte.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\storage\sd_spi_card.v'
+Analyzing Verilog file 'E:\FPGA_Android_20261101\fpga_spi_work\src\storage\piano_sd_boot.v'
+Compiling module 'guitar_audio_ddr_top'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_ddr_top.v":3)
+Compiling module 'Gowin_PLL'("E:\FPGA_Android_20261101\fpga_spi_work\ip\gowin_pll\gowin_pll.v":10)
+Compiling module 'DDR3_Memory_Interface_Top'("E:\FPGA_Android_20261101\fpga_spi_work\ip\ddr3_memory_interface\ddr3_memory_interface.v":31987)
+Compiling module '**'("E:\FPGA_Android_20261101\fpga_spi_work\ip\ddr3_memory_interface\ddr3_memory_interface.v":31986)
+Compiling module 'piano_audio_ddr_arbiter'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_audio_ddr_arbiter.v":3)
+Compiling module 'piano_ddr_transport'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_transport.v":4)
+Compiling module 'excitation_async_fifo64'("E:\FPGA_Android_20261101\fpga_spi_work\src\excitation_ddr\async_fifo64.v":3)
+WARN  (EX3073) : Port 'occupancy' remains unconnected for this instance("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v":759)
+Compiling module 'guitar_audio_top'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v":3)
+WARN  (EX3791) : Expression size 3 truncated to fit in target size 2("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v":255)
+WARN  (EX3791) : Expression size 3 truncated to fit in target size 2("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v":259)
+Compiling module 'ensemble_mixer'("E:\FPGA_Android_20261101\fpga_spi_work\src\ensemble_mixer.v":1)
+Compiling module 'performance_peak_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v":59)
+Extracting RAM for identifier 'history_l'("E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v":64)
+Extracting RAM for identifier 'history_r'("E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v":64)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v":85)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 33("E:\FPGA_Android_20261101\fpga_spi_work\src\performance_mixer.v":122)
+Compiling module 'panel_inputs'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_inputs.v":54)
+Compiling module 'panel_encoder'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_inputs.v":4)
+Compiling module 'panel_button'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_inputs.v":32)
+Compiling module 'panel_button(REPEAT=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_inputs.v":32)
+Compiling module 'panel_controller'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":2)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":37)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":80)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":83)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_controller.v":84)
+Compiling module 'panel_pitch'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_pitch.v":3)
+Extracting RAM for identifier 'sine'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_pitch.v":15)
+Extracting RAM for identifier 'ratios'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_pitch.v":15)
+WARN  (EX2526) : Entry size 12 at src/panel_lfo.hex:1 does not match memory width 9("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_pitch.v":16)
+Compiling module 'st7735_status(PANEL_UI=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\st7735_status.v":3)
+Compiling module 'panel_raster'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":3)
+Extracting RAM for identifier 'font'("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":18)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":17)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":49)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":53)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":54)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":57)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":58)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":68)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":69)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":72)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":80)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":87)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":88)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":92)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\src\panel_raster.v":93)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\st7735_status.v":178)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 2 for port 'visual_page_select'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_audio_top.v":405)
+Compiling module 'verification_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_control.v":3)
+Compiling module 'verification_dds'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_dds.v":3)
+Extracting RAM for identifier 'sine_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_dds.v":14)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_dds.v":58)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_dds.v":58)
+Compiling module 'verification_telemetry'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_telemetry.v":3)
+Extracting RAM for identifier 'memory'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_telemetry.v":12)
+Compiling module 'verification_uart_tx'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_telemetry.v":88)
+Compiling module 'piano_bank_status_tx'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_bank_status_tx.v":2)
+Compiling module 'ensemble_capabilities'("E:\FPGA_Android_20261101\fpga_spi_work\src\ensemble_capabilities.v":1)
+Compiling module 'verification_visuals'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_visuals.v":3)
+Extracting RAM for identifier 'sine_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_visuals.v":20)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_visuals.v":80)
+Compiling module 'audio_q23_to_s16'("E:\FPGA_Android_20261101\fpga_spi_work\src\audio_q23_to_s16.v":3)
+Compiling module 'button_debounce'("E:\FPGA_Android_20261101\fpga_spi_work\src\button_debounce.v":3)
+Compiling module 'verification_fast_key'("E:\FPGA_Android_20261101\fpga_spi_work\src\verification\verification_fast_key.v":3)
+Compiling module 's3_bulk_buffer'("E:\FPGA_Android_20261101\fpga_spi_work\src\s3_bulk_buffer.v":3)
+Compiling module 's3_spi_link(PANEL_TELEMETRY=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\s3_spi_link.v":4)
+WARN  (EX3791) : Expression size 4 truncated to fit in target size 3("E:\FPGA_Android_20261101\fpga_spi_work\src\s3_spi_link.v":141)
+Compiling module 'touch_to_command'("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_to_command.v":1)
+Compiling module 'touch_to_command_legacy'("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":3)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 5("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":35)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 3("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":37)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 3("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":130)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 3("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":137)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 3("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":141)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":141)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\touch_legacy.v":155)
+Compiling module 'violin_touch_control'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_touch_control.v":1)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_touch_control.v":20)
+Compiling module 's3_control_ingress'("E:\FPGA_Android_20261101\fpga_spi_work\src\s3_control_ingress.v":4)
+Compiling module 'uart_rx_8n1'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v":521)
+Compiling module 'guitar_uart_trigger(EXTERNAL_BYTES=1'b1,EXTERNAL_STAGE=1'b1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v":20)
+Extracting RAM for identifier 'envelope_packet_words'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v":131)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v":237)
+Compiling module 'drawn_synth_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth_control.v":3)
+Extracting RAM for identifier 'words'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth_control.v":20)
+Compiling module 'drum_machine'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_machine.v":4)
+Extracting RAM for identifier 'pattern'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_machine.v":22)
+Compiling module 'drum_synth'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":5)
+Extracting RAM for identifier 'sine'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":18)
+Extracting RAM for identifier 'phase'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":22)
+Compiling module 'kick_modal(EXTERNAL_PARAMETERS=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\kick_modal.v":3)
+WARN  (EX3791) : Expression size 64 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\kick_modal.v":89)
+Compiling module 'drum_parameter_bank'("src\drums\drum_parameter_bank.v":4)
+Extracting RAM for identifier 'memory'("src\drums\drum_parameter_bank.v":15)
+WARN  (EX3791) : Expression size 46 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":231)
+WARN  (EX3791) : Expression size 46 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":254)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":256)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 29("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":258)
+WARN  (EX3791) : Expression size 46 truncated to fit in target size 29("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":259)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 29("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":266)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 29("E:\FPGA_Android_20261101\fpga_spi_work\src\drums\drum_synth.v":287)
+Compiling module 'guitar_pitch_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_pitch_control.v":3)
+Compiling module 'guitar_pitch_shift'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_pitch_shift.v":3)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_pitch_shift.v":9)
+Compiling module 'guitar_fx_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_control.v":3)
+Compiling module 'guitar_fx'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":3)
+Extracting RAM for identifier 'dry_history'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":17)
+Extracting RAM for identifier 'level_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":23)
+Extracting RAM for identifier 'comp_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":24)
+Extracting RAM for identifier 'gate_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":25)
+WARN  (EX2526) : Entry size 20 at src/effects/rom/fx_level.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":27)
+Compiling module 'guitar_fx_biquad'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_biquad.v":3)
+Extracting RAM for identifier 'rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_biquad.v":8)
+WARN  (EX3791) : Expression size 33 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_biquad.v":41)
+Compiling module 'guitar_fx_oversample'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":5)
+Extracting RAM for identifier 'up_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":10)
+Extracting RAM for identifier 'down_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":10)
+Extracting RAM for identifier 'tanh_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":11)
+Extracting RAM for identifier 'gain_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":12)
+Extracting RAM for identifier 'history'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":19)
+Extracting RAM for identifier 'out_history'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":19)
+WARN  (EX2526) : Entry size 20 at src/effects/rom/fx_fir_up.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":14)
+WARN  (EX2526) : Entry size 20 at src/effects/rom/fx_fir_down.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":15)
+WARN  (EX2526) : Entry size 20 at src/effects/rom/fx_gain.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":16)
+WARN  (EX2526) : Entry size 20 at src/effects/rom/fx_tanh.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":17)
+WARN  (EX3791) : Expression size 42 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":41)
+WARN  (EX3791) : Expression size 33 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":128)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":130)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":132)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_oversample.v":137)
+Compiling module 'guitar_fx_modulation'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v":3)
+Extracting RAM for identifier 'sine'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v":8)
+Extracting RAM for identifier 'delay_line'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v":10)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v":54)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx_modulation.v":60)
+WARN  (EX3791) : Expression size 33 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":48)
+Compiling module 'guitar_fx_peak_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":177)
+Extracting RAM for identifier 'history'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":183)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":204)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 33("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":235)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":76)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":102)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":103)
+WARN  (EX3791) : Expression size 18 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\guitar_fx.v":109)
+Compiling module 'master_space_fx_control'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx_control.v":3)
+Compiling module 'master_space_fx'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx.v":3)
+Extracting RAM for identifier 'sine'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx.v":15)
+Extracting RAM for identifier 'chorus_line_l'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx.v":17)
+Extracting RAM for identifier 'chorus_line_r'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\master_space_fx.v":17)
+Compiling module 'stereo_ddr_delay'("E:\FPGA_Android_20261101\fpga_spi_work\src\effects\stereo_ddr_delay.v":3)
+Compiling module 'guitar_note_params(PRECLAMPED=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_note_params.v":3)
+Compiling module 'pluck_event_queue'("E:\FPGA_Android_20261101\fpga_spi_work\src\pluck_event_queue.v":1)
+Compiling module 'audio_drive'("E:\FPGA_Android_20261101\fpga_spi_work\src\audio_driver.v":5)
+Compiling module 'guitar_poly32_tdm(ENABLE_PICK_SOFTENER=1'b0,ENABLE_VOICE_FIR=1'b0,ENABLE_VOICE_ADSR=1'b1,ENABLE_PIANO_TIMBRE=1'b0,ENABLE_TAIL_HF_DAMPING=1'b0,ENABLE_DYNAMIC_TAIL_EQ=1'b1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_poly32_tdm.v":6)
+Extracting RAM for identifier 'fifo'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_poly32_tdm.v":99)
+Compiling module 'Gowin_ADSR'("E:\FPGA_Android_20261101\fpga_spi_work\src\gowin_adsr\gowin_adsr.v":11)
+Compiling module 'guitar_voice_tdm_core(ENABLE_TAIL_HF_DAMPING=1'b0)'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_voice_tdm_core.v":8)
+Compiling module 'poly32_context_ram(WIDTH=1007)'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_context_ram.v":9)
+Compiling module 'poly32_road_bank'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v":1)
+Extracting RAM for identifier 'first_sample'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v":23)
+Extracting RAM for identifier 'second_sample'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v":23)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 2("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v":15)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 2("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_road_bank.v":16)
+Compiling module 'poly32_scratch_bank'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_scratch_bank.v":5)
+Extracting RAM for identifier 'even_sample'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_scratch_bank.v":14)
+WARN  (EX3791) : Expression size 26 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\guitar_voice_tdm_core.v":795)
+Compiling module 'poly32_bus_manager'("E:\FPGA_Android_20261101\fpga_spi_work\src\poly32\poly32_bus_manager.v":7)
+Compiling module 'violin_channel(PANEL_PITCH=1)'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_channel.v":2)
+Compiling module 'violin_core(PANEL_PITCH=1)'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":5)
+Extracting RAM for identifier 'fifo'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":17)
+Extracting RAM for identifier 'amplitude_rom'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":30)
+Extracting RAM for identifier 'phase_rom'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":30)
+Extracting RAM for identifier 'release_rom'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":31)
+Extracting RAM for identifier 'sine_rom'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":31)
+Extracting RAM for identifier 'frequency_rom'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":32)
+Extracting RAM for identifier 'amplitudes'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":40)
+Extracting RAM for identifier 'offsets'("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":40)
+WARN  (EX3791) : Expression size 28 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":81)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 6("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":132)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":149)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":156)
+WARN  (EX3791) : Expression size 45 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":160)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":172)
+WARN  (EX3791) : Expression size 64 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":183)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":185)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":191)
+WARN  (EX3791) : Expression size 64 truncated to fit in target size 48("E:\FPGA_Android_20261101\fpga_spi_work\violin_r15\violin_core.v":196)
+Compiling module 'bass_poly8(PANEL_PITCH=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":3)
+Extracting RAM for identifier 'wave_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":14)
+Extracting RAM for identifier 'pitch_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":15)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":136)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":136)
+WARN  (EX3791) : Expression size 35 truncated to fit in target size 19("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":140)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":143)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":145)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\bass\bass_poly8.v":155)
+Compiling module 'sd_spi_card(POWERUP_CLKS=5000000)'("E:\FPGA_Android_20261101\fpga_spi_work\src\storage\sd_spi_card.v":3)
+Compiling module 'sd_spi_byte'("E:\FPGA_Android_20261101\fpga_spi_work\src\storage\sd_spi_byte.v":3)
+Compiling module 'piano_sd_boot(KEEP_STAGE=0,MULTI_FILE=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\storage\piano_sd_boot.v":1)
+Extracting RAM for identifier 'sector'("E:\FPGA_Android_20261101\fpga_spi_work\src\storage\piano_sd_boot.v":21)
+Compiling module 'piano_wavetable16_tdm(PANEL_PITCH=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":4)
+Extracting RAM for identifier 'tuning'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":43)
+Extracting RAM for identifier 'velocity_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":43)
+Extracting RAM for identifier 'headroom_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":43)
+Extracting RAM for identifier 'curve_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":44)
+Extracting RAM for identifier 'sine_rom'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":45)
+Extracting RAM for identifier 'phase_ram'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":93)
+Extracting RAM for identifier 'xr_ram'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":117)
+Extracting RAM for identifier 'xi_ram'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":117)
+WARN  (EX2526) : Entry size 20 at src/piano/sms/sine.hex:0 does not match memory width 18("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":51)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":67)
+WARN  (EX3791) : Expression size 15 truncated to fit in target size 9("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":77)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":79)
+WARN  (EX3791) : Expression size 14 truncated to fit in target size 9("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":79)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":81)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 9("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":81)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 20("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":83)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":83)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 8("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":119)
+Compiling module 'piano_ddr_bank'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":4)
+Extracting RAM for identifier 'tonal_cache'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":27)
+Extracting RAM for identifier 'transient_cache'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":28)
+Extracting RAM for identifier 'noise_cache'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_ddr_bank.v":28)
+WARN  (EX3791) : Expression size 64 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":244)
+WARN  (EX3791) : Expression size 64 truncated to fit in target size 32("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":244)
+WARN  (EX3791) : Expression size 18 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":301)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":303)
+WARN  (EX3791) : Expression size 65 truncated to fit in target size 48("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_wavetable16_tdm.v":326)
+Compiling module 'drawn_synth16(PANEL_PITCH=1)'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":4)
+Compiling module 'drawn_table_ram_pages'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_table_ram_pages.v":1)
+Extracting RAM for identifier 'memory'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_table_ram_pages.v":20)
+Extracting RAM for identifier 'memory'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_table_ram_pages.v":20)
+Extracting RAM for identifier 'memory'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_table_ram_pages.v":20)
+WARN  (EX3791) : Expression size 19 truncated to fit in target size 17("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":81)
+WARN  (EX3791) : Expression size 34 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":132)
+WARN  (EX3791) : Expression size 20 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":137)
+WARN  (EX3791) : Expression size 20 truncated to fit in target size 18("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":139)
+WARN  (EX3791) : Expression size 28 truncated to fit in target size 24("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\drawn_synth16.v":141)
+Compiling module 'piano_soundboard'("E:\FPGA_Android_20261101\fpga_spi_work\src\piano\piano_soundboard.v":2)
+Compiling module 'guitar_body_filter'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_body_filter.v":7)
+Compiling module 'guitar_output_conditioner'("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_output_conditioner.v":7)
+NOTE  (EX0101) : Current top module is "guitar_audio_ddr_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "uart_rx_8n1" instantiated to "u_uart_rx" is swept in optimizing("E:\FPGA_Android_20261101\fpga_spi_work\src\guitar_uart_trigger.v":167)
+[95%] Generate netlist file "E:\FPGA_Android_20261101\fpga_spi_work\impl\gwsynthesis\mobile_spi.vg" completed
+[100%] Generate report file "E:\FPGA_Android_20261101\fpga_spi_work\impl\gwsynthesis\mobile_spi_syn.rpt.html" completed
+GowinSynthesis finish

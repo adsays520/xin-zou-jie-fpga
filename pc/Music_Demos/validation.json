@@ -1,0 +1,739 @@
+{
+  "generated_at": "2026-10-24T12:40:04.628179+08:00",
+  "projects": {
+    "p01_window_letter_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 87.27272727272727,
+      "tracks": 3,
+      "notes": 408,
+      "scheduled_events": 906,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 1,
+      "gated_peak_voices": {
+        "piano": 6
+      },
+      "maximum_bytes_per_100ms": 126,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 0
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 0
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 408
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "63876e31210a83e739cbf7324726134302b788333b8ba3b3cb3a418d6350e15b"
+    },
+    "p01_window_letter_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 21.818181818181817,
+      "tracks": 3,
+      "notes": 96,
+      "scheduled_events": 248,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 1,
+      "gated_peak_voices": {
+        "piano": 6
+      },
+      "maximum_bytes_per_100ms": 126,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 0
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 0
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 96
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "25dc9557f39e6c307277f5cf54979909cee4ed1897e2e6af679183894e9fbe0f"
+    },
+    "p02_blue_platform_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 76.8,
+      "tracks": 6,
+      "notes": 853,
+      "scheduled_events": 1824,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 4,
+      "gated_peak_voices": {
+        "piano": 6,
+        "bass": 1,
+        "drums": 2,
+        "guitar": 1
+      },
+      "maximum_bytes_per_100ms": 126,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 3
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 6
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 432,
+        "bass": 97,
+        "drums": 248,
+        "guitar": 76
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "a80c3160d83321a81b272f6d25b95a305b7665c350cb06ff62b49e06620a6c23"
+    },
+    "p02_blue_platform_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 19.2,
+      "tracks": 6,
+      "notes": 223,
+      "scheduled_events": 504,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 4,
+      "gated_peak_voices": {
+        "piano": 6,
+        "bass": 1,
+        "drums": 2,
+        "guitar": 1
+      },
+      "maximum_bytes_per_100ms": 144,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 3
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 6
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 102,
+        "bass": 25,
+        "drums": 72,
+        "guitar": 24
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "c3415075c05590d406ba94b427f967924a69a2dae61716c11be72dcf93869a78"
+    },
+    "p03_after_rain_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 96.0,
+      "tracks": 7,
+      "notes": 788,
+      "scheduled_events": 1702,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "bass": 1,
+        "drums": 2,
+        "guitar": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 126,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 2
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 2
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 408,
+        "bass": 49,
+        "drums": 248,
+        "guitar": 76,
+        "violin": 7
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "b5d256fad9d3569836f6b12ac31d52c8b6ca0b011a176b2d4810cd47a0a17266"
+    },
+    "p03_after_rain_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 24.0,
+      "tracks": 7,
+      "notes": 208,
+      "scheduled_events": 483,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "bass": 1,
+        "drums": 2,
+        "guitar": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 2
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 2
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 96,
+        "bass": 13,
+        "drums": 72,
+        "guitar": 24,
+        "violin": 3
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "41927624ce62083245382bb2374deed88f6fbd6abdc9dc5c3cf5f38a6096bf16"
+    },
+    "g01_iron_highway_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 70.58823529411765,
+      "tracks": 7,
+      "notes": 1269,
+      "scheduled_events": 2651,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 3,
+      "gated_peak_voices": {
+        "guitar": 5,
+        "bass": 1,
+        "drums": 3
+      },
+      "maximum_bytes_per_100ms": 108,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 18
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 8
+        }
+      },
+      "notes_per_instrument": {
+        "guitar": 568,
+        "bass": 137,
+        "drums": 564
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "2899177d2b1290752746f14b4c5d14c0506849a7ce95277dc6d113766396883d"
+    },
+    "g01_iron_highway_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 14.117647058823529,
+      "tracks": 7,
+      "notes": 241,
+      "scheduled_events": 531,
+      "automation_lanes": 6,
+      "simultaneous_instrument_types": 3,
+      "gated_peak_voices": {
+        "bass": 1,
+        "drums": 3,
+        "guitar": 4
+      },
+      "maximum_bytes_per_100ms": 132,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 17
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 8
+        }
+      },
+      "notes_per_instrument": {
+        "bass": 25,
+        "drums": 104,
+        "guitar": 112
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "6df566f942ba3d37325f8aace594101896fe9d4f53496798130c108263000efc"
+    },
+    "01_city_lights_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 71.11111111111111,
+      "tracks": 9,
+      "notes": 1307,
+      "scheduled_events": 2831,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "drums": 4,
+        "bass": 2,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 12
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 222,
+        "guitar": 301,
+        "drums": 566,
+        "bass": 101,
+        "violin": 117
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "776bff39656801ea09fcc980e189ed8425f191e4bf993d093873e97d7f1b4534"
+    },
+    "01_city_lights_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 17.77777777777778,
+      "tracks": 9,
+      "notes": 324,
+      "scheduled_events": 714,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "guitar": 5,
+        "bass": 2,
+        "drums": 4,
+        "piano": 6,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 138,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 10
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "guitar": 65,
+        "bass": 25,
+        "drums": 152,
+        "piano": 51,
+        "violin": 31
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "c20264faa7e7044aba9b6887f5d23308eefeeb624bc9ebfd8e6cc1ed73eaee86"
+    },
+    "02_rain_cafe_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 73.84615384615385,
+      "tracks": 9,
+      "notes": 691,
+      "scheduled_events": 1497,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "drums": 3,
+        "bass": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 6
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 4
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 159,
+        "guitar": 93,
+        "drums": 287,
+        "bass": 77,
+        "violin": 75
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "3b0d05896585e91413248bb4023296c43f652ee18a5dd5bbfceae5b00371ed1f"
+    },
+    "02_rain_cafe_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 24.615384615384617,
+      "tracks": 9,
+      "notes": 214,
+      "scheduled_events": 510,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "bass": 1,
+        "drums": 3,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 162,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 6
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 4
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 49,
+        "guitar": 29,
+        "bass": 25,
+        "drums": 86,
+        "violin": 25
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "b96742a0ec40b1eff304c46f6e014b21b6d8a1b0b350f9fa9d24352cf3cf8afb"
+    },
+    "03_northern_letter_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 80.0,
+      "tracks": 9,
+      "notes": 807,
+      "scheduled_events": 1731,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "drums": 3,
+        "bass": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 14
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 2
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 109,
+        "guitar": 321,
+        "drums": 261,
+        "bass": 41,
+        "violin": 75
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "54868daeb15fac84f0e456f9b7b4d3dd23e7567f33a36a20fac7481e5d43e271"
+    },
+    "03_northern_letter_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 26.666666666666668,
+      "tracks": 9,
+      "notes": 264,
+      "scheduled_events": 614,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "bass": 1,
+        "violin": 1,
+        "drums": 3
+      },
+      "maximum_bytes_per_100ms": 198,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 14
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 2
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 33,
+        "guitar": 113,
+        "bass": 13,
+        "violin": 25,
+        "drums": 80
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "ed879934b39a13f54abee7af15f51e9f847135eb0ba174fa37c7327fbe7a5c03"
+    },
+    "04_red_engine_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 61.935483870967744,
+      "tracks": 9,
+      "notes": 1161,
+      "scheduled_events": 2534,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "drums": 3,
+        "bass": 2,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 13
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 216,
+        "guitar": 257,
+        "drums": 448,
+        "bass": 101,
+        "violin": 139
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "3381a062215f782a1a430d3db2816bee4be768c193903ae0468f0c0ab9ebe473"
+    },
+    "04_red_engine_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 15.483870967741936,
+      "tracks": 9,
+      "notes": 274,
+      "scheduled_events": 609,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "bass": 2,
+        "violin": 1,
+        "drums": 3
+      },
+      "maximum_bytes_per_100ms": 168,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 13
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 49,
+        "guitar": 65,
+        "bass": 25,
+        "violin": 37,
+        "drums": 98
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "2aa8390c17407ee52d59607b6c7e2fe3c03539e1ec361c5c8d0de56df345f337"
+    },
+    "05_stellar_voyage_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 104.34782608695652,
+      "tracks": 9,
+      "notes": 1238,
+      "scheduled_events": 2698,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "drums": 4,
+        "bass": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 162,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 7
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 3
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 414,
+        "guitar": 153,
+        "drums": 517,
+        "bass": 69,
+        "violin": 85
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "81531a4a510c6eab9e37f3c2341324164bf43b7d57df100b52cb130044a24346"
+    },
+    "05_stellar_voyage_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 20.869565217391305,
+      "tracks": 9,
+      "notes": 237,
+      "scheduled_events": 535,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 5,
+        "bass": 1,
+        "violin": 1,
+        "drums": 4
+      },
+      "maximum_bytes_per_100ms": 180,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 7
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 3
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 78,
+        "guitar": 29,
+        "bass": 13,
+        "violin": 19,
+        "drums": 98
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "9f7705f2ca07964a8b352c3c51d4b01afd7c1389b96091ab8677c4f9a3eafb0f"
+    },
+    "06_neon_runway_full.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 80.0,
+      "tracks": 9,
+      "notes": 1465,
+      "scheduled_events": 3137,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "drums": 4,
+        "bass": 1,
+        "violin": 1
+      },
+      "maximum_bytes_per_100ms": 150,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 15
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 222,
+        "guitar": 451,
+        "drums": 593,
+        "bass": 104,
+        "violin": 95
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "b52c2da57db406b77c9fd43919ec4ecfd56176219f717718df403048a49489f2"
+    },
+    "06_neon_runway_short.tang.json": {
+      "hardware_compilation_passed": true,
+      "duration_seconds": 20.0,
+      "tracks": 9,
+      "notes": 389,
+      "scheduled_events": 845,
+      "automation_lanes": 7,
+      "simultaneous_instrument_types": 5,
+      "gated_peak_voices": {
+        "piano": 6,
+        "guitar": 6,
+        "bass": 1,
+        "violin": 1,
+        "drums": 4
+      },
+      "maximum_bytes_per_100ms": 198,
+      "UART_budget_bytes_per_100ms": 864,
+      "tail_load_estimate_not_measured": {
+        "guitar": {
+          "assumed_seconds": 1.4,
+          "peak_attacks_in_window": 15
+        },
+        "bass": {
+          "assumed_seconds": 3.0,
+          "peak_attacks_in_window": 7
+        }
+      },
+      "notes_per_instrument": {
+        "piano": 51,
+        "guitar": 119,
+        "bass": 26,
+        "violin": 25,
+        "drums": 168
+      },
+      "real_serial_connected": false,
+      "board_listening_validated": false,
+      "sha256": "542f6c5a24ab06ee20ff1bda91fb2869728bf9a39b7fb9ecbeb247e8ec8e5c7f"
+    }
+  },
+  "real_serial_connected": false,
+  "board_listening_validated": false
+}

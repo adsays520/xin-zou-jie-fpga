@@ -1,0 +1,2607 @@
+{
+  "name": "赤色引擎 · 精华8小节",
+  "bpm": 124,
+  "bars": 8,
+  "tracks": [
+    {
+      "instrument": "piano",
+      "name": "01 钢琴·和声",
+      "level": 90,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-24-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-24-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-24-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 66,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-24-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 59,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-24-note-4"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-24-note-5"
+            },
+            {
+              "start": 1208,
+              "duration": 408,
+              "pitch": 66,
+              "velocity": 62,
+              "id": "04_red_engine-clip-0-24-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-0-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-25-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-25-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 67,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-25-note-2"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-25-note-3"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 67,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-25-note-4"
+            }
+          ],
+          "id": "04_red_engine-clip-0-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-26-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-26-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-26-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 69,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-26-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 59,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-26-note-4"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 62,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-26-note-5"
+            },
+            {
+              "start": 1208,
+              "duration": 408,
+              "pitch": 69,
+              "velocity": 62,
+              "id": "04_red_engine-clip-0-26-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-0-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 62,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-27-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-27-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 66,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-27-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 69,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-27-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-27-note-4"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 66,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-27-note-5"
+            },
+            {
+              "start": 1208,
+              "duration": 408,
+              "pitch": 69,
+              "velocity": 62,
+              "id": "04_red_engine-clip-0-27-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-0-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-28-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-28-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 62,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-28-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-28-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 59,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-28-note-4"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 62,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-28-note-5"
+            },
+            {
+              "start": 1208,
+              "duration": 408,
+              "pitch": 67,
+              "velocity": 62,
+              "id": "04_red_engine-clip-0-28-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-0-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 528,
+              "pitch": 60,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-29-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 528,
+              "pitch": 64,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-29-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 528,
+              "pitch": 69,
+              "velocity": 68,
+              "id": "04_red_engine-clip-0-29-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 528,
+              "pitch": 67,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-29-note-3"
+            },
+            {
+              "start": 1200,
+              "duration": 408,
+              "pitch": 64,
+              "velocity": 66,
+              "id": "04_red_engine-clip-0-29-note-4"
+            },
+            {
+              "start": 1204,
+              "duration": 408,
+              "pitch": 69,
+              "velocity": 64,
+              "id": "04_red_engine-clip-0-29-note-5"
+            },
+            {
+              "start": 1208,
+              "duration": 408,
+              "pitch": 67,
+              "velocity": 62,
+              "id": "04_red_engine-clip-0-29-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-0-29"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 40,
+              "velocity": 80,
+              "id": "04_red_engine-clip-0-30-note-0"
+            },
+            {
+              "start": 4,
+              "duration": 1200,
+              "pitch": 55,
+              "velocity": 78,
+              "id": "04_red_engine-clip-0-30-note-1"
+            },
+            {
+              "start": 8,
+              "duration": 1200,
+              "pitch": 59,
+              "velocity": 76,
+              "id": "04_red_engine-clip-0-30-note-2"
+            },
+            {
+              "start": 12,
+              "duration": 1200,
+              "pitch": 64,
+              "velocity": 74,
+              "id": "04_red_engine-clip-0-30-note-3"
+            },
+            {
+              "start": 16,
+              "duration": 1200,
+              "pitch": 66,
+              "velocity": 72,
+              "id": "04_red_engine-clip-0-30-note-4"
+            },
+            {
+              "start": 20,
+              "duration": 1200,
+              "pitch": 76,
+              "velocity": 70,
+              "id": "04_red_engine-clip-0-30-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-0-30"
+        }
+      ],
+      "id": "04_red_engine-track-0"
+    },
+    {
+      "instrument": "piano",
+      "name": "02 钢琴·回答/固定音型",
+      "level": 77,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1200,
+              "duration": 168,
+              "pitch": 78,
+              "velocity": 64,
+              "id": "04_red_engine-clip-1-27-note-0"
+            },
+            {
+              "start": 1440,
+              "duration": 168,
+              "pitch": 76,
+              "velocity": 68,
+              "id": "04_red_engine-clip-1-27-note-1"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 86,
+              "velocity": 72,
+              "id": "04_red_engine-clip-1-27-note-2"
+            }
+          ],
+          "id": "04_red_engine-clip-1-27"
+        }
+      ],
+      "id": "04_red_engine-track-1"
+    },
+    {
+      "instrument": "guitar",
+      "name": "03 吉他·分解/Riff",
+      "level": 89,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 40,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-24-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 47,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-24-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 40,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-24-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 50,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-24-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 48,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-25-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 55,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-25-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 48,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-25-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 58,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-25-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 43,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-26-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 50,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-26-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 43,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-26-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 53,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-26-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 50,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-27-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 57,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-27-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 50,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-27-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 60,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-27-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 40,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-28-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 47,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-28-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 40,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-28-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 50,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-28-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 182,
+              "pitch": 45,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-29-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 182,
+              "pitch": 52,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-29-note-1"
+            },
+            {
+              "start": 960,
+              "duration": 182,
+              "pitch": 45,
+              "velocity": 91,
+              "id": "04_red_engine-clip-2-29-note-2"
+            },
+            {
+              "start": 1320,
+              "duration": 182,
+              "pitch": 55,
+              "velocity": 77,
+              "id": "04_red_engine-clip-2-29-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-2-29"
+        }
+      ],
+      "id": "04_red_engine-track-2"
+    },
+    {
+      "instrument": "guitar",
+      "name": "04 吉他·切分和弦",
+      "level": 80,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 40,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-24-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 47,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-24-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 54,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-24-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 40,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-24-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 47,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-24-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 54,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-24-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 48,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-25-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-25-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 59,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-25-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 48,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-25-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-25-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 59,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-25-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 43,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-26-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 50,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-26-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-26-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 43,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-26-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 50,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-26-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-26-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 50,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-27-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 57,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-27-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 62,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-27-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 50,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-27-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 57,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-27-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 62,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-27-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 40,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-28-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 47,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-28-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-28-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 40,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-28-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 47,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-28-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-28-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 720,
+              "duration": 168,
+              "pitch": 45,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-29-note-0"
+            },
+            {
+              "start": 729,
+              "duration": 168,
+              "pitch": 52,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-29-note-1"
+            },
+            {
+              "start": 738,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-29-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 168,
+              "pitch": 45,
+              "velocity": 83,
+              "id": "04_red_engine-clip-3-29-note-3"
+            },
+            {
+              "start": 1689,
+              "duration": 168,
+              "pitch": 52,
+              "velocity": 81,
+              "id": "04_red_engine-clip-3-29-note-4"
+            },
+            {
+              "start": 1698,
+              "duration": 168,
+              "pitch": 55,
+              "velocity": 79,
+              "id": "04_red_engine-clip-3-29-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-3-29"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1080,
+              "pitch": 40,
+              "velocity": 78,
+              "id": "04_red_engine-clip-3-30-note-0"
+            },
+            {
+              "start": 9,
+              "duration": 1080,
+              "pitch": 47,
+              "velocity": 76,
+              "id": "04_red_engine-clip-3-30-note-1"
+            },
+            {
+              "start": 18,
+              "duration": 1080,
+              "pitch": 54,
+              "velocity": 74,
+              "id": "04_red_engine-clip-3-30-note-2"
+            },
+            {
+              "start": 27,
+              "duration": 1080,
+              "pitch": 55,
+              "velocity": 72,
+              "id": "04_red_engine-clip-3-30-note-3"
+            },
+            {
+              "start": 36,
+              "duration": 1080,
+              "pitch": 59,
+              "velocity": 70,
+              "id": "04_red_engine-clip-3-30-note-4"
+            }
+          ],
+          "id": "04_red_engine-clip-3-30"
+        }
+      ],
+      "id": "04_red_engine-track-3"
+    },
+    {
+      "instrument": "bass",
+      "name": "05 Bass·节奏低音",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 28,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-24-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 35,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-24-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-24-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 28,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-24-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 36,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-25-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 43,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-25-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 48,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-25-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 36,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-25-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 31,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-26-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 38,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-26-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 43,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-26-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 31,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-26-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 38,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-27-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-27-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 50,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-27-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 38,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-27-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 28,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-28-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 35,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-28-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-28-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 28,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-28-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 384,
+              "pitch": 33,
+              "velocity": 94,
+              "id": "04_red_engine-clip-4-29-note-0"
+            },
+            {
+              "start": 720,
+              "duration": 384,
+              "pitch": 40,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-29-note-1"
+            },
+            {
+              "start": 1320,
+              "duration": 384,
+              "pitch": 45,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-29-note-2"
+            },
+            {
+              "start": 1680,
+              "duration": 240,
+              "pitch": 33,
+              "velocity": 84,
+              "id": "04_red_engine-clip-4-29-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-4-29"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1080,
+              "pitch": 28,
+              "velocity": 88,
+              "id": "04_red_engine-clip-4-30-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-4-30"
+        }
+      ],
+      "id": "04_red_engine-track-4"
+    },
+    {
+      "instrument": "violin",
+      "name": "06 小提琴·主旋律",
+      "level": 94,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-24-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-24-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-24-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 83,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-24-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-24-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-24-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 79,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-25-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 76,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-25-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-25-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-25-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-25-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-25-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 71,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-26-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 74,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-26-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 79,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-26-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 81,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-26-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 83,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-26-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 79,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-26-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 78,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-27-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 76,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-27-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-27-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 69,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-27-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 74,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-27-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 78,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-27-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 76,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-28-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-28-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 83,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-28-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 86,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-28-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 83,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-28-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 79,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-28-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 180,
+              "pitch": 81,
+              "velocity": 98,
+              "id": "04_red_engine-clip-5-29-note-0"
+            },
+            {
+              "start": 240,
+              "duration": 300,
+              "pitch": 79,
+              "velocity": 93,
+              "id": "04_red_engine-clip-5-29-note-1"
+            },
+            {
+              "start": 600,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 92,
+              "id": "04_red_engine-clip-5-29-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 240,
+              "pitch": 72,
+              "velocity": 91,
+              "id": "04_red_engine-clip-5-29-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 240,
+              "pitch": 76,
+              "velocity": 90,
+              "id": "04_red_engine-clip-5-29-note-4"
+            },
+            {
+              "start": 1680,
+              "duration": 180,
+              "pitch": 79,
+              "velocity": 94,
+              "id": "04_red_engine-clip-5-29-note-5"
+            }
+          ],
+          "id": "04_red_engine-clip-5-29"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 1200,
+              "pitch": 76,
+              "velocity": 89,
+              "id": "04_red_engine-clip-5-30-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-5-30"
+        }
+      ],
+      "id": "04_red_engine-track-5"
+    },
+    {
+      "instrument": "drums",
+      "name": "07 鼓·底鼓军鼓",
+      "level": 100,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-24-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-24-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-24-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-24-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-24-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-24-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-24-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-25-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-25-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-25-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-25-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-25-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-25-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-25-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-26-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-26-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-26-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-26-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-26-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-26-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-26-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-27-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-27-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-27-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-27-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-27-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-27-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-27-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-28-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-28-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-28-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-28-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-28-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-28-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-28-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-29-note-0"
+            },
+            {
+              "start": 360,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-29-note-1"
+            },
+            {
+              "start": 720,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-29-note-2"
+            },
+            {
+              "start": 960,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-29-note-3"
+            },
+            {
+              "start": 1320,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 101,
+              "id": "04_red_engine-clip-6-29-note-4"
+            },
+            {
+              "start": 486,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-29-note-5"
+            },
+            {
+              "start": 1446,
+              "duration": 60,
+              "pitch": 1,
+              "velocity": 110,
+              "id": "04_red_engine-clip-6-29-note-6"
+            }
+          ],
+          "id": "04_red_engine-clip-6-29"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 0,
+              "velocity": 90,
+              "id": "04_red_engine-clip-6-30-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-6-30"
+        }
+      ],
+      "id": "04_red_engine-track-6"
+    },
+    {
+      "instrument": "drums",
+      "name": "08 鼓·镲片",
+      "level": 91,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 58,
+              "id": "04_red_engine-clip-7-24-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 42,
+              "id": "04_red_engine-clip-7-24-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 58,
+              "id": "04_red_engine-clip-7-24-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 42,
+              "id": "04_red_engine-clip-7-24-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 58,
+              "id": "04_red_engine-clip-7-24-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 42,
+              "id": "04_red_engine-clip-7-24-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 58,
+              "id": "04_red_engine-clip-7-24-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 42,
+              "id": "04_red_engine-clip-7-24-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-24"
+        },
+        {
+          "name": "回归 · Cmaj7",
+          "start": 1920,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 59,
+              "id": "04_red_engine-clip-7-25-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 43,
+              "id": "04_red_engine-clip-7-25-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 59,
+              "id": "04_red_engine-clip-7-25-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 43,
+              "id": "04_red_engine-clip-7-25-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 59,
+              "id": "04_red_engine-clip-7-25-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 43,
+              "id": "04_red_engine-clip-7-25-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 59,
+              "id": "04_red_engine-clip-7-25-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 43,
+              "id": "04_red_engine-clip-7-25-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-25"
+        },
+        {
+          "name": "回归 · Gadd9",
+          "start": 3840,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 60,
+              "id": "04_red_engine-clip-7-26-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 44,
+              "id": "04_red_engine-clip-7-26-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 60,
+              "id": "04_red_engine-clip-7-26-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 44,
+              "id": "04_red_engine-clip-7-26-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 60,
+              "id": "04_red_engine-clip-7-26-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 44,
+              "id": "04_red_engine-clip-7-26-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 60,
+              "id": "04_red_engine-clip-7-26-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 44,
+              "id": "04_red_engine-clip-7-26-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-26"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "04_red_engine-clip-7-27-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 45,
+              "id": "04_red_engine-clip-7-27-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "04_red_engine-clip-7-27-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 45,
+              "id": "04_red_engine-clip-7-27-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "04_red_engine-clip-7-27-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 45,
+              "id": "04_red_engine-clip-7-27-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 61,
+              "id": "04_red_engine-clip-7-27-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 45,
+              "id": "04_red_engine-clip-7-27-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 62,
+              "id": "04_red_engine-clip-7-28-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 46,
+              "id": "04_red_engine-clip-7-28-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 62,
+              "id": "04_red_engine-clip-7-28-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 46,
+              "id": "04_red_engine-clip-7-28-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 62,
+              "id": "04_red_engine-clip-7-28-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 46,
+              "id": "04_red_engine-clip-7-28-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 62,
+              "id": "04_red_engine-clip-7-28-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 46,
+              "id": "04_red_engine-clip-7-28-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-28"
+        },
+        {
+          "name": "回归 · Am7",
+          "start": 9600,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 63,
+              "id": "04_red_engine-clip-7-29-note-0"
+            },
+            {
+              "start": 250,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "04_red_engine-clip-7-29-note-1"
+            },
+            {
+              "start": 480,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 63,
+              "id": "04_red_engine-clip-7-29-note-2"
+            },
+            {
+              "start": 730,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "04_red_engine-clip-7-29-note-3"
+            },
+            {
+              "start": 960,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 63,
+              "id": "04_red_engine-clip-7-29-note-4"
+            },
+            {
+              "start": 1210,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 47,
+              "id": "04_red_engine-clip-7-29-note-5"
+            },
+            {
+              "start": 1440,
+              "duration": 48,
+              "pitch": 2,
+              "velocity": 63,
+              "id": "04_red_engine-clip-7-29-note-6"
+            },
+            {
+              "start": 1690,
+              "duration": 48,
+              "pitch": 3,
+              "velocity": 47,
+              "id": "04_red_engine-clip-7-29-note-7"
+            }
+          ],
+          "id": "04_red_engine-clip-7-29"
+        }
+      ],
+      "id": "04_red_engine-track-7"
+    },
+    {
+      "instrument": "drums",
+      "name": "09 鼓·过门",
+      "level": 94,
+      "muted": false,
+      "solo": false,
+      "clips": [
+        {
+          "name": "回归 · Em9",
+          "start": 0,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 73,
+              "id": "04_red_engine-clip-8-24-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-8-24"
+        },
+        {
+          "name": "回归 · Dadd9",
+          "start": 5760,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 1440,
+              "duration": 60,
+              "pitch": 9,
+              "velocity": 65,
+              "id": "04_red_engine-clip-8-27-note-0"
+            },
+            {
+              "start": 1560,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 71,
+              "id": "04_red_engine-clip-8-27-note-1"
+            },
+            {
+              "start": 1680,
+              "duration": 60,
+              "pitch": 8,
+              "velocity": 77,
+              "id": "04_red_engine-clip-8-27-note-2"
+            },
+            {
+              "start": 1800,
+              "duration": 60,
+              "pitch": 7,
+              "velocity": 83,
+              "id": "04_red_engine-clip-8-27-note-3"
+            }
+          ],
+          "id": "04_red_engine-clip-8-27"
+        },
+        {
+          "name": "回归 · Em7",
+          "start": 7680,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 73,
+              "id": "04_red_engine-clip-8-28-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-8-28"
+        },
+        {
+          "name": "收束 · Em9",
+          "start": 11520,
+          "length": 1920,
+          "notes": [
+            {
+              "start": 0,
+              "duration": 60,
+              "pitch": 5,
+              "velocity": 63,
+              "id": "04_red_engine-clip-8-30-note-0"
+            }
+          ],
+          "id": "04_red_engine-clip-8-30"
+        }
+      ],
+      "id": "04_red_engine-track-8"
+    }
+  ],
+  "automation": [
+    {
+      "target": "bus.guitar",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 39
+        },
+        {
+          "tick": 11520,
+          "value": 33
+        },
+        {
+          "tick": 13440,
+          "value": 33
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.piano",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 36
+        },
+        {
+          "tick": 11520,
+          "value": 31
+        },
+        {
+          "tick": 13440,
+          "value": 31
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.drums",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 35
+        },
+        {
+          "tick": 11520,
+          "value": 30
+        },
+        {
+          "tick": 13440,
+          "value": 30
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.bass",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 42
+        },
+        {
+          "tick": 11520,
+          "value": 36
+        },
+        {
+          "tick": 13440,
+          "value": 36
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "bus.violin",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 45
+        },
+        {
+          "tick": 11520,
+          "value": 38
+        },
+        {
+          "tick": 13440,
+          "value": 38
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.delay_mix",
+      "interpolation": "linear",
+      "points": [
+        {
+          "tick": 0,
+          "value": 14
+        },
+        {
+          "tick": 11520,
+          "value": 10
+        },
+        {
+          "tick": 13440,
+          "value": 10
+        },
+        {
+          "tick": 15120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "target": "space.chorus_mix",
+      "interpolation": "step",
+      "points": [
+        {
+          "tick": 0,
+          "value": 11
+        },
+        {
+          "tick": 11520,
+          "value": 8
+        }
+      ]
+    }
+  ],
+  "parameters": {
+    "bus.guitar": 39,
+    "bus.piano": 36,
+    "bus.drums": 35,
+    "bus.violin": 45,
+    "bus.bass": 42,
+    "space.chorus_mix": 11,
+    "space.chorus_rate": 24,
+    "space.chorus_depth": 24,
+    "space.delay_mix": 14,
+    "space.delay_time": 93,
+    "space.delay_feedback": 23,
+    "guitar.amp": 2,
+    "guitar.drive": 28,
+    "guitar.tone": 53,
+    "guitar.level": 77,
+    "guitar.mix": 43,
+    "guitar.modulation": 0,
+    "guitar.rate": 40,
+    "guitar.depth": 64,
+    "guitar.threshold": 32,
+    "guitar.cabinet": 1,
+    "guitar.gate": 0,
+    "guitar.compressor": 0
+  },
+  "loop_start": 0,
+  "loop_end": 15360,
+  "format": "tang-arrangement-v1"
+}

@@ -1,0 +1,19 @@
+{
+  "public_repository": "https://github.com/adsays520/xin-zou-jie-fpga",
+  "version": "v2026.11.04",
+  "removed": [
+    "android/keystore/debug.keystore"
+  ],
+  "changed": [
+    "android/app/build.gradle",
+    "README.md",
+    "SHA256SUMS.txt"
+  ],
+  "apk_changed": false,
+  "pc_changed": false,
+  "s3_changed": false,
+  "fpga_changed": false,
+  "original_archive_sha256": "afc48294563e6108e7f0bbf5616f510011fe57ead0f1845d175586286826d448",
+  "hardware_connected": false,
+  "firmware_written": false
+}

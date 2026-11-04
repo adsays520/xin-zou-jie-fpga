@@ -1,0 +1,3 @@
+01..06: original compositions generated in the user workspace.
+Twinkle: traditional public-domain melody; local arrangement.
+Mutopia_Fur_Elise_931.mid: Beethoven, typeset by Stelios Samelis. Source https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=931 ; source labels Public Domain. Download https://www.mutopiaproject.org/ftp/BeethovenLv/WoO59/fur_Elise_WoO59/fur_Elise_WoO59.mid
